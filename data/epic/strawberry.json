@@ -1,0 +1,25 @@
+{
+  "slug": "strawberry",
+  "books": [
+    {
+      "title": "Watch a Strawberry Grow",
+      "author": "Kirsten Chang",
+      "url": "https://www.getepic.com/book/66016733/watch-a-strawberry-grow",
+      "lexile": "290L",
+      "age": 6,
+      "publisher": "Bullfrog Books",
+      "about": "This book uses photos to show how strawberries grow.",
+      "cite": "Chang, Kirsten. Watch a Strawberry Grow. Bullfrog Books."
+    },
+    {
+      "title": "From Seed to Strawberry",
+      "author": "Mari Schuh",
+      "url": "https://www.getepic.com/book/40753704/from-seed-to-strawberry",
+      "lexile": "490L",
+      "age": 7,
+      "publisher": "Lerner Publications",
+      "about": "This book follows each step from a seed to a yummy strawberry.",
+      "cite": "Schuh, Mari. From Seed to Strawberry. Lerner Publications."
+    }
+  ]
+}

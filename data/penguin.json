@@ -1,0 +1,165 @@
+{
+  "slug": "penguin",
+  "name": "Penguin",
+  "kind": "animal",
+  "group": "Bird",
+  "habitat": "Ocean",
+  "intro": "A penguin is a bird that cannot fly. It is a great swimmer.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A penguin is a bird with feathers.",
+        "It has a dark back and a white front.",
+        "Its wings are flat flippers.",
+        "Thick feathers keep it warm in cold water.",
+        "An emperor penguin is about as tall as a first grader."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Most penguins live in the south part of the world.",
+        "Some penguins live on the ice in Antarctica.",
+        "Some penguins live on warm beaches in Africa.",
+        "No penguins live near the North Pole.",
+        "Penguins spend lots of time in the ocean."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Penguins eat fish, squid, and krill.",
+        "They catch their food in the ocean.",
+        "They swallow their food whole.",
+        "Their spiky tongues help hold slippery fish."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "Penguins hatch from eggs.",
+        "Most penguins lay two eggs.",
+        "An emperor penguin dad keeps the egg warm on his feet.",
+        "Moms and dads bring food to the chicks.",
+        "Some chicks stay together in a big group."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Penguins cannot fly in the air.",
+        "They seem to fly through the water.",
+        "Gentoo penguins are the fastest swimming birds.",
+        "Penguins can drink salty sea water.",
+        "African penguins can sound like donkeys."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Flipper",
+      "meaning": "A flat wing that helps an animal swim."
+    },
+    {
+      "word": "Chick",
+      "meaning": "A baby bird."
+    },
+    {
+      "word": "Krill",
+      "meaning": "Tiny sea animals that look like little shrimp."
+    },
+    {
+      "word": "Antarctica",
+      "meaning": "The very cold land at the bottom of the Earth."
+    },
+    {
+      "word": "Colony",
+      "meaning": "A big group of penguins that live together."
+    }
+  ],
+  "photos": [
+    {
+      "file": "penguin-1.jpg",
+      "alt": "A gentoo penguin standing on rocks",
+      "credit": "Godot13",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Brown_Bluff-2016-Tabarin_Peninsula%E2%80%93Gentoo_penguin_(Pygoscelis_papua)_03.jpg"
+    },
+    {
+      "file": "penguin-2.jpg",
+      "alt": "An emperor penguin jumping out of the water onto the ice",
+      "credit": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Penguin_in_Antarctica_jumping_out_of_the_water.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Meet 3 Peculiar Penguins | Animal Science for Kids",
+      "url": "https://www.youtube.com/watch?v=T8Wp2yWH_3E",
+      "channel": "SciShow Kids",
+      "about": "Jessi and Squeaks meet three different kinds of penguins.",
+      "cite": "\"Meet 3 Peculiar Penguins | Animal Science for Kids.\" SciShow Kids. 2015."
+    },
+    {
+      "title": "Penguins, Birds That Fly in Water! | SciShow Kids",
+      "url": "https://www.youtube.com/watch?v=kRrDox31-wk",
+      "channel": "SciShow Kids",
+      "about": "Learn about penguins that swim in the cold sea near the South Pole.",
+      "cite": "\"Penguins, Birds That Fly in Water! | SciShow Kids.\" SciShow Kids. 2024."
+    }
+  ],
+  "sources": [
+    {
+      "title": "African penguin",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/african-penguin",
+      "level": "Easy",
+      "about": "Short facts about penguins that live on beaches in Africa.",
+      "cite": "\"African penguin.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Emperor Penguin",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/birds/facts/emperor-penguin",
+      "level": "Read together",
+      "about": "Learn how emperor penguin dads keep their eggs warm.",
+      "cite": "\"Emperor Penguin.\" National Geographic Kids."
+    },
+    {
+      "title": "Penguin facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Penguin",
+      "level": "Read together",
+      "about": "Lots of facts about all kinds of penguins.",
+      "cite": "\"Penguin facts for kids.\" Kiddle."
+    }
+  ]
+}

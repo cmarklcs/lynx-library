@@ -1,0 +1,25 @@
+{
+  "slug": "monarch-butterfly",
+  "books": [
+    {
+      "title": "Monarch Butterflies",
+      "author": "Joyce Markovics",
+      "url": "https://www.getepic.com/book/47627461/monarch-butterflies",
+      "lexile": "490L",
+      "age": 5,
+      "publisher": "Bearport Publishing",
+      "about": "This book tells where monarch butterflies go in winter and how far they fly.",
+      "cite": "Markovics, Joyce. Monarch Butterflies. Bearport Publishing."
+    },
+    {
+      "title": "Monarch Butterfly Migration",
+      "author": "Grace Hansen",
+      "url": "https://www.getepic.com/book/65833418/monarch-butterfly-migration",
+      "lexile": "500L",
+      "age": 6,
+      "publisher": "ABDO Kids",
+      "about": "This book tells why, when, and where monarch butterflies travel.",
+      "cite": "Hansen, Grace. Monarch Butterfly Migration. ABDO Kids."
+    }
+  ]
+}

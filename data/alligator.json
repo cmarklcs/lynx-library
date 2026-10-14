@@ -1,0 +1,167 @@
+{
+  "slug": "alligator",
+  "name": "Alligator",
+  "kind": "animal",
+  "group": "Reptile",
+  "habitat": "Swamp",
+  "intro": "An alligator is a big reptile that lives in swamps and rivers. Mother alligators take good care of their babies.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "An alligator is a big reptile.",
+        "It has thick, bumpy skin like armor.",
+        "Its tail is half as long as its whole body.",
+        "It has a wide, rounded snout.",
+        "Most grown alligators are longer than a bed."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "American alligators live in the southeastern United States.",
+        "Many live in Florida and Louisiana.",
+        "They live in swamps, marshes, rivers, and lakes.",
+        "They like fresh water."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Alligators eat fish, frogs, turtles, and snakes.",
+        "Young alligators eat bugs, snails, and small fish.",
+        "As they grow bigger, they eat bigger animals.",
+        "An alligator can go a long time between meals."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A mother alligator builds a nest of leaves and soil.",
+        "She lays her eggs inside and guards them.",
+        "The babies make little noises inside their eggs.",
+        "The mother carries her babies to the water in her mouth.",
+        "The young stay near their mother for a year or two."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Alligators are the noisiest reptiles.",
+        "They bellow loudly to talk to each other.",
+        "An alligator can use about 3,000 teeth in its life.",
+        "Alligators keep growing their whole lives.",
+        "An alligator rests with its mouth open to cool off."
+      ],
+      "from": [
+        0,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "reptile",
+      "meaning": "An animal with scaly skin, like an alligator or snake."
+    },
+    {
+      "word": "snout",
+      "meaning": "An animal's long nose and mouth."
+    },
+    {
+      "word": "swamp",
+      "meaning": "Wet land with shallow water and plants."
+    },
+    {
+      "word": "hatchling",
+      "meaning": "A baby animal that just came out of its egg."
+    }
+  ],
+  "photos": [
+    {
+      "file": "alligator-1.jpg",
+      "alt": "An American alligator resting in shallow water",
+      "credit": "Ianaré Sévi",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Alligator_mississipiensis_FL.JPG"
+    },
+    {
+      "file": "alligator-2.jpg",
+      "alt": "Two baby alligators with yellow stripes sitting on a rock",
+      "credit": "Ianaré Sévi",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Alligator_mississippiensis_2_babies.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Cool Facts About Alligators and Crocodiles | Things You Wanna Know | Nat Geo Kids",
+      "url": "https://www.youtube.com/watch?v=0wRdFr1t7iI",
+      "channel": "Nat Geo Kids",
+      "about": "Find out how alligators and crocodiles are different.",
+      "cite": "\"Cool Facts About Alligators and Crocodiles | Things You Wanna Know | Nat Geo Kids.\" Nat Geo Kids. 2018."
+    }
+  ],
+  "sources": [
+    {
+      "title": "American alligator",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/american-alligator",
+      "level": "Easy",
+      "about": "A kids page about alligator food, nests, and sounds.",
+      "cite": "\"American alligator.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "American Alligator",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/reptiles/facts/american-alligator",
+      "level": "Easy",
+      "about": "Short facts and photos about alligators and their babies.",
+      "cite": "\"American Alligator.\" National Geographic Kids."
+    },
+    {
+      "title": "American alligator",
+      "site": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/american-alligator",
+      "level": "Read together",
+      "about": "Lots of facts about alligator homes, nests, and teeth.",
+      "cite": "\"American alligator.\" Smithsonian's National Zoo."
+    },
+    {
+      "title": "Alligator Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/American_alligator",
+      "level": "Read together",
+      "about": "Facts about alligator snouts, nests, and sounds.",
+      "cite": "\"Alligator Facts for Kids.\" Kiddle."
+    }
+  ]
+}

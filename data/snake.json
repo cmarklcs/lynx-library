@@ -1,0 +1,158 @@
+{
+  "slug": "snake",
+  "name": "Snake",
+  "kind": "animal",
+  "group": "Reptile",
+  "habitat": "Forest",
+  "intro": "A snake is a reptile with a long body and no legs. There are thousands of kinds of snakes.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A snake is a reptile.",
+        "It has a long body and no legs.",
+        "Its body is covered with scales.",
+        "A snake has no eyelids, so it cannot blink.",
+        "Some snakes are shorter than a pencil."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Snakes live on every continent but Antarctica.",
+        "They live in forests, swamps, grasslands, and deserts.",
+        "Some snakes live in water, even in the ocean.",
+        "Most snakes live in warm places."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "All snakes eat other animals.",
+        "They eat mice, fish, frogs, and eggs.",
+        "Snakes cannot chew.",
+        "They swallow their food whole.",
+        "After a big meal, a snake may not eat for weeks."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "Many baby snakes hatch from eggs.",
+        "Some baby snakes are born alive.",
+        "Most baby snakes take care of themselves.",
+        "Snakes keep growing their whole lives.",
+        "They shed their old skin as they grow."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A snake flicks its tongue to smell the air.",
+        "Snakes move by squeezing their muscles.",
+        "Some tree snakes can glide from tree to tree.",
+        "Sea snakes use their flat tails like paddles.",
+        "Most snakes are not dangerous to people."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "reptile",
+      "meaning": "An animal with scaly skin, like a snake or turtle."
+    },
+    {
+      "word": "scales",
+      "meaning": "Small, hard pieces that cover an animal's skin."
+    },
+    {
+      "word": "shed",
+      "meaning": "To lose old skin so new skin can show."
+    },
+    {
+      "word": "carnivore",
+      "meaning": "An animal that eats other animals."
+    }
+  ],
+  "photos": [
+    {
+      "file": "snake-1.jpg",
+      "alt": "A long brown water snake swimming in a pond",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Viperine_water_snake_(Natrix_maura).jpg"
+    },
+    {
+      "file": "snake-2.jpg",
+      "alt": "A grass snake with yellow marks flicking its tongue",
+      "credit": "Darius Bauzys",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Grass_Snake_-_Natrix_natrix.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Amazing Snakes!",
+      "url": "https://www.youtube.com/watch?v=BKH1TZ87Z1Q",
+      "channel": "SciShow Kids",
+      "about": "Jessi and Squeaks learn what is true and what is not true about snakes.",
+      "cite": "\"Amazing Snakes!.\" SciShow Kids. 2017."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Snake",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/snake",
+      "level": "Easy",
+      "about": "A kids page about snake bodies, homes, and food.",
+      "cite": "\"Snake.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Snake",
+      "site": "San Diego Zoo Animals & Plants",
+      "url": "https://animals.sandiegozoo.org/animals/snake",
+      "level": "Read together",
+      "about": "Lots of facts about how snakes move, eat, and grow.",
+      "cite": "\"Snake.\" San Diego Zoo Animals & Plants."
+    },
+    {
+      "title": "Snake Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Snake",
+      "level": "Read together",
+      "about": "Facts about snake scales, tongues, and sizes.",
+      "cite": "\"Snake Facts for Kids.\" Kiddle."
+    }
+  ]
+}

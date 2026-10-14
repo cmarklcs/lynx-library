@@ -1,0 +1,25 @@
+{
+  "slug": "honeybee",
+  "books": [
+    {
+      "title": "Honeybees",
+      "author": "Christina Leaf",
+      "url": "https://www.getepic.com/book/56826541/honeybees",
+      "lexile": "210L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "This book uses big, close-up photos to show honeybees and what they do.",
+      "cite": "Leaf, Christina. Honeybees. Bellwether Media."
+    },
+    {
+      "title": "Honey Bees",
+      "author": "Alan Walker",
+      "url": "https://www.getepic.com/book/68529815/honey-bees",
+      "lexile": "400L",
+      "age": 6,
+      "publisher": "Blue Door Education",
+      "about": "This book shows how honey bees live, find food, and help plants.",
+      "cite": "Walker, Alan. Honey Bees. Blue Door Education."
+    }
+  ]
+}

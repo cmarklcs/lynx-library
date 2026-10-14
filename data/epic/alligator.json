@@ -1,0 +1,25 @@
+{
+  "slug": "alligator",
+  "books": [
+    {
+      "title": "Magic Readers: Alligators",
+      "author": "Bridget O'Brien",
+      "url": "https://www.getepic.com/book/12446535/magic-readers-alligators",
+      "lexile": "270L",
+      "age": 6,
+      "publisher": "Magic Readers",
+      "about": "This book uses short sentences to teach about the American alligator.",
+      "cite": "O'Brien, Bridget. Alligators. Magic Readers."
+    },
+    {
+      "title": "Alligators: Animal Safari",
+      "author": "Derek Zobel",
+      "url": "https://www.getepic.com/book/7523694/alligators-animal-safari",
+      "lexile": "450L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "This book shows an alligator's strong tail and big jaws up close.",
+      "cite": "Zobel, Derek. Alligators. Bellwether Media."
+    }
+  ]
+}

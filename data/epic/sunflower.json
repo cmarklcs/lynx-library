@@ -1,0 +1,35 @@
+{
+  "slug": "sunflower",
+  "books": [
+    {
+      "title": "See a Plant Grow!: Sunflower",
+      "author": "Charlie W. Sterling",
+      "url": "https://www.getepic.com/book/90252087/see-a-plant-grow-sunflower",
+      "lexile": "AD190L",
+      "age": 5,
+      "publisher": "Tadpole Books",
+      "about": "This book shows how a sunflower grows from a seed.",
+      "cite": "Sterling, Charlie W.. Sunflower. Tadpole Books."
+    },
+    {
+      "title": "Sunflower (See It Grow)",
+      "author": "Joyce Markovics",
+      "url": "https://www.getepic.com/book/41412527/sunflower-see-it-grow",
+      "lexile": "520L",
+      "age": 6,
+      "publisher": "Bearport Publishing",
+      "about": "This book shows how a tall sunflower grows.",
+      "cite": "Markovics, Joyce. Sunflower. Bearport Publishing."
+    },
+    {
+      "title": "From Seed to Sunflower",
+      "author": "Mari Schuh",
+      "url": "https://www.getepic.com/book/40754815/from-seed-to-sunflower",
+      "lexile": "510L",
+      "age": 7,
+      "publisher": "Lerner Publications",
+      "about": "This book follows a sunflower from seed to flower and back to seeds.",
+      "cite": "Schuh, Mari. From Seed to Sunflower. Lerner Publications."
+    }
+  ]
+}

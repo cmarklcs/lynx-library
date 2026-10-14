@@ -1,0 +1,171 @@
+{
+  "slug": "polar-bear",
+  "name": "Polar Bear",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Arctic",
+  "intro": "A polar bear is a big white bear. It lives where it is very cold.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A polar bear is a very big bear.",
+        "It is the biggest bear in the world.",
+        "Its fur looks white.",
+        "Its skin under the fur is black.",
+        "Thick fat keeps it warm."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Polar bears live in the Arctic.",
+        "The Arctic is very cold and icy.",
+        "They spend lots of time on sea ice.",
+        "In summer, the ice melts and they walk on land."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Polar bears eat mostly seals.",
+        "They wait by holes in the ice.",
+        "Seals come up to the holes to breathe.",
+        "Polar bears can smell a seal from far away.",
+        "Sometimes they eat berries or seaweed."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "Baby polar bears are called cubs.",
+        "Cubs are born in a snow den in winter.",
+        "A new cub is as small as a stick of butter.",
+        "In spring, the cubs go outside with mom.",
+        "Mom teaches them how to hunt."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Polar bears are great swimmers.",
+        "Their big front paws help them paddle.",
+        "They clean their fur by rolling in snow.",
+        "Each hair is clear, not really white.",
+        "Polar bears do not hibernate all winter."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Arctic",
+      "meaning": "The very cold land and sea at the top of the Earth."
+    },
+    {
+      "word": "Cub",
+      "meaning": "A baby bear, lion, or tiger."
+    },
+    {
+      "word": "Den",
+      "meaning": "A safe hiding place where an animal rests."
+    },
+    {
+      "word": "Mammal",
+      "meaning": "An animal with hair or fur that feeds its babies milk."
+    }
+  ],
+  "photos": [
+    {
+      "file": "polar-bear-1.jpg",
+      "alt": "A polar bear jumping from one piece of ice to another",
+      "credit": "Andreas Weith",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus_maritimus)_in_the_drift_ice_region_north_of_Svalbard.jpg"
+    },
+    {
+      "file": "polar-bear-2.jpg",
+      "alt": "A mother polar bear standing with her two cubs",
+      "credit": "Susanne Miller, U.S. Fish and Wildlife Service",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Polar_bear_female_with_young_cubs_ursus_maritimus.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Polar Bear | Amazing Animals",
+      "url": "https://www.youtube.com/watch?v=XdCaBF8NJ00",
+      "channel": "Nat Geo Kids",
+      "about": "A short video about polar bears and how far they can swim.",
+      "cite": "\"Polar Bear | Amazing Animals.\" Nat Geo Kids. 2016."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Polar bear",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/polar-bear",
+      "level": "Easy",
+      "about": "Short facts about polar bears and their tiny cubs.",
+      "cite": "\"Polar bear.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Polar Bear",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/polar-bear",
+      "level": "Read together",
+      "about": "Learn how polar bears hunt and how moms care for cubs.",
+      "cite": "\"Polar Bear.\" National Geographic Kids."
+    },
+    {
+      "title": "Polar bear facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Polar_bear",
+      "level": "Read together",
+      "about": "Lots of facts about polar bear fur, food, and cubs.",
+      "cite": "\"Polar bear facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Polar Bears",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/polarbear.php",
+      "level": "Read together",
+      "about": "Fun facts about where polar bears live and what they eat.",
+      "cite": "\"Polar Bears.\" Ducksters."
+    }
+  ]
+}

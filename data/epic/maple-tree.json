@@ -1,0 +1,25 @@
+{
+  "slug": "maple-tree",
+  "books": [
+    {
+      "title": "See a Plant Grow!: Maple Tree",
+      "author": "Charlie W. Sterling",
+      "url": "https://www.getepic.com/book/90249865/see-a-plant-grow-maple-tree",
+      "lexile": "180L",
+      "age": 5,
+      "publisher": "Tadpole Books",
+      "about": "This book shows how a maple tree grows from a seed.",
+      "cite": "Sterling, Charlie W.. Maple Tree. Tadpole Books."
+    },
+    {
+      "title": "Maple Trees",
+      "author": "Rebecca Stromstad Glaser",
+      "url": "https://www.getepic.com/book/14164141/maple-trees",
+      "lexile": "320L",
+      "age": 5,
+      "publisher": "Jump!",
+      "about": "This book shows the parts of a maple tree and how to spot one.",
+      "cite": "Glaser, Rebecca Stromstad. Maple Trees. Jump!."
+    }
+  ]
+}

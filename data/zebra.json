@@ -1,0 +1,177 @@
+{
+  "slug": "zebra",
+  "name": "Zebra",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Savanna",
+  "intro": "A zebra is a wild animal in the horse family. It has black and white stripes.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A zebra looks like a horse with stripes.",
+        "It has black and white stripes.",
+        "Its skin under the fur is black.",
+        "No two zebras have the same stripes.",
+        "There are three kinds of zebras."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Zebras live in Africa.",
+        "Most zebras live on grassy savannas.",
+        "Some zebras live in the mountains.",
+        "They walk far to find grass and water."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Zebras are herbivores, so they eat only plants.",
+        "They mostly eat grass.",
+        "Sometimes they eat leaves, bark, or fruit.",
+        "They spend most of the day eating.",
+        "Their teeth keep growing their whole life."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby zebra is called a foal.",
+        "A foal can stand about 20 minutes after it is born.",
+        "A new foal has brown and white stripes.",
+        "It learns its mom's stripes, smell, and voice.",
+        "It drinks its mom's milk for many months."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Zebras live in groups called herds.",
+        "Zebras can sleep standing up.",
+        "Zebras help clean each other's fur.",
+        "Zebras like to roll in the dust.",
+        "Stripes may help keep biting flies away."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ],
+      "fromVideos": [
+        0
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Foal",
+      "meaning": "A baby zebra or horse."
+    },
+    {
+      "word": "Herd",
+      "meaning": "A big group of animals that live together."
+    },
+    {
+      "word": "Stripes",
+      "meaning": "Long lines of color."
+    },
+    {
+      "word": "Herbivore",
+      "meaning": "An animal that eats only plants."
+    },
+    {
+      "word": "Savanna",
+      "meaning": "A hot, grassy land with a few trees."
+    }
+  ],
+  "photos": [
+    {
+      "file": "zebra-1.jpg",
+      "alt": "A plains zebra standing in the grass",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Plains_zebra_(Equus_quagga)_Kruger.jpg"
+    },
+    {
+      "file": "zebra-2.jpg",
+      "alt": "A baby zebra drinking milk from its mother",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Plains_zebra_(Equus_quagga)_foal_suckling_Maputo.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Why Do Zebras Have Stripes? | Animal Science for Kids",
+      "url": "https://www.youtube.com/watch?v=GhfBOyPQqX0",
+      "channel": "SciShow Kids",
+      "about": "Jessi and Squeaks find out why zebras might have stripes.",
+      "cite": "\"Why Do Zebras Have Stripes? | Animal Science for Kids.\" SciShow Kids. 2017."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Zebra",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/zebra",
+      "level": "Easy",
+      "about": "Short facts about zebra stripes and baby zebras.",
+      "cite": "\"Zebra.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Zebra",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/zebra",
+      "level": "Read together",
+      "about": "Learn how zebras eat grass and live in herds.",
+      "cite": "\"Zebra.\" National Geographic Kids."
+    },
+    {
+      "title": "Zebra facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Zebra",
+      "level": "Read together",
+      "about": "Lots of facts about the three kinds of zebras and their foals.",
+      "cite": "\"Zebra facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Grevy's zebra",
+      "site": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/grevys-zebra",
+      "level": "Read together",
+      "about": "A zoo page about the biggest kind of zebra.",
+      "cite": "\"Grevy's zebra.\" Smithsonian's National Zoo."
+    }
+  ]
+}

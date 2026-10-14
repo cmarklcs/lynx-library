@@ -1,0 +1,182 @@
+{
+  "slug": "elephant",
+  "name": "Elephant",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Savanna",
+  "intro": "An elephant is the biggest animal on land. It has a long nose called a trunk.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "Elephants are the biggest animals on land.",
+        "A big elephant is as heavy as a school bus.",
+        "It has a long nose called a trunk.",
+        "Its big ears help it stay cool.",
+        "Its long tusks are really teeth."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Some elephants live in Africa.",
+        "Other elephants live in Asia.",
+        "They live in grasslands and forests.",
+        "Their homes are often very hot.",
+        "They spray water and dust on their skin to stay cool."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Elephants are herbivores, so they eat only plants.",
+        "They eat grass, leaves, bark, and fruit.",
+        "They spend most of the day eating.",
+        "They use their trunks to pick up food.",
+        "They suck up water in their trunks to drink."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby elephant is called a calf.",
+        "A new calf is about as heavy as two grown-ups.",
+        "A calf can stand soon after it is born.",
+        "It drinks its mom's milk for about 2 years.",
+        "The family herd helps take care of the calves."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A calf may suck its trunk like a thumb.",
+        "An elephant's trunk has no bones.",
+        "Elephants can use their trunks like a snorkel.",
+        "Elephants say hello by wrapping their trunks together.",
+        "Elephants talk with low rumbles."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Trunk",
+      "meaning": "An elephant's long nose."
+    },
+    {
+      "word": "Tusk",
+      "meaning": "A long tooth that grows out of the mouth."
+    },
+    {
+      "word": "Calf",
+      "meaning": "A baby elephant."
+    },
+    {
+      "word": "Herd",
+      "meaning": "A big group of animals that live together."
+    },
+    {
+      "word": "Herbivore",
+      "meaning": "An animal that eats only plants."
+    }
+  ],
+  "photos": [
+    {
+      "file": "elephant-1.jpg",
+      "alt": "A big African elephant walking on dry grass",
+      "credit": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"
+    },
+    {
+      "file": "elephant-2.jpg",
+      "alt": "A mother elephant walking with her baby",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:African_bush_elephants_(Loxodonta_africana)_female_with_six-week-old_baby.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "African Elephant | Amazing Animals",
+      "url": "https://www.youtube.com/watch?v=Fk3VdpuFx0Q",
+      "channel": "Nat Geo Kids",
+      "about": "A short video with facts about African elephants.",
+      "cite": "\"African Elephant | Amazing Animals.\" Nat Geo Kids. 2016."
+    },
+    {
+      "title": "Elephants (From Trunk to Tail!) | Whoa Factor | Nat Geo Kids",
+      "url": "https://www.youtube.com/watch?v=lLAyDRLHKXY",
+      "channel": "Nat Geo Kids",
+      "about": "Two kids share wild facts about different elephants.",
+      "cite": "\"Elephants (From Trunk to Tail!) | Whoa Factor | Nat Geo Kids.\" Nat Geo Kids. 2026."
+    }
+  ],
+  "sources": [
+    {
+      "title": "African elephant",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/african-elephant",
+      "level": "Easy",
+      "about": "Short facts about elephant ears, tusks, and trunks.",
+      "cite": "\"African elephant.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "African Elephant",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/african-elephant",
+      "level": "Read together",
+      "about": "Learn all the ways elephants use their trunks.",
+      "cite": "\"African Elephant.\" National Geographic Kids."
+    },
+    {
+      "title": "Elephant facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Elephant",
+      "level": "Read together",
+      "about": "Lots of facts about all three kinds of elephants.",
+      "cite": "\"Elephant facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Asian elephant",
+      "site": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/asian-elephant",
+      "level": "Read together",
+      "about": "A zoo page about elephants that live in Asia.",
+      "cite": "\"Asian elephant.\" Smithsonian's National Zoo."
+    }
+  ]
+}

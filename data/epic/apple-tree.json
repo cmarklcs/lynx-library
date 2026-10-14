@@ -1,0 +1,35 @@
+{
+  "slug": "apple-tree",
+  "books": [
+    {
+      "title": "Watch an Apple Grow",
+      "author": "Kirsten Chang",
+      "url": "https://www.getepic.com/book/66017844/watch-an-apple-grow",
+      "lexile": "310L",
+      "age": 6,
+      "publisher": "Bullfrog Books",
+      "about": "This book shows how apples grow on apple trees.",
+      "cite": "Chang, Kirsten. Watch an Apple Grow. Bullfrog Books."
+    },
+    {
+      "title": "Apple Trees and the Seasons",
+      "author": "Julie Lundgren",
+      "url": "https://www.getepic.com/book/15248477/apple-trees-and-the-seasons",
+      "lexile": "420L",
+      "age": 5,
+      "publisher": "Rourke Educational Media",
+      "about": "This book shows how an apple tree changes in each season.",
+      "cite": "Lundgren, Julie. Apple Trees and the Seasons. Rourke Educational Media."
+    },
+    {
+      "title": "Apple (See It Grow)",
+      "author": "Dawn Bluemel Oldfield",
+      "url": "https://www.getepic.com/book/41406972/apple-see-it-grow",
+      "lexile": "510L",
+      "age": 6,
+      "publisher": "Bearport Publishing",
+      "about": "This book shows how an apple grows.",
+      "cite": "Oldfield, Dawn Bluemel. Apple. Bearport Publishing."
+    }
+  ]
+}

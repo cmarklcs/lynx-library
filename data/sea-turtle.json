@@ -1,0 +1,175 @@
+{
+  "slug": "sea-turtle",
+  "name": "Sea Turtle",
+  "kind": "animal",
+  "group": "Reptile",
+  "habitat": "Ocean",
+  "intro": "A sea turtle is a reptile that lives in the ocean. It swims with big flippers.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A sea turtle has a hard shell on its back.",
+        "It has flippers to help it swim.",
+        "It cannot pull its head into its shell.",
+        "There are 7 kinds of sea turtles."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Sea turtles live in oceans all over the world.",
+        "They do not live in the very cold Arctic.",
+        "They like warm water.",
+        "Many swim in shallow bays near the coast."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Green sea turtles eat sea grass and seaweed.",
+        "Leatherback sea turtles eat jellyfish.",
+        "Some sea turtles eat crabs and shrimp.",
+        "Sea turtles have no teeth.",
+        "They bite food with a hard beak."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A mother sea turtle crawls onto a sandy beach.",
+        "She digs a nest with her flippers and lays eggs.",
+        "She covers the eggs and goes back to the sea.",
+        "The eggs hatch after about two months.",
+        "The baby turtles crawl to the ocean."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Sea turtles breathe air, so they swim up to the top.",
+        "A green sea turtle can rest underwater for hours.",
+        "Sea turtle \"tears\" get rid of extra salt.",
+        "A mother turtle goes back to the beach where she hatched.",
+        "Warm sand makes more girl turtles."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "reptile",
+      "meaning": "An animal with scaly skin, like a turtle or snake."
+    },
+    {
+      "word": "flipper",
+      "meaning": "A flat arm or leg used for swimming."
+    },
+    {
+      "word": "nest",
+      "meaning": "A safe place where eggs are laid."
+    },
+    {
+      "word": "hatchling",
+      "meaning": "A baby animal that just came out of its egg."
+    }
+  ],
+  "photos": [
+    {
+      "file": "sea-turtle-1.jpg",
+      "alt": "A green sea turtle swimming over a coral reef",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg"
+    },
+    {
+      "file": "sea-turtle-2.jpg",
+      "alt": "A baby green sea turtle crawling on the sand",
+      "credit": "Stefan Hunt",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chelonia_mydas_Green_Turtle_Hatchling_(113841713).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "All About Sea Turtles",
+      "url": "https://www.youtube.com/watch?v=I8LHR7KN1tY",
+      "channel": "WWF",
+      "about": "Learn how sea turtles live, eat, and lay eggs on the beach.",
+      "cite": "\"All About Sea Turtles.\" WWF. 2021."
+    },
+    {
+      "title": "Turtle Time! | What Sam Sees | Nat Geo Kids",
+      "url": "https://www.youtube.com/watch?v=aSPppmnTrWE",
+      "channel": "Nat Geo Kids",
+      "about": "Sam visits a hospital where people help sea turtles get well.",
+      "cite": "\"Turtle Time! | What Sam Sees | Nat Geo Kids.\" Nat Geo Kids. 2018."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Green Sea Turtle",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/reptiles/facts/green-sea-turtle",
+      "level": "Easy",
+      "about": "Short facts and photos about green sea turtles and their nests.",
+      "cite": "\"Green Sea Turtle.\" National Geographic Kids."
+    },
+    {
+      "title": "Sea Turtles",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/sea_turtles.php",
+      "level": "Read together",
+      "about": "Facts about the kinds of sea turtles and what they eat.",
+      "cite": "\"Sea Turtles.\" Ducksters."
+    },
+    {
+      "title": "Sea turtle Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Sea_turtle",
+      "level": "Read together",
+      "about": "Facts about sea turtle nests, eggs, and babies.",
+      "cite": "\"Sea turtle Facts for Kids.\" Kiddle."
+    },
+    {
+      "title": "Top 10 facts about marine turtles",
+      "site": "WWF",
+      "url": "https://www.wwf.org.uk/learn/fascinating-facts/marine-turtles",
+      "level": "Read together",
+      "about": "Ten fun facts about sea turtles and their long trips.",
+      "cite": "\"Top 10 facts about marine turtles.\" WWF. 2023."
+    }
+  ]
+}

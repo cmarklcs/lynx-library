@@ -1,0 +1,25 @@
+{
+  "slug": "owl",
+  "books": [
+    {
+      "title": "National Geographic Readers: Owls",
+      "author": "Laura Marsh",
+      "url": "https://www.getepic.com/book/49467277/national-geographic-readers-owls",
+      "lexile": "480L",
+      "age": 5,
+      "publisher": "National Geographic",
+      "about": "This book shows how owls hunt, stay safe, and raise their babies.",
+      "cite": "Marsh, Laura. Owls. National Geographic."
+    },
+    {
+      "title": "Owls and Owlets",
+      "author": "Gustavo Sandoval",
+      "url": "https://www.getepic.com/book/60337301/owls-and-owlets",
+      "lexile": "BR90L",
+      "age": 6,
+      "publisher": "Gareth Stevens",
+      "about": "This book is about baby owls and the owls that take care of them.",
+      "cite": "Sandoval, Gustavo. Owls and Owlets. Gareth Stevens."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "oak-tree",
+  "books": [
+    {
+      "title": "Watch an Oak Tree Grow",
+      "author": "Kirsten Chang",
+      "url": "https://www.getepic.com/book/66018955/watch-an-oak-tree-grow",
+      "lexile": "310L",
+      "age": 6,
+      "publisher": "Bullfrog Books",
+      "about": "This book shows how acorns grow into oak trees.",
+      "cite": "Chang, Kirsten. Watch an Oak Tree Grow. Bullfrog Books."
+    },
+    {
+      "title": "Oak Trees",
+      "author": "Rebecca Stromstad Glaser",
+      "url": "https://www.getepic.com/book/14127478/oak-trees",
+      "lexile": "320L",
+      "age": 5,
+      "publisher": "Jump!",
+      "about": "This book shows the parts of an oak tree and how to spot one.",
+      "cite": "Glaser, Rebecca Stromstad. Oak Trees. Jump!."
+    },
+    {
+      "title": "From Acorn to Oak Tree",
+      "author": "Emma Carlson Berne",
+      "url": "https://www.getepic.com/book/53371331/from-acorn-to-oak-tree",
+      "lexile": "440L",
+      "age": 7,
+      "publisher": "Lerner Publications",
+      "about": "This book follows each step from a little acorn to a big oak tree.",
+      "cite": "Berne, Emma Carlson. From Acorn to Oak Tree. Lerner Publications."
+    }
+  ]
+}

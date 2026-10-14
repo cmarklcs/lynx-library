@@ -1,0 +1,25 @@
+{
+  "slug": "bald-eagle",
+  "books": [
+    {
+      "title": "My First Animal Library: Bald Eagles",
+      "author": "Mari Schuh",
+      "url": "https://www.getepic.com/book/37839551/my-first-animal-library-bald-eagles",
+      "lexile": "360L",
+      "age": 6,
+      "publisher": "Jump!",
+      "about": "This book follows a bald eagle as it hunts, builds a nest, and raises its babies.",
+      "cite": "Schuh, Mari. Bald Eagles. Jump!."
+    },
+    {
+      "title": "Bald Eagles",
+      "author": "Grace Hansen",
+      "url": "https://www.getepic.com/book/28669357/bald-eagles",
+      "lexile": "430L",
+      "age": 6,
+      "publisher": "ABDO Publishing",
+      "about": "This book teaches about the wild life of bald eagles.",
+      "cite": "Hansen, Grace. Bald Eagles. ABDO Publishing."
+    }
+  ]
+}

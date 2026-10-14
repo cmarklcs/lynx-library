@@ -1,0 +1,174 @@
+{
+  "slug": "tiger",
+  "name": "Tiger",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Forest",
+  "intro": "A tiger is the biggest wild cat. It has orange fur with black stripes.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A tiger is the biggest cat in the world.",
+        "It has orange fur with black stripes.",
+        "Its belly is white.",
+        "No two tigers have the same stripes.",
+        "It has big paws with sharp claws."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Tigers live in Asia.",
+        "Some tigers live in hot, wet rain forests.",
+        "Some tigers live in cold, snowy forests.",
+        "Tigers like to live near water.",
+        "They scratch trees to mark their home."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Tigers are carnivores, so they eat meat.",
+        "They hunt deer, wild pigs, and buffalo.",
+        "They hunt mostly at night.",
+        "They usually hunt alone.",
+        "They sneak up quietly on their food."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "Baby tigers are called cubs.",
+        "A mom tiger usually has 2 to 4 cubs.",
+        "Cubs are born with their eyes closed.",
+        "Cubs grow very fast in their first month.",
+        "Mom cares for them until they are about one and a half years old."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Tigers love to swim.",
+        "Tigers see much better at night than people do.",
+        "Tigers cannot purr, but they can make a soft chuff sound.",
+        "The tiger is the national animal of India.",
+        "Tigers are endangered, so people work to protect them."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Stripes",
+      "meaning": "Long lines of color."
+    },
+    {
+      "word": "Cub",
+      "meaning": "A baby tiger, lion, or bear."
+    },
+    {
+      "word": "Carnivore",
+      "meaning": "An animal that eats meat."
+    },
+    {
+      "word": "Endangered",
+      "meaning": "When very few of an animal are left in the world."
+    },
+    {
+      "word": "Asia",
+      "meaning": "A big part of the world with many countries, like India and China."
+    }
+  ],
+  "photos": [
+    {
+      "file": "tiger-1.jpg",
+      "alt": "A tiger walking through green grass",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg"
+    },
+    {
+      "file": "tiger-2.jpg",
+      "alt": "A mother tiger resting on a rock with her cub",
+      "credit": "Mathias Appel",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Siberian_Tiger_Mom_with_Cub_(30547501491).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Tiger | Amazing Animals",
+      "url": "https://www.youtube.com/watch?v=8OmRW4em_vA",
+      "channel": "Nat Geo Kids",
+      "about": "A short video about the biggest cat in the world.",
+      "cite": "\"Tiger | Amazing Animals.\" Nat Geo Kids. 2016."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tiger",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/tiger",
+      "level": "Easy",
+      "about": "Short facts about tiger stripes, homes, and food.",
+      "cite": "\"Tiger.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Tiger",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/tiger",
+      "level": "Read together",
+      "about": "Learn how tigers hunt and how moms care for cubs.",
+      "cite": "\"Tiger.\" National Geographic Kids."
+    },
+    {
+      "title": "Tiger facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Tiger",
+      "level": "Read together",
+      "about": "Lots of facts about tigers, their cubs, and their sounds.",
+      "cite": "\"Tiger facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Tiger",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/tiger.php",
+      "level": "Read together",
+      "about": "Fun facts about where tigers live and how they swim.",
+      "cite": "\"Tiger.\" Ducksters."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pumpkin",
+  "books": [
+    {
+      "title": "See a Plant Grow!: Pumpkin",
+      "author": "Charlie W. Sterling",
+      "url": "https://www.getepic.com/book/90250976/see-a-plant-grow-pumpkin",
+      "lexile": "AD140L",
+      "age": 5,
+      "publisher": "Tadpole Books",
+      "about": "This book shows how a pumpkin grows from a seed.",
+      "cite": "Sterling, Charlie W.. Pumpkin. Tadpole Books."
+    },
+    {
+      "title": "Watch a Pumpkin Grow",
+      "author": "Kirsten Chang",
+      "url": "https://www.getepic.com/book/66014511/watch-a-pumpkin-grow",
+      "lexile": "340L",
+      "age": 6,
+      "publisher": "Bullfrog Books",
+      "about": "This book uses photos to show how pumpkins grow.",
+      "cite": "Chang, Kirsten. Watch a Pumpkin Grow. Bullfrog Books."
+    }
+  ]
+}

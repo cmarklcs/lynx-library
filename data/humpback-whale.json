@@ -1,0 +1,183 @@
+{
+  "slug": "humpback-whale",
+  "name": "Humpback Whale",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Ocean",
+  "intro": "A humpback whale is a huge animal that lives in the ocean. It is famous for its songs.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A humpback whale is a mammal.",
+        "It is about as big as a school bus.",
+        "It is dark on top.",
+        "It has very long flippers.",
+        "Each whale has its own tail pattern, like a fingerprint."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Humpback whales live in oceans all over the world.",
+        "In summer, they eat in cold water near the poles.",
+        "In winter, they swim to warm water to have babies.",
+        "This long trip is called a migration."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Humpback whales eat krill and small fish.",
+        "Krill are tiny animals that look like shrimp.",
+        "A humpback whale has no teeth.",
+        "It uses baleen to strain food out of the water.",
+        "Some whales blow a ring of bubbles to trap fish."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby whale is called a calf.",
+        "The calf is born in warm water.",
+        "The calf drinks its mother's milk.",
+        "A mother and calf often touch with their flippers.",
+        "The calf stays close to its mother for about a year."
+      ],
+      "from": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Male humpbacks sing long songs.",
+        "A song can last up to 30 minutes.",
+        "Their songs can travel for miles underwater.",
+        "Humpbacks can leap all the way out of the water.",
+        "This big jump is called breaching."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "mammal",
+      "meaning": "An animal that breathes air and feeds its babies milk."
+    },
+    {
+      "word": "krill",
+      "meaning": "Tiny sea animals that look like shrimp."
+    },
+    {
+      "word": "baleen",
+      "meaning": "Stiff plates in a whale's mouth that strain out food."
+    },
+    {
+      "word": "migration",
+      "meaning": "A long trip some animals take each year."
+    },
+    {
+      "word": "calf",
+      "meaning": "A baby whale."
+    }
+  ],
+  "photos": [
+    {
+      "file": "humpback-whale-1.jpg",
+      "alt": "A humpback whale jumping out of the ocean",
+      "credit": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:001_Humpback_whale_breaching_in_Ballena_Marine_National_Park_Photo_by_Giles_Laurent.jpg"
+    },
+    {
+      "file": "humpback-whale-2.jpg",
+      "alt": "A mother humpback whale swimming with her calf",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Humpback_whale_(Megaptera_novaeangliae)_with_calf_Moorea_2.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Humpback Whales Lunge Feeding In Monterey Bay!",
+      "url": "https://www.youtube.com/watch?v=euYTbsjTJyo",
+      "channel": "Monterey Bay Aquarium",
+      "about": "Watch real humpback whales open their big mouths to catch fish.",
+      "cite": "\"Humpback Whales Lunge Feeding In Monterey Bay!.\" Monterey Bay Aquarium. 2018."
+    },
+    {
+      "title": "Whales for Kids | Learn all about toothed and baleen whales",
+      "url": "https://www.youtube.com/watch?v=9VO0cQyg5dE",
+      "channel": "Learn Bright",
+      "about": "Learn how whales breathe air and how baleen whales eat.",
+      "cite": "\"Whales for Kids | Learn all about toothed and baleen whales.\" Learn Bright. 2024."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Humpback Whale Facts!",
+      "site": "National Geographic Kids",
+      "url": "https://www.natgeokids.com/uk/discover/animals/sea-life/humpback-song/",
+      "level": "Easy",
+      "about": "Fun facts about humpback songs, babies, and big jumps.",
+      "cite": "\"Humpback Whale Facts!.\" National Geographic Kids."
+    },
+    {
+      "title": "Humpback whale Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Humpback_whale",
+      "level": "Read together",
+      "about": "Facts about humpback bodies, food, and songs.",
+      "cite": "\"Humpback whale Facts for Kids.\" Kiddle."
+    },
+    {
+      "title": "Humpback whale",
+      "site": "Monterey Bay Aquarium",
+      "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/humpback-whale",
+      "level": "Read together",
+      "about": "All about how humpbacks eat, sing, and travel.",
+      "cite": "\"Humpback whale.\" Monterey Bay Aquarium."
+    },
+    {
+      "title": "Humpback Whale",
+      "site": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/humpback-whale",
+      "level": "Read together",
+      "about": "Science facts about humpback whales and their calves.",
+      "cite": "\"Humpback Whale.\" NOAA Fisheries."
+    }
+  ]
+}

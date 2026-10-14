@@ -1,0 +1,25 @@
+{
+  "slug": "frog",
+  "books": [
+    {
+      "title": "Frogs",
+      "author": "Julie Murray",
+      "url": "https://www.getepic.com/book/57222057/frogs",
+      "lexile": "280L",
+      "age": 6,
+      "publisher": "ABDO Kids",
+      "about": "This book shows what frogs look like, what they eat, and where they live.",
+      "cite": "Murray, Julie. Frogs. ABDO Kids."
+    },
+    {
+      "title": "National Geographic Readers: Frogs!",
+      "author": "Elizabeth Carney",
+      "url": "https://www.getepic.com/book/50650492/national-geographic-readers-frogs",
+      "lexile": "480L",
+      "age": 6,
+      "publisher": "National Geographic",
+      "about": "This book is full of fun frog facts and cool photos.",
+      "cite": "Carney, Elizabeth. Frogs!. National Geographic."
+    }
+  ]
+}

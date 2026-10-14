@@ -1,0 +1,35 @@
+{
+  "slug": "ladybug",
+  "books": [
+    {
+      "title": "I See Ladybugs",
+      "author": "Genevieve Nilsen",
+      "url": "https://www.getepic.com/book/66003401/i-see-ladybugs",
+      "lexile": "20L",
+      "age": 5,
+      "publisher": "Tadpole Books",
+      "about": "This very easy book shows ladybugs with simple words and big pictures.",
+      "cite": "Nilsen, Genevieve. I See Ladybugs. Tadpole Books."
+    },
+    {
+      "title": "Ladybugs",
+      "author": "Kate Riggs, Aaron Frisch",
+      "url": "https://www.getepic.com/book/50866026/ladybugs",
+      "lexile": "270L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "This book tells how ladybugs grow, what they do, and where they live.",
+      "cite": "Riggs, Kate, and Aaron Frisch. Ladybugs. The Creative Company."
+    },
+    {
+      "title": "Insect World: Ladybugs",
+      "author": "Mari Schuh",
+      "url": "https://www.getepic.com/book/12704287/insect-world-ladybugs",
+      "lexile": "320L",
+      "age": 6,
+      "publisher": "Jump!",
+      "about": "This book tells about the ladybug life cycle and how ladybugs find food.",
+      "cite": "Schuh, Mari. Ladybugs. Jump!."
+    }
+  ]
+}

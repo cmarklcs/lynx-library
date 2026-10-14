@@ -1,0 +1,177 @@
+{
+  "slug": "cheetah",
+  "name": "Cheetah",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Grassland",
+  "intro": "A cheetah is a wild cat with spots. It is the fastest animal on land.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A cheetah is a slim cat with long legs.",
+        "Its tan fur is covered in black spots.",
+        "Each cheetah has its own spot pattern.",
+        "Black lines run from its eyes to its mouth.",
+        "Its long tail has black rings at the end."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Most cheetahs live in Africa.",
+        "A few cheetahs live in Iran, in Asia.",
+        "They like open grasslands and savannas.",
+        "Cheetahs are endangered, so people work to protect them."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Cheetahs are carnivores, so they eat meat.",
+        "They hunt gazelles, impalas, and hares.",
+        "They hunt in the daytime.",
+        "They use their sharp eyes to find food.",
+        "They sneak close, then run very fast."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "Baby cheetahs are called cubs.",
+        "A mom often has 3 to 6 cubs.",
+        "Cubs have fluffy gray fur on their necks and backs.",
+        "Cubs learn to hunt by playing.",
+        "They stay with mom until they are about one and a half years old."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Cheetahs are the fastest animals on land.",
+        "A cheetah can run as fast as a car on the highway.",
+        "Cheetahs cannot roar.",
+        "They chirp and purr instead.",
+        "Their long tails help them turn while running."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Cub",
+      "meaning": "A baby cheetah, lion, or tiger."
+    },
+    {
+      "word": "Carnivore",
+      "meaning": "An animal that eats meat."
+    },
+    {
+      "word": "Endangered",
+      "meaning": "When very few of an animal are left in the world."
+    },
+    {
+      "word": "Grassland",
+      "meaning": "A big, open land covered with grass."
+    }
+  ],
+  "photos": [
+    {
+      "file": "cheetah-1.jpg",
+      "alt": "A cheetah resting in the grass",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cheetah_(Acinonyx_jubatus)_female_2.jpg"
+    },
+    {
+      "file": "cheetah-2.jpg",
+      "alt": "A young cheetah cub sitting in tall grass",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cheetah_(Acinonyx_jubatus)_cub.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Cheetah | Amazing Animals | Nat Geo Kids",
+      "url": "https://www.youtube.com/watch?v=J20eXhZTHEo",
+      "channel": "Nat Geo Kids",
+      "about": "A short video about how cheetahs run so fast.",
+      "cite": "\"Cheetah | Amazing Animals | Nat Geo Kids.\" Nat Geo Kids. 2016."
+    },
+    {
+      "title": "Cheetahs for Kids: Learn All About Cheetahs - FreeSchool",
+      "url": "https://www.youtube.com/watch?v=W_Of9DJWsEM",
+      "channel": "Free School",
+      "about": "Learn where cheetahs live and how fast they run.",
+      "cite": "\"Cheetahs for Kids: Learn All About Cheetahs - FreeSchool.\" Free School. 2016."
+    }
+  ],
+  "sources": [
+    {
+      "title": "African cheetah",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/african-cheetah",
+      "level": "Easy",
+      "about": "Short facts about cheetah spots, speed, and cubs.",
+      "cite": "\"African cheetah.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Cheetah",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/cheetah",
+      "level": "Read together",
+      "about": "Learn how cheetahs run fast and how cubs grow up.",
+      "cite": "\"Cheetah.\" National Geographic Kids."
+    },
+    {
+      "title": "Cheetah",
+      "site": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/cheetah",
+      "level": "Read together",
+      "about": "A zoo page about cheetah homes, food, and sounds.",
+      "cite": "\"Cheetah.\" Smithsonian's National Zoo."
+    },
+    {
+      "title": "Cheetah",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/cheetah.php",
+      "level": "Read together",
+      "about": "Fun facts about the fastest big cat.",
+      "cite": "\"Cheetah.\" Ducksters."
+    }
+  ]
+}

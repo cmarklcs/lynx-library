@@ -1,0 +1,182 @@
+{
+  "slug": "lion",
+  "name": "Lion",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Savanna",
+  "intro": "A lion is a big wild cat. It lives in a family group called a pride.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A lion is a big, strong cat.",
+        "Its fur is yellow and gold.",
+        "A grown-up boy lion has a big, furry mane.",
+        "A lioness does not have a mane.",
+        "Baby lions have light spots on their fur."
+      ],
+      "from": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Most lions live in Africa.",
+        "They live on grassy lands called savannas.",
+        "A few lions live in a forest in India.",
+        "Lions live in groups called prides."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Lions are carnivores, so they eat meat.",
+        "They hunt zebras and antelope.",
+        "The lionesses do most of the hunting.",
+        "They often hunt together in small groups."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "Baby lions are called cubs.",
+        "A mom lion has a few cubs at a time.",
+        "Cubs drink their mom's milk.",
+        "Other moms in the pride help care for the cubs.",
+        "Cubs start to eat meat at about 3 months old."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ],
+      "fromVideos": [
+        1
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Lions are the only big cats that live in groups.",
+        "Lions sleep or rest most of the day.",
+        "A lion's roar can be heard far away.",
+        "Lions are good at climbing trees.",
+        "Each lion has its own pattern of whisker spots."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Pride",
+      "meaning": "A family group of lions."
+    },
+    {
+      "word": "Lioness",
+      "meaning": "A girl lion."
+    },
+    {
+      "word": "Mane",
+      "meaning": "Long, thick hair around a lion's head and neck."
+    },
+    {
+      "word": "Carnivore",
+      "meaning": "An animal that eats meat."
+    },
+    {
+      "word": "Savanna",
+      "meaning": "A hot, grassy land with a few trees."
+    }
+  ],
+  "photos": [
+    {
+      "file": "lion-1.jpg",
+      "alt": "A male lion with a big mane resting on a rock",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_male_6y.jpg"
+    },
+    {
+      "file": "lion-2.jpg",
+      "alt": "A group of lionesses and young lions resting together",
+      "credit": "Bernard DUPONT from FRANCE",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_with_cubs_in_Kruger_Park_(52728925792).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "African Lion | Amazing Animals | Nat Geo Kids",
+      "url": "https://www.youtube.com/watch?v=tlZwYsJpqjo",
+      "channel": "Nat Geo Kids",
+      "about": "A short video about how lions live together in a pride.",
+      "cite": "\"African Lion | Amazing Animals | Nat Geo Kids.\" Nat Geo Kids. 2015."
+    },
+    {
+      "title": "Learn the Secrets of Baby Lions! Animal Facts for Kids | Nat Geo Kids",
+      "url": "https://www.youtube.com/watch?v=xlXtt3IRckY",
+      "channel": "Nat Geo Kids",
+      "about": "Learn how lion cubs grow up with help from the pride.",
+      "cite": "\"Learn the Secrets of Baby Lions! Animal Facts for Kids | Nat Geo Kids.\" Nat Geo Kids. 2026."
+    }
+  ],
+  "sources": [
+    {
+      "title": "African lion",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/african-lion",
+      "level": "Easy",
+      "about": "Short facts about lions, prides, and their big roar.",
+      "cite": "\"African lion.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Lion",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/lion",
+      "level": "Read together",
+      "about": "Learn how a lion pride lives, hunts, and cares for cubs.",
+      "cite": "\"Lion.\" National Geographic Kids."
+    },
+    {
+      "title": "Lion",
+      "site": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/lion",
+      "level": "Read together",
+      "about": "A zoo page about where lions live and how cubs grow.",
+      "cite": "\"Lion.\" Smithsonian's National Zoo."
+    },
+    {
+      "title": "Lion",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/lion.php",
+      "level": "Read together",
+      "about": "Fun facts about lions and what they eat.",
+      "cite": "\"Lion.\" Ducksters."
+    }
+  ]
+}

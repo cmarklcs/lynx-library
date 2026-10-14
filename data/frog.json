@@ -1,0 +1,175 @@
+{
+  "slug": "frog",
+  "name": "Frog",
+  "kind": "animal",
+  "group": "Amphibian",
+  "habitat": "Pond",
+  "intro": "A frog is a small animal that can live in water and on land. It is great at jumping.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A frog is an amphibian.",
+        "It has long back legs for jumping.",
+        "Its skin is smooth and wet.",
+        "Some frogs are bright colors.",
+        "Many frogs are green or brown, so they can hide."
+      ],
+      "from": [
+        0,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Frogs live all over the world.",
+        "Many live in or near ponds, lakes, and swamps.",
+        "Some live in rainforests, mountains, and even deserts.",
+        "Frogs like wet places."
+      ],
+      "from": [
+        0,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Grown-up frogs eat bugs.",
+        "They also eat spiders, worms, and slugs.",
+        "A frog catches bugs with its long, sticky tongue.",
+        "Big frogs can eat mice.",
+        "Tadpoles eat plants."
+      ],
+      "from": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A frog starts as an egg in the water.",
+        "The egg hatches into a tadpole.",
+        "A tadpole has a tail and breathes with gills.",
+        "It grows back legs, then front legs.",
+        "Its tail goes away, and it becomes a frog."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ],
+      "fromVideos": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Frogs can breathe through their skin.",
+        "Each kind of frog has its own croak.",
+        "Some frog calls can be heard a mile away.",
+        "Some frog dads carry eggs on their backs.",
+        "A big clump of frog eggs is called frogspawn."
+      ],
+      "from": [
+        0,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "amphibian",
+      "meaning": "An animal that lives in water and on land."
+    },
+    {
+      "word": "tadpole",
+      "meaning": "A baby frog that lives in water and has a tail."
+    },
+    {
+      "word": "gills",
+      "meaning": "Body parts that let an animal breathe in water."
+    },
+    {
+      "word": "metamorphosis",
+      "meaning": "A big change in an animal's body as it grows."
+    }
+  ],
+  "photos": [
+    {
+      "file": "frog-1.jpg",
+      "alt": "A brown common frog sitting on the ground",
+      "credit": "Richard Bartz",
+      "license": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:European_Common_Frog_Rana_temporaria.jpg"
+    },
+    {
+      "file": "frog-2.jpg",
+      "alt": "A tadpole with legs and a tail, almost a frog",
+      "credit": "Viridiflavus",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rana_Temporaria_-_Larva_Final_Stage.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Life Cycle of a Frog: Metamorphosis from Tadpole to Frog for Kids - FreeSchool",
+      "url": "https://www.youtube.com/watch?v=etGmCvIL014",
+      "channel": "Free School",
+      "about": "See how a frog grows from an egg to a tadpole to a frog.",
+      "cite": "\"The Life Cycle of a Frog: Metamorphosis from Tadpole to Frog for Kids - FreeSchool.\" Free School. 2022."
+    },
+    {
+      "title": "Life Cycle Of A Frog! - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz",
+      "url": "https://www.youtube.com/watch?v=F3ElGMVU6SY",
+      "channel": "Peekaboo Kidz",
+      "about": "Dr. Binocs shows each step of a frog's life cycle.",
+      "cite": "\"Life Cycle Of A Frog! - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz.\" Peekaboo Kidz. 2018."
+    }
+  ],
+  "sources": [
+    {
+      "title": "frog and toad",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/frog-and-toad",
+      "level": "Easy",
+      "about": "A kids page about where frogs live and what they eat.",
+      "cite": "\"frog and toad.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Lifecycle of a Frog",
+      "site": "TIME for Kids",
+      "url": "https://www.timeforkids.com/k1/lifecycle-of-a-frog/",
+      "level": "Easy",
+      "about": "A short story about the four stages of a frog's life.",
+      "cite": "\"Lifecycle of a Frog.\" TIME for Kids. 2024."
+    },
+    {
+      "title": "The Frog Life Cycle for Kids",
+      "site": "National Geographic Kids",
+      "url": "https://www.natgeokids.com/uk/discover/science/nature/frog-life-cycle/",
+      "level": "Read together",
+      "about": "Pictures and steps that show how a tadpole becomes a frog.",
+      "cite": "\"The Frog Life Cycle for Kids.\" National Geographic Kids."
+    },
+    {
+      "title": "Frog Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Frog",
+      "level": "Read together",
+      "about": "Facts about frog skin, food, calls, and tadpoles.",
+      "cite": "\"Frog Facts for Kids.\" Kiddle."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "flamingo",
+  "books": [
+    {
+      "title": "Baby Flamingos at the Zoo",
+      "author": "Cecelia H. Brannon",
+      "url": "https://www.getepic.com/book/81320758/baby-flamingos-at-the-zoo",
+      "lexile": "320L",
+      "age": 5,
+      "publisher": "Enslow Publishing",
+      "about": "This book shows baby flamingos and how flamingos live at the zoo.",
+      "cite": "Brannon, Cecelia H.. Baby Flamingos at the Zoo. Enslow Publishing."
+    },
+    {
+      "title": "Flamingos",
+      "author": "Megan Borgert-Spaniol",
+      "url": "https://www.getepic.com/book/40198204/flamingos",
+      "lexile": "490L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "This book tells about pink flamingos and how they stand on one leg.",
+      "cite": "Borgert-Spaniol, Megan. Flamingos. Bellwether Media."
+    }
+  ]
+}

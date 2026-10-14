@@ -1,0 +1,25 @@
+{
+  "slug": "humpback-whale",
+  "books": [
+    {
+      "title": "Humpback Whale Migration",
+      "author": "Grace Hansen",
+      "url": "https://www.getepic.com/book/65804532/humpback-whale-migration",
+      "lexile": "520L",
+      "age": 6,
+      "publisher": "ABDO Kids",
+      "about": "This book tells how humpback whales swim a long way each year.",
+      "cite": "Hansen, Grace. Humpback Whale Migration. ABDO Kids."
+    },
+    {
+      "title": "Humpback Whale Migration",
+      "author": "Kari Schuetz",
+      "url": "https://www.getepic.com/book/61278318/humpback-whale-migration",
+      "lexile": "560L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "This book follows humpback whales on their big trip across the ocean.",
+      "cite": "Schuetz, Kari. Humpback Whale Migration. Bellwether Media."
+    }
+  ]
+}

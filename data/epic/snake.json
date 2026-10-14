@@ -1,0 +1,25 @@
+{
+  "slug": "snake",
+  "books": [
+    {
+      "title": "National Geographic Readers: Slither, Snake!",
+      "author": "Shelby Alinsky",
+      "url": "https://www.getepic.com/book/48756237/national-geographic-readers-slither-snake",
+      "lexile": "170L",
+      "age": 5,
+      "publisher": "National Geographic",
+      "about": "This book shows different kinds of snakes and where they live.",
+      "cite": "Alinsky, Shelby. Slither, Snake!. National Geographic."
+    },
+    {
+      "title": "Creepy But Cool: Snakes",
+      "author": "Julie K. Lundgren",
+      "url": "https://www.getepic.com/book/14363010/creepy-but-cool-snakes",
+      "lexile": "250L",
+      "age": 6,
+      "publisher": "Blue Door Education",
+      "about": "This book uses close-up photos to show how snakes live and hunt.",
+      "cite": "Lundgren, Julie K.. Creepy But Cool: Snakes. Blue Door Education."
+    }
+  ]
+}

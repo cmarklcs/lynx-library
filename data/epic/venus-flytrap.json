@@ -1,0 +1,25 @@
+{
+  "slug": "venus-flytrap",
+  "books": [
+    {
+      "title": "Meat-Eating Plants",
+      "author": "Mari Schuh",
+      "url": "https://www.getepic.com/book/64106924/meat-eating-plants",
+      "lexile": "550L",
+      "age": 8,
+      "publisher": "Bullfrog Books",
+      "about": "This book shows plants that trap and eat bugs, like the Venus flytrap.",
+      "cite": "Schuh, Mari. Meat-Eating Plants. Bullfrog Books."
+    },
+    {
+      "title": "Corpse Flower vs. Venus Flytrap",
+      "author": "Eric Braun",
+      "url": "https://www.getepic.com/book/56002179/corpse-flower-vs-venus-flytrap",
+      "lexile": "540L",
+      "age": 7,
+      "publisher": "Black Rabbit Books",
+      "about": "This book compares the Venus flytrap with a giant, stinky flower.",
+      "cite": "Braun, Eric. Corpse Flower vs. Venus Flytrap. Black Rabbit Books."
+    }
+  ]
+}

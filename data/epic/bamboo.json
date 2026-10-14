@@ -1,0 +1,15 @@
+{
+  "slug": "bamboo",
+  "books": [
+    {
+      "title": "Bamboo",
+      "author": "Julie Lundgren",
+      "url": "https://www.getepic.com/book/58278618/bamboo",
+      "lexile": "860L",
+      "age": 8,
+      "publisher": "Rourke Educational Media",
+      "about": "This book tells how bamboo grows and why bamboo forests help people and animals.",
+      "cite": "Lundgren, Julie. Bamboo. Rourke Educational Media."
+    }
+  ]
+}
