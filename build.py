@@ -38,12 +38,44 @@ for f in sorted((ROOT / "data").glob("*.json")):
     topics.append(t)
 
 (SITE / "topics.json").write_text(json.dumps(topics, ensure_ascii=False))
+
+# ---- read-aloud recordings (macOS `say`) ----
+import hashlib, os
+VOICE = os.environ.get("VOICE", "Ava (Premium)")
+RATE = os.environ.get("RATE", "165")
+voices = subprocess.run(["say", "-v", "?"], capture_output=True, text=True).stdout
+have_voice = any(re.match(re.escape(VOICE) + r"\s{2,}", l) for l in voices.splitlines())
+(SITE / "audio").mkdir(exist_ok=True)
+
+def texts(t):
+    yield t["intro"]
+    for s in t["sections"]:
+        yield from s["sentences"]
+    for v in t["vocab"]:
+        yield v["word"]
+        yield v["meaning"]
+
+made = 0
+for t in topics:
+    t["audio"] = {}
+    for text in texts(t):
+        name = hashlib.sha1(f"{VOICE}|{RATE}|{text}".encode()).hexdigest()[:14] + ".m4a"
+        out = SITE / "audio" / name
+        if not out.exists() and have_voice:
+            subprocess.run(["say", "-v", VOICE, "-r", RATE, "--file-format=m4af",
+                            "--data-format=aac@22050", "--channels=1", "--bit-rate=32000",
+                            "-o", str(out), text], check=True)
+            made += 1
+        if out.exists():
+            t["audio"][text] = name
+(SITE / "topics.json").write_text(json.dumps(topics, ensure_ascii=False))
+print(f"audio: voice {VOICE!r} {'found' if have_voice else 'NOT installed'}, {made} new recordings")
 print(f"{len(topics)} topics built")
 print("\n".join(problems) or "no problems")
 
 # file map for publishing
 files = {"topics.json": "topics.json"}
-for d in ("images", "thumbs"):
+for d in ("images", "thumbs", "audio"):
     for p in sorted((SITE / d).iterdir()):
         files[f"{d}/{p.name}"] = f"{d}/{p.name}"
 (ROOT / "publish_files.json").write_text(json.dumps(files))
