@@ -1,0 +1,35 @@
+{
+  "slug": "tiger",
+  "books": [
+    {
+      "title": "My First Animal Library: Tiger",
+      "author": "Cari Meister",
+      "url": "https://www.getepic.com/book/46645337/my-first-animal-library-tiger",
+      "lexile": "310L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "Follow a tiger as it hunts for food.",
+      "cite": "Meister, Cari. My First Animal Library: Tiger. JUMP."
+    },
+    {
+      "title": "Tigers: Animal Safari",
+      "author": "Derek Zobel",
+      "url": "https://www.getepic.com/book/7533693/tigers-animal-safari",
+      "lexile": "410L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how tigers live and hunt in the wild.",
+      "cite": "Zobel, Derek. Tigers: Animal Safari. Bellwether Media."
+    },
+    {
+      "title": "Tigers",
+      "author": "Kate Riggs",
+      "url": "https://www.getepic.com/book/50820475/tigers",
+      "lexile": "250L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "Learn how tigers grow, what they do, and where they live.",
+      "cite": "Riggs, Kate. Tigers. The Creative Company."
+    }
+  ]
+}

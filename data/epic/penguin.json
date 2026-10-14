@@ -1,0 +1,35 @@
+{
+  "slug": "penguin",
+  "books": [
+    {
+      "title": "National Geographic Readers: Hello, Penguin!",
+      "author": "Kathryn Williams",
+      "url": "https://www.getepic.com/book/61448301/national-geographic-readers-hello-penguin",
+      "lexile": "340L",
+      "age": 5,
+      "publisher": "National Geographic",
+      "about": "Meet many kinds of penguins from all around the world.",
+      "cite": "Williams, Kathryn. Hello, Penguin! National Geographic."
+    },
+    {
+      "title": "My First Animal Library: Penguins",
+      "author": "Cari Meister",
+      "url": "https://www.getepic.com/book/12725396/my-first-animal-library-penguins",
+      "lexile": "350L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "See how penguins swim in cold water and stay alive.",
+      "cite": "Meister, Cari. My First Animal Library: Penguins. JUMP."
+    },
+    {
+      "title": "Penguins: Oceans Alive",
+      "author": "Anne Wendorff",
+      "url": "https://www.getepic.com/book/7337046/penguins-oceans-alive",
+      "lexile": "400L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn what penguins look like and how they live in the ocean.",
+      "cite": "Wendorff, Anne. Penguins: Oceans Alive. Bellwether Media."
+    }
+  ]
+}

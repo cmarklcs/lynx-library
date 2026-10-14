@@ -1,0 +1,86 @@
+{
+  "slug": "honeybee",
+  "name": "Honeybee",
+  "kind": "animal",
+  "group": "Insect",
+  "habitat": "Garden",
+  "intro": "A honeybee is a small insect that makes honey. It lives with many other bees in a hive.",
+  "sections": [
+    {"key": "looks", "title": "What does it look like?", "sentences": [
+      "A honeybee is a small insect.",
+      "A worker bee is about as long as a grown-up's fingernail.",
+      "Its body is covered with tiny hairs.",
+      "Worker bees have pollen baskets on their back legs.",
+      "The queen bee is bigger than the workers."
+    ], "from": [0, 2, 3]},
+    {"key": "home", "title": "Where does it live?", "sentences": [
+      "Honeybees live in a home called a hive.",
+      "Many bees live together in a colony.",
+      "One hive can hold thousands of bees.",
+      "Bees build honeycomb out of wax.",
+      "Each little room in the comb has six sides."
+    ], "from": [0, 1, 2, 3]},
+    {"key": "food", "title": "What does it eat?", "sentences": [
+      "Honeybees visit flowers for food.",
+      "They drink sweet nectar from flowers.",
+      "They also collect pollen.",
+      "Bees turn nectar into honey.",
+      "In winter, bees eat the honey they saved."
+    ], "from": [0, 1, 2, 3]},
+    {"key": "life", "title": "How does it grow?", "sentences": [
+      "Each hive has one queen bee.",
+      "The queen lays the eggs.",
+      "A baby bee is called a larva.",
+      "The larva eats pollen and honey.",
+      "Then it changes into a grown-up bee."
+    ], "from": [0, 1, 2, 3]},
+    {"key": "fun", "title": "Fun facts", "sentences": [
+      "Bees dance to show other bees where food is.",
+      "Bees help plants make fruits and vegetables.",
+      "Honeybees sting only to protect their hive.",
+      "Honey color depends on the flowers bees visit.",
+      "One worker makes only a tiny bit of honey in her life."
+    ], "from": [0, 1, 2, 3]}
+  ],
+  "vocab": [
+    {"word": "hive", "meaning": "The home where a group of bees lives."},
+    {"word": "colony", "meaning": "A big group of animals that live together."},
+    {"word": "nectar", "meaning": "A sweet juice inside flowers."},
+    {"word": "pollen", "meaning": "A yellow powder that flowers make."},
+    {"word": "larva", "meaning": "A baby insect that looks like a little worm."}
+  ],
+  "photos": [
+    {"file": "honeybee-1.jpg", "alt": "A honeybee with yellow pollen on its leg on white flowers",
+     "credit": "Ivar Leidus", "license": "CC BY-SA 4.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_-_Melilotus_albus_-_Keila.jpg"},
+    {"file": "honeybee-2.jpg", "alt": "Many honeybees walking on a frame of honeycomb from a hive",
+     "credit": "Benlisquare", "license": "CC BY-SA 4.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Italian_honeybee_honey_frame_from_Langstroth_hive.jpg"}
+  ],
+  "videos": [
+    {"title": "How Do Bees Make Honey? | The Science of Food! | SciShow Kids", "url": "https://www.youtube.com/watch?v=A4YIpGQiD3w",
+     "channel": "SciShow Kids", "about": "Follow nectar from a flower into a hive as it turns into honey.",
+     "cite": "\"How Do Bees Make Honey? | The Science of Food! | SciShow Kids.\" SciShow Kids. 2022."},
+    {"title": "Busy Bees! | Bumblebees and Honeybees | Amazing Animals | SciShow Kids", "url": "https://www.youtube.com/watch?v=ta154f5Rp5Y",
+     "channel": "SciShow Kids", "about": "Learn what bees do all day and how honeybees differ from bumblebees.",
+     "cite": "\"Busy Bees! | Bumblebees and Honeybees | Amazing Animals | SciShow Kids.\" SciShow Kids. 2016."}
+  ],
+  "sources": [
+    {"title": "Honeybee", "site": "National Geographic Kids",
+     "url": "https://kids.nationalgeographic.com/animals/invertebrates/facts/honeybee", "level": "Easy",
+     "about": "Meet the queen, the workers, and the drones in a hive.",
+     "cite": "\"Honeybee.\" National Geographic Kids."},
+    {"title": "Learning & Activities for Kids: Honeybees", "site": "Indiana Department of Natural Resources",
+     "url": "https://www.in.gov/dnr/kids/animals/insects/honeybees", "level": "Read together",
+     "about": "A list of fun facts about bees and honey.",
+     "cite": "\"Learning & Activities for Kids: Honeybees.\" Indiana Department of Natural Resources."},
+    {"title": "Bee", "site": "San Diego Zoo Animals & Plants",
+     "url": "https://animals.sandiegozoo.org/animals/bee", "level": "Read together",
+     "about": "Find out how bees build honeycomb and carry pollen.",
+     "cite": "\"Bee.\" San Diego Zoo Animals & Plants."},
+    {"title": "Honey bee Facts for Kids", "site": "Kiddle",
+     "url": "https://kids.kiddle.co/Honey_bee", "level": "Read together",
+     "about": "Read about bee jobs, bee dances, and how bees grow.",
+     "cite": "\"Honey bee Facts for Kids.\" Kiddle."}
+  ]
+}

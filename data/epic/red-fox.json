@@ -1,0 +1,35 @@
+{
+  "slug": "red-fox",
+  "books": [
+    {
+      "title": "Red Fox",
+      "author": "Virginia Loh-Hagan",
+      "url": "https://www.getepic.com/book/53421326/red-fox",
+      "lexile": "410L",
+      "age": 6,
+      "publisher": "Cherry Lake Publishing",
+      "about": "Learn what red foxes look like and where they live.",
+      "cite": "Loh-Hagan, Virginia. Red Fox. Cherry Lake Publishing."
+    },
+    {
+      "title": "Red Foxes",
+      "author": "Megan Borgert-Spaniol",
+      "url": "https://www.getepic.com/book/40238200/red-foxes",
+      "lexile": "520L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how red foxes hunt and live.",
+      "cite": "Borgert-Spaniol, Megan. Red Foxes. Bellwether Media."
+    },
+    {
+      "title": "Red Foxes (Wild Canine Pups)",
+      "author": "Ruth Strother",
+      "url": "https://www.getepic.com/book/9799022/red-foxes-wild-canine-pups",
+      "lexile": "NC540L",
+      "age": 6,
+      "publisher": "Bearport Publishing",
+      "about": "See how red fox pups grow up to be adult foxes.",
+      "cite": "Strother, Ruth. Red Foxes (Wild Canine Pups). Bearport Publishing."
+    }
+  ]
+}

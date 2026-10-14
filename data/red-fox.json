@@ -1,0 +1,155 @@
+{
+  "slug": "red-fox",
+  "name": "Red Fox",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Forest",
+  "intro": "A red fox is a wild animal with red fur. It has a big, fluffy tail.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A red fox has red fur on its back and tail.",
+        "Its throat and belly are white or gray.",
+        "It has big, pointy ears.",
+        "Its feet are black.",
+        "Its fluffy tail has a white tip."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Red foxes live in many parts of the world.",
+        "They live in woods and fields.",
+        "Some live in towns and backyards.",
+        "A fox family lives in a den."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Red foxes eat plants and animals.",
+        "They like to eat mice and rabbits.",
+        "They also eat birds, bugs, and berries.",
+        "They can hear mice digging under the ground."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby fox is called a kit.",
+        "Kits are born in the spring.",
+        "At first, their eyes are closed.",
+        "Both parents bring food to the kits.",
+        "Kits stay with their parents for about seven months."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A red fox can make more than 20 different calls.",
+        "A group of foxes is called a skulk.",
+        "Red foxes can see well at night.",
+        "Foxes look like dogs but act a bit like cats.",
+        "A mother fox is called a vixen."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Kit",
+      "meaning": "A baby fox."
+    },
+    {
+      "word": "Den",
+      "meaning": "A safe hole where an animal lives."
+    },
+    {
+      "word": "Vixen",
+      "meaning": "A female fox."
+    },
+    {
+      "word": "Omnivore",
+      "meaning": "An animal that eats both plants and meat."
+    }
+  ],
+  "photos": [
+    {
+      "file": "red-fox-1.jpg",
+      "alt": "A red fox standing in the snow",
+      "credit": "Joanne Redwood",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_ssp_fulvus.jpg"
+    },
+    {
+      "file": "red-fox-2.jpg",
+      "alt": "Two red fox kits playing by their den in the grass",
+      "credit": "USFWS Mountain-Prairie",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_Fox_Kits_at_Play_(14464165073).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "All About Foxes for Kids: Animal Videos for Children - FreeSchool",
+      "url": "https://www.youtube.com/watch?v=bD0mresKnTY",
+      "channel": "Free School",
+      "about": "This video shows how foxes live, hunt, and raise kits.",
+      "cite": "\"All About Foxes for Kids: Animal Videos for Children - FreeSchool.\" Free School. 2021."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Red Fox",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/red-fox",
+      "level": "Easy",
+      "about": "Fun facts and photos about red foxes and their kits.",
+      "cite": "\"Red Fox.\" National Geographic Kids."
+    },
+    {
+      "title": "Red Fox",
+      "site": "National Wildlife Federation",
+      "url": "https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Red-Fox",
+      "level": "Read together",
+      "about": "Facts about how red foxes look and what they eat.",
+      "cite": "\"Red Fox.\" National Wildlife Federation."
+    },
+    {
+      "title": "Red fox facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Red_fox",
+      "level": "Read together",
+      "about": "A kids encyclopedia page about red foxes and their dens.",
+      "cite": "\"Red fox facts for kids.\" Kiddle."
+    }
+  ]
+}

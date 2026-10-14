@@ -1,0 +1,77 @@
+{
+  "slug": "flamingo",
+  "name": "Flamingo",
+  "kind": "animal",
+  "group": "Bird",
+  "habitat": "Lakes",
+  "intro": "A flamingo is a tall pink bird. It wades in shallow water.",
+  "sections": [
+    {"key": "looks", "title": "What does it look like?", "sentences": [
+      "A flamingo is a tall pink bird.",
+      "It has very long, thin legs.",
+      "Its long neck can bend like the letter S.",
+      "Its beak bends down in the middle.",
+      "The biggest kind can be taller than a first grader."
+    ], "from": [0, 1, 2]},
+    {"key": "home", "title": "Where does it live?", "sentences": [
+      "Flamingos live in shallow water.",
+      "They live in lagoons and lakes.",
+      "Some of these lakes have salty water.",
+      "American flamingos live on islands in the Caribbean Sea.",
+      "Flamingos live together in big groups called colonies."
+    ], "from": [0, 1, 2]},
+    {"key": "food", "title": "What does it eat?", "sentences": [
+      "Flamingos eat shrimp, snails, and algae.",
+      "A flamingo puts its head upside down in the water.",
+      "Its beak works like a strainer to catch food.",
+      "Their pink color comes from the food they eat."
+    ], "from": [0, 1, 2]},
+    {"key": "life", "title": "How does it grow?", "sentences": [
+      "Flamingo parents build a little hill of mud for a nest.",
+      "The mother lays one egg on top.",
+      "The egg hatches after about one month.",
+      "The chick is fluffy and gray or white.",
+      "It turns pink as it grows up."
+    ], "from": [0, 1, 2]},
+    {"key": "fun", "title": "Fun facts", "sentences": [
+      "A new chick is about the size of a tennis ball.",
+      "Parents feed their chick a kind of milk from their bodies.",
+      "Flamingos run on the water before they fly.",
+      "Flamingos hear well, but they can barely smell.",
+      "A flamingo can live for a very long time."
+    ], "from": [0, 1, 2]}
+  ],
+  "vocab": [
+    {"word": "algae", "meaning": "Tiny plant-like living things that grow in water."},
+    {"word": "colony", "meaning": "A big group of animals that live together."},
+    {"word": "chick", "meaning": "A baby bird."},
+    {"word": "lagoon", "meaning": "A shallow pool of salty water near the ocean."}
+  ],
+  "photos": [
+    {"file": "flamingo-1.jpg", "alt": "A pink American flamingo standing in shallow water",
+     "credit": "Charles J. Sharp", "license": "CC BY-SA 4.0",
+     "source": "https://commons.wikimedia.org/wiki/File:American_flamingo_(Phoenicopterus_ruber).JPG"},
+    {"file": "flamingo-2.jpg", "alt": "A grown-up flamingo feeding a fluffy gray chick",
+     "credit": "Kongkham6211", "license": "CC BY-SA 4.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Greater_Flamingo_feeding_chick_at_zoo.jpg"}
+  ],
+  "videos": [
+    {"title": "Why Are Flamingos Pink? | The Science of Colors! | SciShow Kids", "url": "https://www.youtube.com/watch?v=lYDNA3XQV_0",
+     "channel": "SciShow Kids", "about": "Mister Brown and Squeaks find out what makes flamingos pink.",
+     "cite": "\"Why Are Flamingos Pink? | The Science of Colors! | SciShow Kids.\" SciShow Kids. 2021."}
+  ],
+  "sources": [
+    {"title": "Flamingo", "site": "San Diego Zoo Wildlife Explorers",
+     "url": "https://sdzwildlifeexplorers.org/animals/flamingo", "level": "Easy",
+     "about": "Learn how flamingos eat and how they build mud nests.",
+     "cite": "\"Flamingo.\" San Diego Zoo Wildlife Explorers."},
+    {"title": "Flamingo", "site": "National Geographic Kids",
+     "url": "https://kids.nationalgeographic.com/animals/birds/facts/flamingo", "level": "Easy",
+     "about": "Read why flamingos are pink and how chicks grow.",
+     "cite": "\"Flamingo.\" National Geographic Kids."},
+    {"title": "American flamingo", "site": "Smithsonian's National Zoo",
+     "url": "https://nationalzoo.si.edu/animals/american-flamingo", "level": "Read together",
+     "about": "Find out where American flamingos live and what they eat.",
+     "cite": "\"American flamingo.\" Smithsonian's National Zoo."}
+  ]
+}

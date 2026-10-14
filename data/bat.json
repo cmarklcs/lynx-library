@@ -1,0 +1,173 @@
+{
+  "slug": "bat",
+  "name": "Bat",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Many places",
+  "intro": "A bat is a mammal that can fly. It sleeps upside down during the day.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A bat has a furry body.",
+        "Its wings are thin skin with no fur.",
+        "The skin stretches between long finger bones.",
+        "Many bats have big ears.",
+        "The biggest bats have wings wider than a grown-up is tall."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Bats live almost everywhere on Earth.",
+        "They do not live in the coldest places.",
+        "Bats rest in caves, trees, and buildings.",
+        "Some bats sleep through the winter."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Most bats eat insects.",
+        "Some bats eat fruit.",
+        "Some bats drink nectar from flowers.",
+        "Fruit bats find food by sight and smell."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby bat is called a pup.",
+        "A mother bat usually has one pup a year.",
+        "A new pup has no fur and its eyes are closed.",
+        "The pup drinks its mother's milk.",
+        "It learns to fly in a few weeks."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Bats are the only mammals that can truly fly.",
+        "Bats hang upside down to rest.",
+        "Some bats find food by listening to echoes.",
+        "Bats help plants by carrying pollen and seeds.",
+        "Bats are not blind; they can see."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Mammal",
+      "meaning": "An animal with fur or hair that drinks milk from its mom as a baby."
+    },
+    {
+      "word": "Echolocation",
+      "meaning": "Finding things by making sounds and listening for echoes."
+    },
+    {
+      "word": "Nectar",
+      "meaning": "A sweet juice inside flowers."
+    },
+    {
+      "word": "Pollen",
+      "meaning": "Yellow dust that flowers need to make seeds."
+    }
+  ],
+  "photos": [
+    {
+      "file": "bat-1.jpg",
+      "alt": "A bat with big ears flying with its wings open",
+      "credit": "PD-USGov, exact author unknown",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Big-eared-townsend-fledermaus.jpg"
+    },
+    {
+      "file": "bat-2.jpg",
+      "alt": "A flying fox bat hanging upside down with its wings spread",
+      "credit": "Hasitha Tudugalle",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Flying_fox_at_botanical_gardens_in_Sydney_(cropped_and_flipped).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "All About Bats for Kids: Animal Videos for Children - FreeSchool",
+      "url": "https://www.youtube.com/watch?v=9FVoTMOorXA",
+      "channel": "Free School",
+      "about": "This video shows how bats fly, eat, and rest.",
+      "cite": "\"All About Bats for Kids: Animal Videos for Children - FreeSchool.\" Free School. 2015."
+    },
+    {
+      "title": "3 Fun Facts About Bats!  | SciShow Kids",
+      "url": "https://www.youtube.com/watch?v=2Mii45v85YY",
+      "channel": "SciShow Kids",
+      "about": "Jessi shares three fun facts about bats.",
+      "cite": "\"3 Fun Facts About Bats!  | SciShow Kids.\" SciShow Kids. 2015."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rodrigues fruit bat",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/rodrigues-fruit-bat",
+      "level": "Easy",
+      "about": "Short facts and big photos about a fruit bat.",
+      "cite": "\"Rodrigues fruit bat.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Bat",
+      "site": "San Diego Zoo Wildlife Alliance Animals and Plants",
+      "url": "https://animals.sandiegozoo.org/animals/bat",
+      "level": "Read together",
+      "about": "Zoo experts tell how bats fly, eat, and raise pups.",
+      "cite": "\"Bat.\" San Diego Zoo Wildlife Alliance Animals and Plants."
+    },
+    {
+      "title": "Bats",
+      "site": "National Wildlife Federation",
+      "url": "https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Bats",
+      "level": "Read together",
+      "about": "Facts about bats and how they help people.",
+      "cite": "\"Bats.\" National Wildlife Federation."
+    },
+    {
+      "title": "Bat Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Bat",
+      "level": "Read together",
+      "about": "A kids encyclopedia page about bats and how they find food.",
+      "cite": "\"Bat Facts for Kids.\" Kiddle."
+    }
+  ]
+}

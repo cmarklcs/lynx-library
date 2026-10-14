@@ -1,0 +1,4 @@
+.claude/
+publish_files.json
+.DS_Store
+__pycache__/

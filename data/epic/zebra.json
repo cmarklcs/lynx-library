@@ -1,0 +1,35 @@
+{
+  "slug": "zebra",
+  "books": [
+    {
+      "title": "My First Animal Library: Zebra",
+      "author": "Cari Meister",
+      "url": "https://www.getepic.com/book/46663113/my-first-animal-library-zebra",
+      "lexile": "290L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "Follow a zebra herd as it watches out for lions.",
+      "cite": "Meister, Cari. My First Animal Library: Zebra. JUMP."
+    },
+    {
+      "title": "Zebras",
+      "author": "Kate Riggs",
+      "url": "https://www.getepic.com/book/53206903/zebras",
+      "lexile": "340L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "Learn how zebras grow, what they do, and where they live.",
+      "cite": "Riggs, Kate. Zebras. The Creative Company."
+    },
+    {
+      "title": "Zebras: Animal Safari",
+      "author": "Derek Zobel",
+      "url": "https://www.getepic.com/book/7534804/zebras-animal-safari",
+      "lexile": "440L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how zebras stay alive on the hot African grasslands.",
+      "cite": "Zobel, Derek. Zebras: Animal Safari. Bellwether Media."
+    }
+  ]
+}

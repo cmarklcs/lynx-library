@@ -1,0 +1,35 @@
+{
+  "slug": "wolf",
+  "books": [
+    {
+      "title": "Wolves",
+      "author": "Kate Riggs",
+      "url": "https://www.getepic.com/book/50821586/wolves",
+      "lexile": "340L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "Learn how wolves grow, what they do, and where they live.",
+      "cite": "Riggs, Kate. Wolves. The Creative Company."
+    },
+    {
+      "title": "Gray Wolves",
+      "author": "Grace Hansen",
+      "url": "https://www.getepic.com/book/28684911/gray-wolves",
+      "lexile": "460L",
+      "age": 6,
+      "publisher": "ABDO Publishing",
+      "about": "Learn what gray wolves eat and where they live.",
+      "cite": "Hansen, Grace. Gray Wolves. ABDO Publishing."
+    },
+    {
+      "title": "Saving the Gray Wolf",
+      "author": "Karen Latchana Kenney",
+      "url": "https://www.getepic.com/book/66045619/saving-the-gray-wolf",
+      "lexile": "390L",
+      "age": 8,
+      "publisher": "Pogo Books an imprint of JUMP",
+      "about": "Learn how people helped gray wolves come back.",
+      "cite": "Kenney, Karen Latchana. Saving the Gray Wolf. Pogo Books an imprint of JUMP."
+    }
+  ]
+}

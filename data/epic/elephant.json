@@ -1,0 +1,35 @@
+{
+  "slug": "elephant",
+  "books": [
+    {
+      "title": "Elephant Calves",
+      "author": "Genevieve Nilsen",
+      "url": "https://www.getepic.com/book/66004512/elephant-calves",
+      "lexile": "120L",
+      "age": 5,
+      "publisher": "Tadpole Books an imprint of JUMP",
+      "about": "Learn about baby elephants and how they grow.",
+      "cite": "Nilsen, Genevieve. Elephant Calves. Tadpole Books an imprint of JUMP."
+    },
+    {
+      "title": "Super Cute! Baby Elephants",
+      "author": "Christina Leaf",
+      "url": "https://www.getepic.com/book/56876536/super-cute-baby-elephants",
+      "lexile": "400L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "See how baby elephants learn to use their trunks.",
+      "cite": "Leaf, Christina. Super Cute! Baby Elephants. Bellwether Media."
+    },
+    {
+      "title": "African Elephants: Animal Safari",
+      "author": "Kari Schuetz",
+      "url": "https://www.getepic.com/book/7522583/african-elephants-animal-safari",
+      "lexile": "420L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how African elephants use their trunks, tusks, and big ears.",
+      "cite": "Schuetz, Kari. African Elephants: Animal Safari. Bellwether Media."
+    }
+  ]
+}

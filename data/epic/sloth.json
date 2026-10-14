@@ -1,0 +1,35 @@
+{
+  "slug": "sloth",
+  "books": [
+    {
+      "title": "National Geographic Readers: Swing Sloth!",
+      "author": "Susan B. Neuman",
+      "url": "https://www.getepic.com/book/48649581/national-geographic-readers-swing-sloth",
+      "lexile": "100L",
+      "age": 5,
+      "publisher": "National Geographic",
+      "about": "Swing through the rain forest with a sloth and meet its animal friends.",
+      "cite": "Neuman, Susan B.. Swing Sloth! National Geographic."
+    },
+    {
+      "title": "Sloths",
+      "author": "Julie Murray",
+      "url": "https://www.getepic.com/book/65956739/sloths",
+      "lexile": "230L",
+      "age": 6,
+      "publisher": "ABDO Kids an imprint of ABDO Publishing",
+      "about": "Learn what sloths look like, where they live, and what they eat.",
+      "cite": "Murray, Julie. Sloths. ABDO Kids an imprint of ABDO Publishing."
+    },
+    {
+      "title": "Animals of the Rain Forest: Sloths",
+      "author": "Karen Latchana Kenney",
+      "url": "https://www.getepic.com/book/80866359/animals-of-the-rain-forest-sloths",
+      "lexile": "430L",
+      "age": 7,
+      "publisher": "Blastoff! Readers an imprint of Bellwether",
+      "about": "Learn how slow sloths live well in the rain forest.",
+      "cite": "Kenney, Karen Latchana. Animals of the Rain Forest: Sloths. Blastoff! Readers an imprint of Bellwether."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "koala",
+  "books": [
+    {
+      "title": "National Geographic Readers: Climb, Koala!",
+      "author": "Jennifer Szymanski",
+      "url": "https://www.getepic.com/book/61434969/national-geographic-readers-climb-koala",
+      "lexile": "380L",
+      "age": 5,
+      "publisher": "National Geographic",
+      "about": "Spend a day with a koala and see what it does.",
+      "cite": "Szymanski, Jennifer. Climb, Koala! National Geographic."
+    },
+    {
+      "title": "Koalas",
+      "author": "Kate Riggs",
+      "url": "https://www.getepic.com/book/50864915/koalas",
+      "lexile": "270L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "Learn how koalas grow, what they do, and the trees they live in.",
+      "cite": "Riggs, Kate. Koalas. The Creative Company."
+    },
+    {
+      "title": "Koalas: Animal Safari",
+      "author": "Kari Schuetz",
+      "url": "https://www.getepic.com/book/7530360/koalas-animal-safari",
+      "lexile": "410L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn what koalas look like, what they eat, and where they live.",
+      "cite": "Schuetz, Kari. Koalas: Animal Safari. Bellwether Media."
+    }
+  ]
+}

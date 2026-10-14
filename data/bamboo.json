@@ -1,0 +1,159 @@
+{
+  "slug": "bamboo",
+  "name": "Bamboo",
+  "kind": "plant",
+  "group": "Grass",
+  "habitat": "Forest",
+  "intro": "Bamboo is a giant grass. It is one of the fastest-growing plants on Earth.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "Bamboo is a giant grass, not a tree.",
+        "Its stems are tall and hollow inside.",
+        "The stems have rings called joints.",
+        "Branches and leaves grow from the joints.",
+        "Some bamboo is small, and some is taller than a house."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Wild bamboo grows in Asia, Africa, and the Americas.",
+        "Many kinds grow where it is warm all year.",
+        "Other kinds can live where winters are cold.",
+        "Bamboo often grows close together in big clumps.",
+        "One bamboo plant can spread into a whole forest."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "Bamboo needs plenty of light.",
+        "It needs soil that drains well.",
+        "It needs water, but not too much.",
+        "Warm-weather bamboo can die if it freezes."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "New bamboo stems are called shoots.",
+        "Shoots come up from stems under the ground.",
+        "A shoot grows straight up very fast.",
+        "Some bamboo can grow as tall as a first grader in one day!",
+        "Most bamboo makes flowers only once in many years."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Giant pandas eat almost nothing but bamboo.",
+        "Red pandas and some lemurs eat bamboo too.",
+        "People build houses and bridges with bamboo.",
+        "Bamboo can be made into paper, chopsticks, and cloth.",
+        "Bamboo grows back quickly after it is cut."
+      ],
+      "from": [
+        0,
+        1
+      ],
+      "fromVideos": [
+        0
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "grass",
+      "meaning": "A plant with long, thin leaves, like the grass in a lawn."
+    },
+    {
+      "word": "hollow",
+      "meaning": "Empty inside, like a straw."
+    },
+    {
+      "word": "shoot",
+      "meaning": "A new stem that is just starting to grow."
+    },
+    {
+      "word": "joint",
+      "meaning": "A ring on a bamboo stem where branches can grow."
+    }
+  ],
+  "photos": [
+    {
+      "file": "bamboo-1.jpg",
+      "alt": "Tall green bamboo stems in a bamboo forest",
+      "credit": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg"
+    },
+    {
+      "file": "bamboo-2.jpg",
+      "alt": "A new bamboo shoot poking up out of the soil",
+      "credit": "Jodarom",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bamboo_shoot-phyllostachys_parvifolia-jx1241c.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Problem With Pandas | Animal Science for Kids",
+      "url": "https://www.youtube.com/watch?v=6fnriX2DIiQ",
+      "channel": "SciShow Kids",
+      "about": "Learn about giant pandas, which eat lots and lots of bamboo.",
+      "cite": "\"The Problem With Pandas | Animal Science for Kids.\" SciShow Kids. 2016."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bamboo facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Bamboo",
+      "level": "Read together",
+      "about": "Kid-friendly encyclopedia facts and pictures about the bamboo plant. It tells how fast bamboo grows.",
+      "cite": "\"Bamboo facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Bamboo Garden",
+      "site": "San Diego Botanic Garden",
+      "url": "https://sdbg.org/bamboo-garden/",
+      "level": "Read together",
+      "about": "A garden with many kinds of bamboo and a list of bamboo facts.",
+      "cite": "\"Bamboo Garden.\" San Diego Botanic Garden."
+    },
+    {
+      "title": "Bamboo: Graceful Grass or Jungle Giant",
+      "site": "Brooklyn Botanic Garden",
+      "url": "https://www.bbg.org/article/bamboo",
+      "level": "Read together",
+      "about": "How big bamboo gets and what it needs to grow.",
+      "cite": "\"Bamboo: Graceful Grass or Jungle Giant.\" Brooklyn Botanic Garden. 2000."
+    }
+  ]
+}

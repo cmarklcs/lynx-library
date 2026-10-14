@@ -1,0 +1,156 @@
+{
+  "slug": "kangaroo",
+  "name": "Kangaroo",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Grassland",
+  "intro": "A kangaroo is an animal that hops on its back legs. It lives in Australia.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A kangaroo has big, strong back legs.",
+        "It has small front legs.",
+        "It has a long, strong tail.",
+        "A big kangaroo can be taller than a grown-up.",
+        "A mother kangaroo has a pouch on her belly."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Big kangaroos live only in Australia.",
+        "They live in groups.",
+        "A group of kangaroos is called a mob."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Kangaroos eat plants.",
+        "They mostly eat grass.",
+        "They also eat small bushes called shrubs.",
+        "Red kangaroos can go a long time without water."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby kangaroo is called a joey.",
+        "A new joey is about as small as a grape.",
+        "It crawls into its mom's pouch all by itself.",
+        "It drinks milk and grows in the pouch.",
+        "It stays in the pouch for many months."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A kangaroo can jump as far as two cars parked in a row.",
+        "It can hop as fast as a car on a town street.",
+        "Its tail helps it balance when it jumps.",
+        "Kangaroos are good swimmers.",
+        "Kangaroos thump their feet to warn others of danger."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Marsupial",
+      "meaning": "An animal mom that carries her baby in a pouch."
+    },
+    {
+      "word": "Joey",
+      "meaning": "A baby kangaroo."
+    },
+    {
+      "word": "Pouch",
+      "meaning": "A pocket of skin on a mother's belly."
+    },
+    {
+      "word": "Mob",
+      "meaning": "A group of kangaroos."
+    }
+  ],
+  "photos": [
+    {
+      "file": "kangaroo-1.jpg",
+      "alt": "A gray kangaroo standing in the grass",
+      "credit": "Mark Wagner, based on image by User:Lilly M",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kangaroo_Australia_01_11_2008_-_retouch.JPG"
+    },
+    {
+      "file": "kangaroo-2.jpg",
+      "alt": "A mother kangaroo with her joey drinking milk from the pouch",
+      "credit": "Sheba_Also 43,000 photos",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kangaroo_and_Joey_in_Pouch%2B_(114325779).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "All About Kangaroos for Kids - Kangaroo Facts for Children: FreeSchool",
+      "url": "https://www.youtube.com/watch?v=QKO3sqic5fc",
+      "channel": "Free School",
+      "about": "This video shows how kangaroos hop and carry their babies.",
+      "cite": "\"All About Kangaroos for Kids - Kangaroo Facts for Children: FreeSchool.\" Free School. 2022."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kangaroo",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/kangaroo",
+      "level": "Easy",
+      "about": "Fun facts and photos about how kangaroos hop and grow.",
+      "cite": "\"Kangaroo.\" National Geographic Kids."
+    },
+    {
+      "title": "Red Kangaroo",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/red_kangaroo.php",
+      "level": "Read together",
+      "about": "A kids page about the biggest kind of kangaroo.",
+      "cite": "\"Red Kangaroo.\" Ducksters."
+    },
+    {
+      "title": "Kangaroo facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Kangaroo",
+      "level": "Read together",
+      "about": "A kids encyclopedia page about kangaroos and their joeys.",
+      "cite": "\"Kangaroo facts for kids.\" Kiddle."
+    }
+  ]
+}

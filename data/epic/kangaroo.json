@@ -1,0 +1,35 @@
+{
+  "slug": "kangaroo",
+  "books": [
+    {
+      "title": "Kangaroos",
+      "author": "Julie Murray",
+      "url": "https://www.getepic.com/book/65960072/kangaroos",
+      "lexile": "230L",
+      "age": 6,
+      "publisher": "ABDO Kids an imprint of ABDO Publishing",
+      "about": "Learn what kangaroos look like, where they live, and what they eat.",
+      "cite": "Murray, Julie. Kangaroos. ABDO Kids an imprint of ABDO Publishing."
+    },
+    {
+      "title": "My First Animal Library: Kangaroos",
+      "author": "Mari Schuh",
+      "url": "https://www.getepic.com/book/46698665/my-first-animal-library-kangaroos",
+      "lexile": "340L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "Follow a kangaroo as it raises its baby joey.",
+      "cite": "Schuh, Mari. My First Animal Library: Kangaroos. JUMP."
+    },
+    {
+      "title": "Kangaroos",
+      "author": "Kari Schuetz",
+      "url": "https://www.getepic.com/book/40053774/kangaroos",
+      "lexile": "420L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how kangaroos hop and live together in groups called mobs.",
+      "cite": "Schuetz, Kari. Kangaroos. Bellwether Media."
+    }
+  ]
+}

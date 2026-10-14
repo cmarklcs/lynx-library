@@ -1,0 +1,35 @@
+{
+  "slug": "giraffe",
+  "books": [
+    {
+      "title": "My First Animal Library: Giraffes",
+      "author": "Rebecca Stromstad Glaser",
+      "url": "https://www.getepic.com/book/12723174/my-first-animal-library-giraffes",
+      "lexile": "300L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "Learn how a giraffe’s tall body helps it live on the savanna.",
+      "cite": "Glaser, Rebecca Stromstad. My First Animal Library: Giraffes. JUMP."
+    },
+    {
+      "title": "Giraffes",
+      "author": "Kate Riggs",
+      "url": "https://www.getepic.com/book/47346378/giraffes",
+      "lexile": "330L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "Learn how giraffes grow, what they do, and where they live.",
+      "cite": "Riggs, Kate. Giraffes. The Creative Company."
+    },
+    {
+      "title": "Giraffes: Animal Safari",
+      "author": "Kari Schuetz",
+      "url": "https://www.getepic.com/book/7527027/giraffes-animal-safari",
+      "lexile": "420L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how being so tall helps giraffes and sometimes makes life hard.",
+      "cite": "Schuetz, Kari. Giraffes: Animal Safari. Bellwether Media."
+    }
+  ]
+}

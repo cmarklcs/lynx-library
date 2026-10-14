@@ -1,0 +1,35 @@
+{
+  "slug": "octopus",
+  "books": [
+    {
+      "title": "Ocean Animals: Octopuses",
+      "author": "Derek Zobel",
+      "url": "https://www.getepic.com/book/81362976/ocean-animals-octopuses",
+      "lexile": "250L",
+      "age": 5,
+      "publisher": "Blastoff! Beginners an imprint of Bellwether",
+      "about": "Octopuses can change color, walk on their arms, and squirt ink.",
+      "cite": "Zobel, Derek. Ocean Animals: Octopuses. Blastoff! Beginners an imprint of Bellwether."
+    },
+    {
+      "title": "Octopuses",
+      "author": "Cari Meister",
+      "url": "https://www.getepic.com/book/14103036/octopuses",
+      "lexile": "320L",
+      "age": 5,
+      "publisher": "JUMP",
+      "about": "Learn how octopuses act and how they find food.",
+      "cite": "Meister, Cari. Octopuses. JUMP."
+    },
+    {
+      "title": "Octopuses: Oceans Alive",
+      "author": "Ann Herriges",
+      "url": "https://www.getepic.com/book/7333713/octopuses-oceans-alive",
+      "lexile": "440L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how octopuses use their eight arms to move, hide, and hunt.",
+      "cite": "Herriges, Ann. Octopuses: Oceans Alive. Bellwether Media."
+    }
+  ]
+}

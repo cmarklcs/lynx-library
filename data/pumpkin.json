@@ -1,0 +1,168 @@
+{
+  "slug": "pumpkin",
+  "name": "Pumpkin",
+  "kind": "plant",
+  "group": "Fruit",
+  "habitat": "Farm",
+  "intro": "A pumpkin is a big, round fruit. It grows on a long vine.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "Most pumpkins are bright orange.",
+        "Some pumpkins are white, green, or yellow.",
+        "Most pumpkins are round.",
+        "A pumpkin has a thick, hard shell.",
+        "Inside, it has soft pulp and lots of seeds."
+      ],
+      "from": [
+        0,
+        2
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Pumpkins first grew in Mexico and the southern United States.",
+        "Now people grow them all over the world.",
+        "Only Antarctica is too cold for pumpkins.",
+        "Many pumpkins grow on farms and in gardens."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "A pumpkin plant needs lots of sun.",
+        "It needs warm soil to start growing.",
+        "It needs water to keep the soil damp.",
+        "It likes rich soil that drains well.",
+        "It needs lots of room for its long vines."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A pumpkin starts as a small seed.",
+        "The seed grows into a plant with long vines.",
+        "The plant grows male and female flowers.",
+        "Bees carry pollen from flower to flower.",
+        "Then a pumpkin grows until its skin is hard."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ],
+      "fromVideos": [
+        1
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A pumpkin is really a fruit because it has seeds.",
+        "Pumpkins are mostly water.",
+        "People carve pumpkins into jack-o'-lanterns for Halloween.",
+        "You can roast pumpkin seeds for a snack.",
+        "Giant pumpkins can be as heavy as a small car."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "vine",
+      "meaning": "A long stem that creeps along the ground."
+    },
+    {
+      "word": "seed",
+      "meaning": "A small part of a plant that can grow into a new plant."
+    },
+    {
+      "word": "pollen",
+      "meaning": "Yellow dust that flowers need to make fruit."
+    },
+    {
+      "word": "jack-o'-lantern",
+      "meaning": "A pumpkin with a face carved into it."
+    }
+  ],
+  "photos": [
+    {
+      "file": "pumpkin-1.jpg",
+      "alt": "Orange, white, and gray-green pumpkins sitting on the grass",
+      "credit": "George Chernilevsky",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Cucurbita_2011_G1.jpg"
+    },
+    {
+      "file": "pumpkin-2.jpg",
+      "alt": "A big yellow pumpkin flower in a garden",
+      "credit": "Anna.Massini",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fiore_di_zucca_-_Pumpkin_flowers.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Dissect a Pumpkin! | Pumpkin Carving Science! | SciShow Kids",
+      "url": "https://www.youtube.com/watch?v=d1ENed_Sn_Y",
+      "channel": "SciShow Kids",
+      "about": "Look inside a pumpkin to find its parts and seeds.",
+      "cite": "\"Dissect a Pumpkin! | Pumpkin Carving Science! | SciShow Kids.\" SciShow Kids. 2017."
+    },
+    {
+      "title": "Life Cycle of a Pumpkin for Kids! | Learn About Pumpkins | Twinkl USA",
+      "url": "https://www.youtube.com/watch?v=rGogvQOvcV8",
+      "channel": "Twinkl Teaching Resources - United States",
+      "about": "See how a pumpkin grows from a seed to a big fruit.",
+      "cite": "\"Life Cycle of a Pumpkin for Kids! | Learn About Pumpkins | Twinkl USA.\" Twinkl Teaching Resources - United States. 2023."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pumpkin facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Pumpkin",
+      "level": "Read together",
+      "about": "Kid-friendly encyclopedia facts and pictures about the pumpkin. It tells where pumpkins first grew.",
+      "cite": "\"Pumpkin facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Pumpkins",
+      "site": "KidsGardening",
+      "url": "https://kidsgardening.org/resources/growing-guide-pumpkins/",
+      "level": "Read together",
+      "about": "How to grow pumpkins in a garden, and what they need.",
+      "cite": "\"Pumpkins.\" KidsGardening."
+    },
+    {
+      "title": "Fun Pumpkin Facts for Kids",
+      "site": "Science Kids",
+      "url": "https://www.sciencekids.co.nz/sciencefacts/food/pumpkins.html",
+      "level": "Easy",
+      "about": "A short list of fun pumpkin facts.",
+      "cite": "\"Fun Pumpkin Facts for Kids.\" Science Kids."
+    }
+  ]
+}

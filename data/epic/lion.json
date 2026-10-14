@@ -1,0 +1,35 @@
+{
+  "slug": "lion",
+  "books": [
+    {
+      "title": "National Geographic Readers: Lions",
+      "author": "Laura Marsh",
+      "url": "https://www.getepic.com/book/48765125/national-geographic-readers-lions",
+      "lexile": "410L",
+      "age": 6,
+      "publisher": "National Geographic",
+      "about": "Learn all about lions, the big cats of Africa.",
+      "cite": "Marsh, Laura. Lions. National Geographic."
+    },
+    {
+      "title": "My First Animal Library: Lions",
+      "author": "Mary Lindeen",
+      "url": "https://www.getepic.com/book/12720952/my-first-animal-library-lions",
+      "lexile": "240L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "Meet a lion family and see what each lion in the pride does.",
+      "cite": "Lindeen, Mary. My First Animal Library: Lions. JUMP."
+    },
+    {
+      "title": "Lions: Animal Safari",
+      "author": "Derek Zobel",
+      "url": "https://www.getepic.com/book/7531471/lions-animal-safari",
+      "lexile": "420L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how lions look, hunt, and live together.",
+      "cite": "Zobel, Derek. Lions: Animal Safari. Bellwether Media."
+    }
+  ]
+}

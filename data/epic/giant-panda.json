@@ -1,0 +1,35 @@
+{
+  "slug": "giant-panda",
+  "books": [
+    {
+      "title": "I See Animals: Giant Panda",
+      "author": "August Hoeft",
+      "url": "https://www.getepic.com/book/80605274/i-see-animals-giant-panda",
+      "lexile": "160L",
+      "age": 5,
+      "publisher": "Xist Publishing",
+      "about": "A very short book with simple facts about giant pandas.",
+      "cite": "Hoeft, August. I See Animals: Giant Panda. Xist Publishing."
+    },
+    {
+      "title": "Giant Pandas",
+      "author": "Trudi Strain Trueit",
+      "url": "https://www.getepic.com/book/32806721/giant-pandas",
+      "lexile": "430L",
+      "age": 6,
+      "publisher": "Amicus provided by the Creative Company",
+      "about": "Learn where giant pandas live in China and why they eat bamboo.",
+      "cite": "Trueit, Trudi Strain. Giant Pandas. Amicus provided by the Creative Company."
+    },
+    {
+      "title": "Giant Pandas: Animal Safari",
+      "author": "Kari Schuetz",
+      "url": "https://www.getepic.com/book/7525916/giant-pandas-animal-safari",
+      "lexile": "450L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how giant pandas look, what they eat, and how they act.",
+      "cite": "Schuetz, Kari. Giant Pandas: Animal Safari. Bellwether Media."
+    }
+  ]
+}

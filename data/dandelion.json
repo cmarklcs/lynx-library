@@ -1,0 +1,168 @@
+{
+  "slug": "dandelion",
+  "name": "Dandelion",
+  "kind": "plant",
+  "group": "Flower",
+  "habitat": "Garden",
+  "intro": "A dandelion is a bright yellow flower. Its seeds float away on the wind.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A dandelion has a bright yellow flower.",
+        "The flower is made of many tiny flowers.",
+        "Its leaves have jagged edges like teeth.",
+        "Its stem is hollow inside.",
+        "A broken stem has white, milky juice."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Dandelions first grew in Europe and Asia.",
+        "Now they grow on every continent but Antarctica.",
+        "They grow in lawns, fields, and gardens.",
+        "They can even grow in sidewalk cracks."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "A dandelion grows well in full sun.",
+        "It likes deep soil that drains well.",
+        "It can grow in many kinds of soil.",
+        "Its seeds need light to sprout.",
+        "It needs some water to keep the soil damp."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A dandelion grows a long root called a taproot.",
+        "The root stores food through the winter.",
+        "The plant comes back every spring.",
+        "The yellow flower turns into a white puffball.",
+        "Each seed has a tiny parachute that floats on the wind."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ],
+      "fromVideos": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "The name dandelion means \"lion's tooth\" in French.",
+        "The flower opens in the day and closes at night.",
+        "Bees visit dandelions for food in early spring.",
+        "One flower can make hundreds of seeds.",
+        "Its root can grow deeper than a grown-up is tall."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "taproot",
+      "meaning": "One long, thick root that grows straight down."
+    },
+    {
+      "word": "seed head",
+      "meaning": "The white puffball full of seeds."
+    },
+    {
+      "word": "hollow",
+      "meaning": "Empty inside, like a straw."
+    },
+    {
+      "word": "continent",
+      "meaning": "One of the seven very large pieces of land on Earth."
+    }
+  ],
+  "photos": [
+    {
+      "file": "dandelion-1.jpg",
+      "alt": "A bright yellow dandelion flower in green grass",
+      "credit": "Dominicus Johannes Bergsma",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Paardenbloem_(Taraxacum_officinale)_06.JPG"
+    },
+    {
+      "file": "dandelion-2.jpg",
+      "alt": "A round, white dandelion seed head",
+      "credit": "Avenue",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dandelion_seed_head_(Taraxacum_officinale).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Life Cycle of a Dandelion | Dandelion Life Cycle | All About Dandelions",
+      "url": "https://www.youtube.com/watch?v=QwwHCo8mdac",
+      "channel": "Twinkl Kids TV",
+      "about": "Watch a dandelion grow from a seed to a flower to a puffball.",
+      "cite": "\"The Life Cycle of a Dandelion | Dandelion Life Cycle | All About Dandelions.\" Twinkl Kids TV. 2026."
+    },
+    {
+      "title": "How Do Plant Seeds Travel? | Spring is Here! | SciShow Kids",
+      "url": "https://www.youtube.com/watch?v=WqgVks9NViQ",
+      "channel": "SciShow Kids",
+      "about": "Learn the ways seeds travel to new places to grow.",
+      "cite": "\"How Do Plant Seeds Travel? | Spring is Here! | SciShow Kids.\" SciShow Kids. 2021."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dandelion facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Dandelion",
+      "level": "Read together",
+      "about": "Kid-friendly encyclopedia facts and pictures about the dandelion. It tells how the seeds fly.",
+      "cite": "\"Dandelion facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Dandelions",
+      "site": "KidsGardening",
+      "url": "https://kidsgardening.org/resources/growing-guide-dandelions/",
+      "level": "Read together",
+      "about": "What dandelions need to grow and why bees like them.",
+      "cite": "\"Dandelions.\" KidsGardening."
+    },
+    {
+      "title": "Weed of the Month: Dandelion",
+      "site": "Brooklyn Botanic Garden",
+      "url": "https://www.bbg.org/article/weed_of_the_month_dandelion",
+      "level": "Read together",
+      "about": "Where dandelions came from and how deep their roots grow.",
+      "cite": "\"Weed of the Month: Dandelion.\" Brooklyn Botanic Garden. 2014."
+    }
+  ]
+}

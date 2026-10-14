@@ -1,0 +1,171 @@
+{
+  "slug": "sunflower",
+  "name": "Sunflower",
+  "kind": "plant",
+  "group": "Flower",
+  "habitat": "Farm",
+  "intro": "A sunflower is a tall plant with a big yellow flower. It grows fast in the summer sun.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A sunflower has a tall, straight stem.",
+        "The stem is a little bit hairy.",
+        "Its leaves are big and rough.",
+        "The big flower head is made of hundreds of tiny flowers.",
+        "The petals are often yellow, but some are red or orange."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Sunflowers first grew in North America and Mexico.",
+        "Now they grow in almost every part of the world.",
+        "They do not grow in jungles, deserts, or icy lands.",
+        "Farmers grow sunflowers in big fields.",
+        "People grow them in gardens too."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "A sunflower needs lots of sun.",
+        "It likes at least 6 hours of sun each day.",
+        "It grows best in rich soil that drains well.",
+        "Young plants need soil that stays a little wet.",
+        "Bigger plants like a deep drink of water."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A sunflower starts as a seed in the ground.",
+        "People plant the seeds after the last frost.",
+        "The plant grows very fast in summer.",
+        "The flower head opens and blooms in summer.",
+        "Each tiny flower can turn into a seed."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Young sunflowers turn to follow the sun.",
+        "Grown-up sunflowers mostly face east.",
+        "One flower head can hold hundreds of seeds.",
+        "Bees visit sunflowers for nectar and pollen.",
+        "Kansas is called the Sunflower State."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "seed",
+      "meaning": "A tiny part of a plant that can grow into a new plant."
+    },
+    {
+      "word": "florets",
+      "meaning": "Tiny flowers that crowd together to make one big flower head."
+    },
+    {
+      "word": "soil",
+      "meaning": "The dirt that plants grow in."
+    },
+    {
+      "word": "nectar",
+      "meaning": "A sweet juice inside flowers that bees drink."
+    },
+    {
+      "word": "pollen",
+      "meaning": "A yellow dust that flowers need to make seeds."
+    }
+  ],
+  "photos": [
+    {
+      "file": "sunflower-1.jpg",
+      "alt": "A bright yellow sunflower in bloom with green buds",
+      "credit": "Adarsh Patel",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunflower_(Helianthus_annuus)_D35_5965_01.jpg"
+    },
+    {
+      "file": "sunflower-2.jpg",
+      "alt": "A big field of sunflowers under a blue sky",
+      "credit": "Petar Milošević",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunflower_fields_in_%C5%A0umadija.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Life Cycle of a Sunflower | Sunflower Life Cycle | Science for kids!",
+      "url": "https://www.youtube.com/watch?v=Dcbbm9UuFJw",
+      "channel": "Twinkl Educational Publishing",
+      "about": "Watch a tiny seed grow into a big sunflower and make new seeds.",
+      "cite": "\"The Life Cycle of a Sunflower | Sunflower Life Cycle | Science for kids!.\" Twinkl Educational Publishing. 2024."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sunflower facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Sunflower",
+      "level": "Read together",
+      "about": "Learn what sunflowers look like, where they grow, and how they make seeds.",
+      "cite": "\"Sunflower facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Fun Sunflower Facts for Kids",
+      "site": "Science Kids",
+      "url": "https://www.sciencekids.co.nz/sciencefacts/plants/sunflowers.html",
+      "level": "Read together",
+      "about": "A short list of fun facts about sunflowers and their seeds.",
+      "cite": "\"Fun Sunflower Facts for Kids.\" Science Kids. 2023."
+    },
+    {
+      "title": "Sunflowers",
+      "site": "KidsGardening",
+      "url": "https://kidsgardening.org/resources/growing-guide-sunflowers/",
+      "level": "Read together",
+      "about": "Learn how to plant and grow sunflowers with a grown-up.",
+      "cite": "\"Sunflowers.\" KidsGardening."
+    },
+    {
+      "title": "Sunflower",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/sunflower/353826",
+      "level": "Read together",
+      "about": "Learn about the parts of a sunflower and how people use its seeds.",
+      "cite": "\"Sunflower.\" Britannica Kids."
+    }
+  ]
+}

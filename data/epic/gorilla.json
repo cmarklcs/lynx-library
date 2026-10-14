@@ -1,0 +1,35 @@
+{
+  "slug": "gorilla",
+  "books": [
+    {
+      "title": "Gorilla Infants",
+      "author": "Genevieve Nilsen",
+      "url": "https://www.getepic.com/book/66006734/gorilla-infants",
+      "lexile": "130L",
+      "age": 5,
+      "publisher": "Tadpole Books an imprint of JUMP",
+      "about": "Learn about baby gorillas and how they grow.",
+      "cite": "Nilsen, Genevieve. Gorilla Infants. Tadpole Books an imprint of JUMP."
+    },
+    {
+      "title": "Gorillas",
+      "author": "Kate Riggs",
+      "url": "https://www.getepic.com/book/50863804/gorillas",
+      "lexile": "200L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "Learn how gorillas grow, what they do, and where they live.",
+      "cite": "Riggs, Kate. Gorillas. The Creative Company."
+    },
+    {
+      "title": "Gorillas: Animal Safari",
+      "author": "Derek Zobel",
+      "url": "https://www.getepic.com/book/7528138/gorillas-animal-safari",
+      "lexile": "390L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how gorillas walk and why they beat their chests.",
+      "cite": "Zobel, Derek. Gorillas: Animal Safari. Bellwether Media."
+    }
+  ]
+}

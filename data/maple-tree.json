@@ -1,0 +1,168 @@
+{
+  "slug": "maple-tree",
+  "name": "Maple Tree",
+  "kind": "plant",
+  "group": "Tree",
+  "habitat": "Forest",
+  "intro": "A maple is a tree with pointed leaves. Its leaves turn bright colors in the fall.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A maple tree can be very big and tall.",
+        "Its leaves have pointed tips.",
+        "A sugar maple leaf has five main parts called lobes.",
+        "In fall, the leaves turn yellow, orange, or red.",
+        "Its seeds have flat wings, like little helicopters."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Maple trees grow in North America, Europe, and Asia.",
+        "Most kinds of maples come from Asia.",
+        "Sugar maples grow in the northern United States and Canada.",
+        "People plant maples in parks and yards for shade."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "A maple tree needs deep soil that drains well.",
+        "It does not like very dry or very wet ground.",
+        "Young sugar maples can grow in shade.",
+        "Its seeds need a cold winter before they sprout.",
+        "Salt from roads can hurt sugar maples."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "Maple seeds spin down from the tree in the wind.",
+        "After a cold winter, a seed sprouts in spring.",
+        "The young tree grows a little taller each year.",
+        "A sugar maple makes its first seeds at about 30 years old.",
+        "Some sugar maples live for hundreds of years."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Maple syrup is made from the sap of sugar maples.",
+        "It takes about 40 buckets of sap to make 1 bucket of syrup.",
+        "A maple leaf is on the flag of Canada.",
+        "Maple wood is used to make baseball bats and bowling pins.",
+        "Bees visit maple flowers in early spring."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ],
+      "fromVideos": [
+        0,
+        1
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "sap",
+      "meaning": "A watery juice inside a tree."
+    },
+    {
+      "word": "syrup",
+      "meaning": "A thick, sweet liquid you can put on pancakes."
+    },
+    {
+      "word": "lobe",
+      "meaning": "A rounded or pointed part of a leaf."
+    },
+    {
+      "word": "seed",
+      "meaning": "A small part of a plant that can grow into a new plant."
+    }
+  ],
+  "photos": [
+    {
+      "file": "maple-tree-1.jpg",
+      "alt": "A sugar maple tree with bright red and orange fall leaves in a park",
+      "credit": "Cephas",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Acer_saccharum_UL_01.jpg"
+    },
+    {
+      "file": "maple-tree-2.jpg",
+      "alt": "Green maple leaves with a bunch of winged maple seeds",
+      "credit": "Homer Edward Price",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Norway_Maple_samaras_(2997176462).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Where Does Maple Syrup Come From? | Winter is Alive! | SciShow Kids",
+      "url": "https://www.youtube.com/watch?v=p_Ob1q_a4xo",
+      "channel": "SciShow Kids",
+      "about": "Find out how sap from maple trees becomes maple syrup.",
+      "cite": "\"Where Does Maple Syrup Come From? | Winter is Alive! | SciShow Kids.\" SciShow Kids. 2022."
+    },
+    {
+      "title": "Ever Wonder How Maple Syrup Is Made? | Highlights Kids",
+      "url": "https://www.youtube.com/watch?v=3B0iOyhkzi4",
+      "channel": "Highlights Kids",
+      "about": "See how people collect sap and cook it into syrup.",
+      "cite": "\"Ever Wonder How Maple Syrup Is Made? | Highlights Kids.\" Highlights Kids. 2020."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Maple facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Maple",
+      "level": "Read together",
+      "about": "Kid-friendly encyclopedia facts and pictures about the maple tree. It tells about helicopter seeds.",
+      "cite": "\"Maple facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Sugar maple facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Sugar_maple",
+      "level": "Read together",
+      "about": "Facts about the sugar maple, the tree that gives us maple syrup.",
+      "cite": "\"Sugar maple facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Sugar Maples",
+      "site": "KidsGardening",
+      "url": "https://kidsgardening.org/resources/growing-guide-sugar-maples/",
+      "level": "Read together",
+      "about": "How sugar maples grow, what they need, and how syrup is made.",
+      "cite": "\"Sugar Maples.\" KidsGardening."
+    }
+  ]
+}

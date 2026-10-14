@@ -1,0 +1,173 @@
+{
+  "slug": "oak-tree",
+  "name": "Oak Tree",
+  "kind": "plant",
+  "group": "Tree",
+  "habitat": "Forest",
+  "intro": "An oak is a big, strong tree. Its seeds are called acorns.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "An oak is a big tree with a wide top.",
+        "A grown oak can be as tall as a 10-story building.",
+        "Many oak leaves have round bumps called lobes.",
+        "In spring, it has long yellow flowers called catkins.",
+        "Its acorns sit in little cups."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Oak trees grow in the top half of the world.",
+        "Some grow where it is cool.",
+        "Some grow where it is warm.",
+        "North America has many kinds of oaks.",
+        "In England, oaks grow in many woods."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "An oak needs sunlight, water, and good soil.",
+        "Young oaks grow best in full sun.",
+        "They like soil where water drains away.",
+        "Young trees need water each week if it does not rain."
+      ],
+      "from": [
+        1,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "An oak tree starts as an acorn.",
+        "Ripe acorns turn brown and fall to the ground.",
+        "A root grows out of the acorn first.",
+        "A tiny tree sprouts in the spring.",
+        "An oak makes its first acorns when it is about 20 years old."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Squirrels and jays bury acorns to eat later.",
+        "Some forgotten acorns grow into new oak trees.",
+        "Birds, bugs, and bats live in oak trees.",
+        "One big oak can make thousands of acorns in a year.",
+        "Some oak trees live for hundreds of years."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "acorn",
+      "meaning": "The nut of an oak tree that has a seed inside."
+    },
+    {
+      "word": "catkins",
+      "meaning": "Long, hanging flowers on some trees."
+    },
+    {
+      "word": "lobes",
+      "meaning": "Round bumps on the edge of a leaf."
+    },
+    {
+      "word": "sprout",
+      "meaning": "To start to grow out of a seed."
+    }
+  ],
+  "photos": [
+    {
+      "file": "oak-tree-1.jpg",
+      "alt": "A big white oak tree with green leaves on a lawn",
+      "credit": "Marty Aligata",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:White_Oak_Tree,_West_Hartford,_CT_-_June_17,_2013.jpg"
+    },
+    {
+      "file": "oak-tree-2.jpg",
+      "alt": "A green acorn in its cup hanging from a twig",
+      "credit": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Quercus_robur_acorn_-_Keila.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "A year in the life of an oak tree | Woodland Trust",
+      "url": "https://www.youtube.com/watch?v=zdKYWiVy9FY",
+      "channel": "The Woodland Trust",
+      "about": "Watch one oak tree change from winter to spring, summer, and fall.",
+      "cite": "\"A year in the life of an oak tree | Woodland Trust.\" The Woodland Trust. 2017."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Oak facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Oak",
+      "level": "Read together",
+      "about": "Learn about oak leaves, acorns, and the animals that live in oak trees.",
+      "cite": "\"Oak facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Acorn facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Acorn",
+      "level": "Read together",
+      "about": "Learn what an acorn is and how squirrels and jays help plant new oaks.",
+      "cite": "\"Acorn facts for kids.\" Kiddle."
+    },
+    {
+      "title": "English Oak",
+      "site": "Woodland Trust",
+      "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/english-oak/",
+      "level": "Read together",
+      "about": "See oak leaves, flowers, and acorns, and the wildlife that uses oak trees.",
+      "cite": "\"English Oak.\" Woodland Trust."
+    },
+    {
+      "title": "Growing Your Own Oak Seedlings",
+      "site": "Mississippi State University Extension",
+      "url": "https://extension.msstate.edu/publications/growing-your-own-oak-seedlings",
+      "level": "Read together",
+      "about": "Learn how to grow a baby oak tree from an acorn.",
+      "cite": "\"Growing Your Own Oak Seedlings.\" Mississippi State University Extension."
+    },
+    {
+      "title": "Oak",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/oak/353554",
+      "level": "Read together",
+      "about": "Learn about oak trees, their leaves, and acorns.",
+      "cite": "\"Oak.\" Britannica Kids."
+    }
+  ]
+}

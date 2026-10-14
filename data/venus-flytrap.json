@@ -1,0 +1,175 @@
+{
+  "slug": "venus-flytrap",
+  "name": "Venus Flytrap",
+  "kind": "plant",
+  "group": "Plant",
+  "habitat": "Bog",
+  "intro": "A Venus flytrap is a small plant that catches bugs. Its leaves snap shut like a trap.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A Venus flytrap is a small green plant.",
+        "Its leaves grow in a circle.",
+        "Each leaf ends in a trap with two halves.",
+        "Tiny trigger hairs grow inside the trap.",
+        "Spiky bristles line the edges of the trap."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Venus flytraps grow wild in North Carolina and South Carolina.",
+        "They live in wet, sunny places like bogs.",
+        "The soil there is wet most of the year.",
+        "That soil has very little plant food.",
+        "Fires help keep their homes open and sunny."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "A Venus flytrap needs lots of sun.",
+        "It needs wet soil.",
+        "It makes food from sunlight like other plants.",
+        "It also catches bugs to get extra nutrients.",
+        "It mostly eats ants and spiders."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A Venus flytrap grows from a tiny black seed.",
+        "In late spring, it grows white flowers.",
+        "The flowers sit on a tall stalk, away from the traps.",
+        "Each trap can close only a few times.",
+        "Then the plant grows a new trap."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A trap snaps shut very, very fast.",
+        "A hair must be touched two times to close the trap.",
+        "This way, raindrops do not trick the trap.",
+        "A trap cannot hurt people.",
+        "A Venus flytrap can live up to 20 years."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "carnivorous plant",
+      "meaning": "A plant that catches and eats bugs."
+    },
+    {
+      "word": "bog",
+      "meaning": "Wet, soft land with lots of water in the ground."
+    },
+    {
+      "word": "nutrients",
+      "meaning": "Things in food and soil that help living things grow."
+    },
+    {
+      "word": "trigger hairs",
+      "meaning": "Tiny hairs inside the trap that tell it to close."
+    }
+  ],
+  "photos": [
+    {
+      "file": "venus-flytrap-1.jpg",
+      "alt": "Green Venus flytrap traps with spiky edges",
+      "credit": "Isiwal",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Linz_Botanischer_Garten_Venusfliegenfalle_Dionaea_muscipula-2853.jpg"
+    },
+    {
+      "file": "venus-flytrap-2.jpg",
+      "alt": "A small white Venus flytrap flower",
+      "credit": "Calyponte",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dionaea_muscipula_flower_1.JPG"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Carnivorous Plants for Kids | Learn about sundews, Venus flytraps, and more",
+      "url": "https://www.youtube.com/watch?v=5MnZWamBUCE",
+      "channel": "Learn Bright",
+      "about": "Learn how Venus flytraps and other plants catch bugs to get food.",
+      "cite": "\"Carnivorous Plants for Kids | Learn about sundews, Venus flytraps, and more.\" Learn Bright. 2025."
+    },
+    {
+      "title": "Carnivorous Plants | The Dr. Binocs Show | Educational Videos For Kids",
+      "url": "https://www.youtube.com/watch?v=4yvUjwt2-jI",
+      "channel": "Peekaboo Kidz",
+      "about": "Dr. Binocs shows the different ways plants trap bugs, like the snap trap.",
+      "cite": "\"Carnivorous Plants | The Dr. Binocs Show | Educational Videos For Kids.\" Peekaboo Kidz. 2016."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Venus flytrap facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Venus_flytrap",
+      "level": "Read together",
+      "about": "Learn how the trap works, what it eats, and where it grows.",
+      "cite": "\"Venus flytrap facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Venus Flytrap",
+      "site": "National Wildlife Federation",
+      "url": "https://www.nwf.org/Educational-Resources/Wildlife-Guide/Plants-and-Fungi/Venus-Flytrap",
+      "level": "Read together",
+      "about": "Learn how the Venus flytrap catches bugs and why it needs sunny, open land.",
+      "cite": "\"Venus Flytrap.\" National Wildlife Federation. 2026."
+    },
+    {
+      "title": "Venus Fly Trap (Dionaea muscipula)",
+      "site": "U.S. Fish and Wildlife Service",
+      "url": "https://www.fws.gov/species/venus-fly-trap-dionaea-muscipula",
+      "level": "Read together",
+      "about": "Learn where Venus flytraps grow wild and how people help protect them.",
+      "cite": "\"Venus Fly Trap (Dionaea muscipula).\" U.S. Fish and Wildlife Service."
+    },
+    {
+      "title": "Venus's-flytrap",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/Venuss-flytrap/353896",
+      "level": "Read together",
+      "about": "Learn how this plant catches insects.",
+      "cite": "\"Venus's-flytrap.\" Britannica Kids."
+    }
+  ]
+}

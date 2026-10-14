@@ -1,0 +1,34 @@
+{
+  "slug": "dolphin",
+  "books": [
+    {
+      "title": "National Geographic Readers: Dive, Dolphin",
+      "author": "Shira Evans",
+      "url": "https://www.getepic.com/book/48554035/national-geographic-readers-dive-dolphin",
+      "lexile": "280L",
+      "age": 5,
+      "publisher": "National Geographic",
+      "about": "Meet all kinds of dolphins, from bottlenose dolphins to orcas.",
+      "cite": "Evans, Shira. Dive, Dolphin. National Geographic."
+    },
+    {
+      "title": "Ocean Animals: Dolphins",
+      "url": "https://www.getepic.com/book/81365198/ocean-animals-dolphins",
+      "lexile": "340L",
+      "age": 5,
+      "publisher": "Blastoff! Beginners an imprint of Bellwether",
+      "about": "Learn how playful dolphins swim and talk to friends in the ocean.",
+      "cite": "Ocean Animals: Dolphins. Blastoff! Beginners an imprint of Bellwether."
+    },
+    {
+      "title": "Dolphins",
+      "author": "Cari Meister",
+      "url": "https://www.getepic.com/book/14098592/dolphins",
+      "lexile": "370L",
+      "age": 5,
+      "publisher": "JUMP",
+      "about": "Learn how dolphins act and how they find food.",
+      "cite": "Meister, Cari. Dolphins. JUMP."
+    }
+  ]
+}

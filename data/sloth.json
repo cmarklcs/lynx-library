@@ -1,0 +1,163 @@
+{
+  "slug": "sloth",
+  "name": "Sloth",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Rainforest",
+  "intro": "A sloth is a slow animal that lives in trees. It hangs upside down from branches.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A sloth has a round head and tiny ears.",
+        "It has long, curved claws.",
+        "The claws help it hang from branches.",
+        "Its fur can look a little bit green.",
+        "It is about as big as a small dog."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Sloths live in Central and South America.",
+        "They live in warm rainforests.",
+        "They stay high up in the trees.",
+        "They come down about once a week to go potty."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Sloths eat leaves.",
+        "They also eat buds, shoots, and some fruit.",
+        "They get water from their food and from dew.",
+        "Their food stays in their tummy for about a month."
+      ],
+      "from": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A mother sloth has one baby at a time.",
+        "The baby holds on to its mother's belly.",
+        "It learns what to eat by licking its mom's lips.",
+        "It stays with its mother for about five months."
+      ],
+      "from": [
+        2,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Sloths sleep most of the day.",
+        "Sloths are good swimmers.",
+        "Tiny green algae grow in their fur and help them hide.",
+        "Sloths are related to anteaters and armadillos.",
+        "Some sloths can turn their heads almost all the way around."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Algae",
+      "meaning": "Tiny green living things that grow in wet places."
+    },
+    {
+      "word": "Rainforest",
+      "meaning": "A warm forest where it rains a lot."
+    },
+    {
+      "word": "Claw",
+      "meaning": "A sharp, curved nail on an animal's foot."
+    },
+    {
+      "word": "Dew",
+      "meaning": "Small drops of water on leaves in the morning."
+    }
+  ],
+  "photos": [
+    {
+      "file": "sloth-1.jpg",
+      "alt": "A three-toed sloth holding a branch in the rainforest",
+      "credit": "Christian Mehlführer, User:Chmehl",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Bradypus_variegatus.jpg"
+    },
+    {
+      "file": "sloth-2.jpg",
+      "alt": "A two-toed sloth hanging upside down",
+      "credit": "Dave Pape",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Choloepus_didactylus_2_-_Buffalo_Zoo.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Odd Facts About Sloths",
+      "url": "https://www.youtube.com/watch?v=eq42qcpTo1o",
+      "channel": "SciShow Kids",
+      "about": "Jessi shares three surprising facts about sloths.",
+      "cite": "\"Odd Facts About Sloths.\" SciShow Kids. 2015."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Two-toed sloth",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/two-toed-sloth",
+      "level": "Easy",
+      "about": "Short facts and big photos about how sloths live in trees.",
+      "cite": "\"Two-toed sloth.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Sloth",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/sloth",
+      "level": "Easy",
+      "about": "Fun facts about sleepy sloths and their green fur.",
+      "cite": "\"Sloth.\" National Geographic Kids."
+    },
+    {
+      "title": "Two-toed sloth",
+      "site": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://nationalzoo.si.edu/animals/two-toed-sloth",
+      "level": "Read together",
+      "about": "Zoo experts tell how sloths look, eat, and raise babies.",
+      "cite": "\"Two-toed sloth.\" Smithsonian's National Zoo and Conservation Biology Institute."
+    },
+    {
+      "title": "Sloth Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Sloth",
+      "level": "Read together",
+      "about": "A kids encyclopedia page about sloths and their babies.",
+      "cite": "\"Sloth Facts for Kids.\" Kiddle."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "wolf",
+  "name": "Wolf",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Forest",
+  "intro": "A wolf is a wild animal in the dog family. Wolves live and hunt together in family groups.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A wolf looks like a big dog.",
+        "It has long legs and a bushy tail.",
+        "Its fur can be gray, brown, black, or white.",
+        "It is the biggest wild animal in the dog family.",
+        "Males are bigger than females."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Wolves live in North America, Europe, and Asia.",
+        "Many wolves live in Alaska and Canada.",
+        "They can live where it is very cold or very hot.",
+        "Each pack has its own home area called a territory."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Wolves eat meat.",
+        "They hunt big animals like deer, elk, and moose.",
+        "The pack hunts together as a team.",
+        "A wolf can eat as much meat as a big turkey in one meal."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby wolf is called a pup.",
+        "Pups are born in a den.",
+        "At first, pups cannot see or hear.",
+        "Older brothers and sisters help feed and play with the pups.",
+        "Young wolves stay with their parents for at least two years."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Every wolf pack has its own howl.",
+        "A howl can be heard miles away.",
+        "Wolves bow to ask another wolf to play.",
+        "A wolf's nose smells much better than yours.",
+        "Wolves and dogs are close relatives."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Pack",
+      "meaning": "A family group of wolves."
+    },
+    {
+      "word": "Pup",
+      "meaning": "A baby wolf."
+    },
+    {
+      "word": "Howl",
+      "meaning": "A long, loud call that wolves make."
+    },
+    {
+      "word": "Territory",
+      "meaning": "The home area where an animal lives and finds food."
+    }
+  ],
+  "photos": [
+    {
+      "file": "wolf-1.jpg",
+      "alt": "A gray wolf standing in the snow",
+      "credit": "User:Mas3cf",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg"
+    },
+    {
+      "file": "wolf-2.jpg",
+      "alt": "A wolf lifting its head to howl",
+      "credit": "Kikimora mashenka",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Howling_wolf_1.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Wolves for Kids | Learn fun facts about this unique mammal",
+      "url": "https://www.youtube.com/watch?v=v1-fv-0LY9A",
+      "channel": "Learn Bright",
+      "about": "This video shares fun facts about how wolves live.",
+      "cite": "\"Wolves for Kids | Learn fun facts about this unique mammal.\" Learn Bright. 2023."
+    },
+    {
+      "title": "Why Do Wolves Howl at the Moon? | BBC Earth Kids",
+      "url": "https://www.youtube.com/watch?v=Oy77BRPZiTk",
+      "channel": "BBC Earth Kids",
+      "about": "This short video tells why wolves howl.",
+      "cite": "\"Why Do Wolves Howl at the Moon? | BBC Earth Kids.\" BBC Earth Kids. 2021."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gray Wolf",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/gray-wolf",
+      "level": "Easy",
+      "about": "Fun facts about wolf packs, pups, and howls.",
+      "cite": "\"Gray Wolf.\" National Geographic Kids."
+    },
+    {
+      "title": "Gray Wolf",
+      "site": "National Wildlife Federation",
+      "url": "https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Gray-Wolf",
+      "level": "Read together",
+      "about": "Facts about how wolves look, eat, and raise pups.",
+      "cite": "\"Gray Wolf.\" National Wildlife Federation."
+    },
+    {
+      "title": "Wolf",
+      "site": "San Diego Zoo Wildlife Alliance Animals and Plants",
+      "url": "https://animals.sandiegozoo.org/animals/wolf",
+      "level": "Read together",
+      "about": "Zoo experts tell how wolves live, hunt, and howl.",
+      "cite": "\"Wolf.\" San Diego Zoo Wildlife Alliance Animals and Plants."
+    }
+  ]
+}

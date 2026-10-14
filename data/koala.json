@@ -1,0 +1,154 @@
+{
+  "slug": "koala",
+  "name": "Koala",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Forest",
+  "intro": "A koala is a furry animal that lives in trees. It lives in Australia.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A koala looks like a teddy bear.",
+        "But a koala is not a bear.",
+        "It has round, fuzzy ears.",
+        "Its fur feels rough, not soft.",
+        "It has sharp claws for climbing trees."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Koalas live in Australia.",
+        "They live in eucalyptus forests.",
+        "They stay high up in the trees.",
+        "They come down only to move to a new tree."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Koalas eat eucalyptus leaves.",
+        "They are very picky eaters.",
+        "They eat only a few kinds of eucalyptus.",
+        "Koalas eat a little dirt to help their tummies."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby koala is called a joey.",
+        "A new joey is as small as a jelly bean.",
+        "It lives in its mom's pouch for about 6 months.",
+        "Then it rides on its mom's back.",
+        "At about 1 year old, it eats only leaves."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Koalas sleep up to 20 hours a day.",
+        "Koalas are awake mostly at night.",
+        "Koalas have two thumbs on each hand.",
+        "Koalas can smell like mint from their leaves.",
+        "Koalas are related to kangaroos."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Marsupial",
+      "meaning": "An animal mom that carries her baby in a pouch."
+    },
+    {
+      "word": "Eucalyptus",
+      "meaning": "A kind of tree with leaves that koalas eat."
+    },
+    {
+      "word": "Joey",
+      "meaning": "A baby koala or kangaroo."
+    },
+    {
+      "word": "Pouch",
+      "meaning": "A pocket of skin on a mother's belly."
+    }
+  ],
+  "photos": [
+    {
+      "file": "koala-1.jpg",
+      "alt": "A koala climbing up a tree",
+      "credit": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Koala_climbing_tree.jpg"
+    },
+    {
+      "file": "koala-2.jpg",
+      "alt": "A mother koala holding her joey in a tree",
+      "credit": "Lawrence \"Lemming\" Dixon",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Koala_and_joey_in_Petrie_Koala_Corridor.JPG"
+    }
+  ],
+  "videos": [
+    {
+      "title": "All About Koalas for Kids: Koalas for Children - FreeSchool",
+      "url": "https://www.youtube.com/watch?v=PzU-DjUMzsg",
+      "channel": "Free School",
+      "about": "This video shows where koalas live and what they eat.",
+      "cite": "\"All About Koalas for Kids: Koalas for Children - FreeSchool.\" Free School. 2017."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Koala",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/koala",
+      "level": "Easy",
+      "about": "Short facts and big photos about koalas and their joeys.",
+      "cite": "\"Koala.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Koala",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/koala",
+      "level": "Easy",
+      "about": "Facts about how a baby koala grows in the pouch.",
+      "cite": "\"Koala.\" National Geographic Kids."
+    },
+    {
+      "title": "Koala",
+      "site": "San Diego Zoo Wildlife Alliance Animals and Plants",
+      "url": "https://animals.sandiegozoo.org/animals/koala",
+      "level": "Read together",
+      "about": "Zoo experts tell how koalas look, eat, and sleep.",
+      "cite": "\"Koala.\" San Diego Zoo Wildlife Alliance Animals and Plants."
+    }
+  ]
+}

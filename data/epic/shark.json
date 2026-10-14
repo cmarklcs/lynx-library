@@ -1,0 +1,35 @@
+{
+  "slug": "shark",
+  "books": [
+    {
+      "title": "National Geographic Readers: Sharks",
+      "author": "Anne Schreiber",
+      "url": "https://www.getepic.com/book/9021322/national-geographic-readers-sharks",
+      "lexile": "430L",
+      "age": 7,
+      "publisher": "National Geographic",
+      "about": "Meet sharks, fish that lived in the ocean even before dinosaurs.",
+      "cite": "Schreiber, Anne. Sharks. National Geographic."
+    },
+    {
+      "title": "Life Under The Sea: Sharks",
+      "author": "Cari Meister",
+      "url": "https://www.getepic.com/book/12710953/life-under-the-sea-sharks",
+      "lexile": "330L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "Learn about many kinds of sharks, like the hammerhead.",
+      "cite": "Meister, Cari. Life Under The Sea: Sharks. JUMP."
+    },
+    {
+      "title": "Sharks",
+      "author": "Kate Riggs",
+      "url": "https://www.getepic.com/book/50818253/sharks",
+      "lexile": "270L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "Learn how sharks grow, what they do, and where they live.",
+      "cite": "Riggs, Kate. Sharks. The Creative Company."
+    }
+  ]
+}

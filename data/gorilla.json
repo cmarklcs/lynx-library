@@ -1,0 +1,175 @@
+{
+  "slug": "gorilla",
+  "name": "Gorilla",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Rainforest",
+  "intro": "A gorilla is the biggest ape in the world. It lives in forests in Africa.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "Gorillas have black or dark brown hair.",
+        "They have no hair on their faces.",
+        "Their arms are longer than their legs.",
+        "Grown-up males have silver hair on their backs.",
+        "A big male can be as heavy as three grown-ups."
+      ],
+      "from": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Gorillas live in Africa.",
+        "They live in rainforests and mountain forests.",
+        "They spend most of their time on the ground.",
+        "Each night, a gorilla makes a nest of leaves to sleep in."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Gorillas eat mostly plants.",
+        "They eat leaves, stems, and fruit.",
+        "Sometimes they eat ants or other bugs.",
+        "A big male eats a lot of food every day."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "Gorillas live in family groups called troops.",
+        "A big male called a silverback leads the troop.",
+        "A baby gorilla rides on its mother's back.",
+        "Young gorillas sleep in their mother's nest.",
+        "Young gorillas play games like follow the leader."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Every gorilla has its own nose print.",
+        "Gorillas are gentle and calm.",
+        "Baby gorillas have a white tuft of hair on their bottoms.",
+        "A gorilla's big toe can grab like a thumb.",
+        "Gorillas have been seen using tools."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Ape",
+      "meaning": "A big animal like a monkey that has no tail."
+    },
+    {
+      "word": "Troop",
+      "meaning": "A family group of gorillas."
+    },
+    {
+      "word": "Silverback",
+      "meaning": "A grown-up male gorilla with silver hair on his back."
+    },
+    {
+      "word": "Rainforest",
+      "meaning": "A warm forest where it rains a lot."
+    }
+  ],
+  "photos": [
+    {
+      "file": "gorilla-1.jpg",
+      "alt": "A big silverback gorilla standing on all fours in the grass",
+      "credit": "Brocken Inaglory",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Male_gorilla_in_SF_zoo.jpg"
+    },
+    {
+      "file": "gorilla-2.jpg",
+      "alt": "A mother gorilla hugging her baby",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla_(Gorilla_beringei_beringei)_mother_with_baby.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "San Diego Zoo Kids - Gorillas",
+      "url": "https://www.youtube.com/watch?v=EIh4VpXQ8HU",
+      "channel": "San Diego Zoo Safari Park",
+      "about": "This short video shows a gorilla family at the zoo.",
+      "cite": "\"San Diego Zoo Kids - Gorillas.\" San Diego Zoo Safari Park. 2013."
+    },
+    {
+      "title": "Pinky's Smithsonian Adventure: Gorilla Families",
+      "url": "https://www.youtube.com/watch?v=pCzCuyWkwlU",
+      "channel": "Smithsonian's National Zoo",
+      "about": "A zoo keeper shows how a gorilla family lives together.",
+      "cite": "\"Pinky's Smithsonian Adventure: Gorilla Families.\" Smithsonian's National Zoo. 2025."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Western lowland gorilla",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/western-lowland-gorilla",
+      "level": "Easy",
+      "about": "Short facts and big photos about gorillas and their families.",
+      "cite": "\"Western lowland gorilla.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Mountain Gorilla",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/mountain-gorilla",
+      "level": "Easy",
+      "about": "Facts about gorilla troops, nests, and play.",
+      "cite": "\"Mountain Gorilla.\" National Geographic Kids."
+    },
+    {
+      "title": "Western lowland gorilla",
+      "site": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://nationalzoo.si.edu/animals/western-lowland-gorilla",
+      "level": "Read together",
+      "about": "Zoo experts tell how gorillas look, eat, and raise babies.",
+      "cite": "\"Western lowland gorilla.\" Smithsonian's National Zoo and Conservation Biology Institute."
+    },
+    {
+      "title": "Gorilla",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/gorilla.php",
+      "level": "Read together",
+      "about": "A kids page about where gorillas live and what they eat.",
+      "cite": "\"Gorilla.\" Ducksters."
+    }
+  ]
+}

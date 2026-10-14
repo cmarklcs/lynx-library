@@ -1,0 +1,76 @@
+{
+  "slug": "ladybug",
+  "name": "Ladybug",
+  "kind": "animal",
+  "group": "Insect",
+  "habitat": "Garden",
+  "intro": "A ladybug is a small, round beetle. Many ladybugs are red with black spots.",
+  "sections": [
+    {"key": "looks", "title": "What does it look like?", "sentences": [
+      "A ladybug is a small, round beetle.",
+      "Many ladybugs are red or orange with black spots.",
+      "Some ladybugs have stripes or no spots at all.",
+      "It has six short legs.",
+      "Hard wing covers keep its thin flying wings safe."
+    ], "from": [0, 1, 2]},
+    {"key": "home", "title": "Where does it live?", "sentences": [
+      "Ladybugs live in many parts of the world.",
+      "They live in gardens, fields, and forests.",
+      "In winter, many ladybugs rest together in big groups.",
+      "They hide under logs, under rocks, or in houses."
+    ], "from": [0, 1, 2]},
+    {"key": "food", "title": "What does it eat?", "sentences": [
+      "Most ladybugs eat tiny bugs called aphids.",
+      "Aphids eat plants.",
+      "One ladybug can eat lots of aphids in one day.",
+      "Ladybugs help gardeners keep plants healthy."
+    ], "from": [0, 1, 2]},
+    {"key": "life", "title": "How does it grow?", "sentences": [
+      "A mother ladybug lays tiny eggs under a leaf.",
+      "She lays them near aphids.",
+      "A larva hatches out in a few days.",
+      "The larva is long and spiky, not round.",
+      "It becomes a pupa, then a grown-up ladybug."
+    ], "from": [0, 1, 2]},
+    {"key": "fun", "title": "Fun facts", "sentences": [
+      "Bright colors tell birds that ladybugs taste bad.",
+      "A scared ladybug may play dead.",
+      "Four ladybugs once rode on a space shuttle.",
+      "Ladybugs are the state insect of five states.",
+      "Many people think ladybugs bring good luck."
+    ], "from": [0, 1, 2]}
+  ],
+  "vocab": [
+    {"word": "beetle", "meaning": "An insect with hard covers over its wings."},
+    {"word": "aphid", "meaning": "A tiny bug that eats plants."},
+    {"word": "larva", "meaning": "A baby insect that does not look like its parents yet."},
+    {"word": "pupa", "meaning": "The resting stage when a young insect changes into a grown-up."}
+  ],
+  "photos": [
+    {"file": "ladybug-1.jpg", "alt": "A red ladybug with black spots on a green leaf",
+     "credit": "Trachemys", "license": "CC BY-SA 3.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Seven-spotted_ladybug_(Coccinella_septempunctata).jpg"},
+    {"file": "ladybug-2.jpg", "alt": "A long, spiky ladybug larva on a green leaf",
+     "credit": "Natalka Ukraine", "license": "CC BY 4.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Ladybird_beetle_larva_on_a_leaf,_by_baby-bear.org.jpg"}
+  ],
+  "videos": [
+    {"title": "The Ladybug  | Kids educational video", "url": "https://www.youtube.com/watch?v=vNigGu4VhfI",
+     "channel": "Bubbly Brainiacs", "about": "A short video about ladybug colors and how they help gardens.",
+     "cite": "\"The Ladybug | Kids educational video.\" Bubbly Brainiacs. 2023."}
+  ],
+  "sources": [
+    {"title": "Ladybug", "site": "National Geographic Kids",
+     "url": "https://kids.nationalgeographic.com/animals/invertebrates/facts/ladybug", "level": "Easy",
+     "about": "Learn what ladybugs eat and how they grow.",
+     "cite": "\"Ladybug.\" National Geographic Kids."},
+    {"title": "Ladybug", "site": "San Diego Zoo Animals & Plants",
+     "url": "https://animals.sandiegozoo.org/animals/ladybug", "level": "Read together",
+     "about": "Find out how ladybugs help gardens and rest in winter.",
+     "cite": "\"Ladybug.\" San Diego Zoo Animals & Plants."},
+    {"title": "Ladybug Facts for Kids", "site": "Kiddle",
+     "url": "https://kids.kiddle.co/Ladybug", "level": "Read together",
+     "about": "Read about ladybug colors, food, and life cycle.",
+     "cite": "\"Ladybug Facts for Kids.\" Kiddle."}
+  ]
+}

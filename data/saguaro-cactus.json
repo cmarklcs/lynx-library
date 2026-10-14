@@ -1,0 +1,173 @@
+{
+  "slug": "saguaro-cactus",
+  "name": "Saguaro Cactus",
+  "kind": "plant",
+  "group": "Plant",
+  "habitat": "Desert",
+  "intro": "A saguaro is a very tall cactus. It lives in the hot, dry desert.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A saguaro is a giant green cactus.",
+        "It can grow taller than a house.",
+        "Many saguaros have arms that point up.",
+        "Sharp spines cover the cactus.",
+        "A waxy skin helps keep water inside."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Saguaros grow only in the Sonoran Desert.",
+        "Most of them grow in southern Arizona.",
+        "Some grow in Mexico too.",
+        "In cooler places, they grow on warm, sunny hillsides."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "A saguaro needs rain to grow.",
+        "Its roots spread wide just under the ground.",
+        "The roots soak up rain fast.",
+        "The stem stores water and gets fatter.",
+        "A baby saguaro needs shade from a nurse tree."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A saguaro starts as a tiny black seed.",
+        "It grows very, very slowly.",
+        "After 10 years, it may be only about 1 inch tall.",
+        "It gets its first flowers at about 35 years old.",
+        "Many saguaros live more than 150 years."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Saguaro flowers are white and open at night.",
+        "Bats drink nectar from the flowers.",
+        "The saguaro flower is the state wildflower of Arizona.",
+        "Woodpeckers make nest holes in the cactus.",
+        "Each red fruit holds about 2,000 tiny seeds."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "cactus",
+      "meaning": "A plant with a thick stem that stores water."
+    },
+    {
+      "word": "desert",
+      "meaning": "A dry place that gets very little rain."
+    },
+    {
+      "word": "spines",
+      "meaning": "Sharp, pointy parts that protect a cactus."
+    },
+    {
+      "word": "nurse tree",
+      "meaning": "A tree that shades a baby plant growing under it."
+    },
+    {
+      "word": "nectar",
+      "meaning": "A sweet juice inside flowers."
+    }
+  ],
+  "photos": [
+    {
+      "file": "saguaro-cactus-1.jpg",
+      "alt": "Two tall saguaro cactuses with arms in the desert",
+      "credit": "WClarke",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson,_Arizona_during_November_(58).jpg"
+    },
+    {
+      "file": "saguaro-cactus-2.jpg",
+      "alt": "White saguaro flowers on top of the cactus",
+      "credit": "SaguaroNPS",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Saguaro_Flowers_(50619236462).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Amazing Ways to Live in the Desert!",
+      "url": "https://www.youtube.com/watch?v=gaZKEc59g1w",
+      "channel": "SciShow Kids",
+      "about": "Learn how cactuses and other desert life save water in a dry place.",
+      "cite": "\"Amazing Ways to Live in the Desert!.\" SciShow Kids. 2017."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Saguaro facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Saguaro",
+      "level": "Read together",
+      "about": "Learn about saguaro arms, flowers, fruit, and the animals that use them.",
+      "cite": "\"Saguaro facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Saguaro",
+      "site": "Saguaro National Park (National Park Service)",
+      "url": "https://www.nps.gov/sagu/learn/nature/saguaro.htm",
+      "level": "Read together",
+      "about": "Learn how a saguaro grows, flowers, and gives homes to birds.",
+      "cite": "\"Saguaro.\" Saguaro National Park (National Park Service). 2025."
+    },
+    {
+      "title": "Saguaro Cactus",
+      "site": "Organ Pipe Cactus National Monument (National Park Service)",
+      "url": "https://www.nps.gov/orpi/learn/nature/saguaro-cactus.htm",
+      "level": "Read together",
+      "about": "Learn how a saguaro stores water and how slowly it grows.",
+      "cite": "\"Saguaro Cactus.\" Organ Pipe Cactus National Monument (National Park Service). 2023."
+    },
+    {
+      "title": "Cactus",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/cactus/352894",
+      "level": "Read together",
+      "about": "Learn how cactus plants live in dry places.",
+      "cite": "\"Cactus.\" Britannica Kids."
+    }
+  ]
+}

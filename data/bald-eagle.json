@@ -1,0 +1,81 @@
+{
+  "slug": "bald-eagle",
+  "name": "Bald Eagle",
+  "kind": "animal",
+  "group": "Bird",
+  "habitat": "Rivers and lakes",
+  "intro": "A bald eagle is a big bird with a white head. It lives near water in North America.",
+  "sections": [
+    {"key": "looks", "title": "What does it look like?", "sentences": [
+      "A bald eagle is a very big bird.",
+      "It has a white head and a white tail.",
+      "Its body and wings are dark brown.",
+      "It has a yellow beak and yellow feet.",
+      "Its open wings are wider than a grown-up is tall."
+    ], "from": [0, 1, 2]},
+    {"key": "home", "title": "Where does it live?", "sentences": [
+      "Bald eagles live in North America.",
+      "They live near water.",
+      "They like lakes, rivers, and the coast.",
+      "Many bald eagles live in Alaska and Canada.",
+      "They build nests at the top of tall trees."
+    ], "from": [0, 1, 2]},
+    {"key": "food", "title": "What does it eat?", "sentences": [
+      "Bald eagles are predators.",
+      "They eat mostly fish.",
+      "They swoop low over the water.",
+      "They catch fish with their feet.",
+      "They also eat ducks and small animals."
+    ], "from": [0, 1, 2]},
+    {"key": "life", "title": "How does it grow?", "sentences": [
+      "A mother eagle usually lays two eggs.",
+      "Both parents take turns keeping the eggs warm.",
+      "Baby eagles are called eaglets.",
+      "Eaglets are gray at first and then turn brown.",
+      "They get white heads at about four or five years old."
+    ], "from": [1, 2]},
+    {"key": "fun", "title": "Fun facts", "sentences": [
+      "A bald eagle is not really bald.",
+      "Its head is covered with white feathers.",
+      "Bald eagles can spot a fish from far away.",
+      "The bald eagle is a symbol of the United States.",
+      "The biggest eagle nest ever found was as heavy as a car."
+    ], "from": [0, 1, 2]}
+  ],
+  "vocab": [
+    {"word": "eaglet", "meaning": "A baby eagle."},
+    {"word": "predator", "meaning": "An animal that hunts other animals for food."},
+    {"word": "coast", "meaning": "The land right next to the ocean."},
+    {"word": "symbol", "meaning": "A picture or thing that stands for something else."}
+  ],
+  "photos": [
+    {"file": "bald-eagle-1.jpg", "alt": "A bald eagle with a white head standing on a branch with mountains behind it",
+     "credit": "Andy Morffew", "license": "CC BY 2.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Bald_eagle_about_to_fly_in_Alaska_(2016).jpg"},
+    {"file": "bald-eagle-2.jpg", "alt": "A grown-up bald eagle and a baby eagle in a big stick nest",
+     "credit": "Wknight94", "license": "CC BY-SA 3.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Baby_Bald_Eagle_in_nest_(cropped).jpg"}
+  ],
+  "videos": [
+    {"title": "The Bald Eagle | Amazing Animals | CBC Kids", "url": "https://www.youtube.com/watch?v=nOzsxB5Ipc0",
+     "channel": "CBC Kids", "about": "A short look at the bald eagle and how it lives.",
+     "cite": "\"The Bald Eagle | Amazing Animals | CBC Kids.\" CBC Kids. 2023."},
+    {"title": "Bald Eagles | Yellowstone Live", "url": "https://www.youtube.com/watch?v=LFKsyTLoLac",
+     "channel": "Nat Geo Kids", "about": "An animal expert shares facts about bald eagles in Yellowstone.",
+     "cite": "\"Bald Eagles | Yellowstone Live.\" Nat Geo Kids. 2018."}
+  ],
+  "sources": [
+    {"title": "Bald eagle", "site": "San Diego Zoo Wildlife Explorers",
+     "url": "https://sdzwildlifeexplorers.org/animals/bald-eagle", "level": "Easy",
+     "about": "Learn where bald eagles live and how big their nests get.",
+     "cite": "\"Bald eagle.\" San Diego Zoo Wildlife Explorers."},
+    {"title": "Bald Eagle", "site": "National Geographic Kids",
+     "url": "https://kids.nationalgeographic.com/animals/birds/facts/bald-eagle", "level": "Easy",
+     "about": "Read how eagles catch fish and how eaglets change color.",
+     "cite": "\"Bald Eagle.\" National Geographic Kids."},
+    {"title": "Bald eagle", "site": "Smithsonian's National Zoo",
+     "url": "https://nationalzoo.si.edu/animals/bald-eagle", "level": "Read together",
+     "about": "Find out about eagle eggs, chicks, and how eagles came back.",
+     "cite": "\"Bald eagle.\" Smithsonian's National Zoo."}
+  ]
+}

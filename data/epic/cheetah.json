@@ -1,0 +1,35 @@
+{
+  "slug": "cheetah",
+  "books": [
+    {
+      "title": "Cheetahs",
+      "author": "Kate Riggs",
+      "url": "https://www.getepic.com/book/50860471/cheetahs",
+      "lexile": "250L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "Learn how cheetahs grow, what they do, and where they live.",
+      "cite": "Riggs, Kate. Cheetahs. The Creative Company."
+    },
+    {
+      "title": "Cheetahs",
+      "author": "Leo Statts",
+      "url": "https://www.getepic.com/book/57255387/cheetahs",
+      "lexile": "390L",
+      "age": 6,
+      "publisher": "ABDO Zoom an imprint of ABDO Publishing",
+      "about": "Learn fun facts about cheetahs with big, bright photos.",
+      "cite": "Statts, Leo. Cheetahs. ABDO Zoom an imprint of ABDO Publishing."
+    },
+    {
+      "title": "Cheetahs: Animal Safari",
+      "author": "Megan Borgert-Spaniol",
+      "url": "https://www.getepic.com/book/7547025/cheetahs-animal-safari",
+      "lexile": "420L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Find out how fast cheetahs hunt and how they teach their cubs.",
+      "cite": "Borgert-Spaniol, Megan. Cheetahs: Animal Safari. Bellwether Media."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "apple-tree",
+  "name": "Apple Tree",
+  "kind": "plant",
+  "group": "Fruit",
+  "habitat": "Farm",
+  "intro": "An apple tree is a fruit tree. It grows apples that we can eat.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "An apple tree has a wide, round top.",
+        "Its leaves are oval with a pointy tip.",
+        "In spring, it has white or pink flowers.",
+        "Each flower has 5 petals.",
+        "In fall, apples hang from its branches."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Apple trees first grew in Central Asia.",
+        "Now people grow them all over the world.",
+        "Most grow in the top half of the world.",
+        "People grow apple trees on farms and in yards."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "An apple tree needs lots of sun.",
+        "It likes sun for 8 hours each day.",
+        "Its soil must not stay soggy.",
+        "It needs a good drink of water each week.",
+        "It needs pollen from a different kind of apple tree."
+      ],
+      "from": [
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "In winter, the apple tree rests.",
+        "In spring, new leaves and flowers grow.",
+        "Bees carry pollen from flower to flower.",
+        "Then the petals fall, and a tiny apple grows.",
+        "In fall, the apples are ripe and ready to pick."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "There are thousands of kinds of apples.",
+        "Apple trees are in the rose family.",
+        "Inside an apple, the seeds sit in a star shape.",
+        "Apples get sweeter just before they are picked.",
+        "An apple tree can live 100 years or more."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "pollen",
+      "meaning": "A yellow dust that flowers need to make fruit and seeds."
+    },
+    {
+      "word": "ripe",
+      "meaning": "Ready to pick and eat."
+    },
+    {
+      "word": "seed",
+      "meaning": "A tiny part of a plant that can grow into a new plant."
+    },
+    {
+      "word": "soil",
+      "meaning": "The dirt that plants grow in."
+    }
+  ],
+  "photos": [
+    {
+      "file": "apple-tree-1.jpg",
+      "alt": "An apple tree full of red apples in a grassy field",
+      "credit": "W.carter",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tree_with_red_apples_in_Barkedal_4.jpg"
+    },
+    {
+      "file": "apple-tree-2.jpg",
+      "alt": "Pink and white apple flowers on a branch",
+      "credit": "George Chernilevsky",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Apple-tree_blossoms_2017_G3.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Life Cycle of An Apple | Apple Life Cycle | Science for Kids!",
+      "url": "https://www.youtube.com/watch?v=RxTq_RL7rIE",
+      "channel": "Twinkl Educational Publishing",
+      "about": "See how an apple grows from a tiny seed to a big tree with fruit.",
+      "cite": "\"The Life Cycle of An Apple | Apple Life Cycle | Science for Kids!.\" Twinkl Educational Publishing. 2024."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Apple facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Apple",
+      "level": "Read together",
+      "about": "Learn what apple trees, flowers, and apples look like.",
+      "cite": "\"Apple facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Facts about Apple Trees",
+      "site": "Science with Kids",
+      "url": "https://sciencewithkids.com/science-facts/facts-about-apple-trees.html",
+      "level": "Read together",
+      "about": "Short facts about apple trees, bees, and how apples start to grow.",
+      "cite": "\"Facts about Apple Trees.\" Science with Kids."
+    },
+    {
+      "title": "Life Cycle of an Apple Tree",
+      "site": "TeachKyAg",
+      "url": "https://www.teachkyag.org/lessons/life-cycle-apple-tree",
+      "level": "Read together",
+      "about": "Follow an apple tree through winter, spring, summer, and fall.",
+      "cite": "\"Life Cycle of an Apple Tree.\" TeachKyAg. 2021."
+    },
+    {
+      "title": "Growing apples in the home garden",
+      "site": "University of Minnesota Extension",
+      "url": "https://extension.umn.edu/fruit/growing-apples",
+      "level": "Read together",
+      "about": "Learn what an apple tree needs to grow, like sun and water.",
+      "cite": "\"Growing apples in the home garden.\" University of Minnesota Extension. 2026."
+    },
+    {
+      "title": "Apple",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/apple/352769",
+      "level": "Read together",
+      "about": "Learn about apple trees and the fruit they grow.",
+      "cite": "\"Apple.\" Britannica Kids."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "strawberry",
+  "name": "Strawberry",
+  "kind": "plant",
+  "group": "Fruit",
+  "habitat": "Garden",
+  "intro": "A strawberry is a sweet red fruit. It grows on a leafy green plant.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A ripe strawberry is bright red.",
+        "It is juicy and sweet.",
+        "Tiny seeds cover the outside of the fruit.",
+        "One strawberry has about 200 seeds!",
+        "The plant has green leaves and small flowers."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it grow?",
+      "sentences": [
+        "Strawberries grow well in most parts of the world.",
+        "They grow on big farms and in home gardens.",
+        "Some people grow them in pots.",
+        "The first garden strawberry came from France."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "needs",
+      "title": "What does it need?",
+      "sentences": [
+        "A strawberry plant needs lots of sun.",
+        "It needs soil that drains water well.",
+        "It needs water often because its roots are short.",
+        "It needs space so air can move around it."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A strawberry plant grows flowers first.",
+        "Bees carry pollen to the flowers.",
+        "Then the flowers turn into fruit.",
+        "The plant sends out long stems called runners.",
+        "Runners grow roots and make new plants."
+      ],
+      "from": [
+        0,
+        1
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A strawberry is not a true berry.",
+        "Strawberries do not get riper after they are picked.",
+        "Strawberries have lots of vitamin C.",
+        "Some Native American groups call the June full moon the Strawberry Moon.",
+        "Birds, deer, and squirrels eat wild strawberries."
+      ],
+      "from": [
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "ripe",
+      "meaning": "Ready to eat."
+    },
+    {
+      "word": "runner",
+      "meaning": "A long stem that grows along the ground and makes a new plant."
+    },
+    {
+      "word": "pollen",
+      "meaning": "Yellow dust that flowers need to make fruit."
+    },
+    {
+      "word": "seed",
+      "meaning": "A small part of a plant that can grow into a new plant."
+    }
+  ],
+  "photos": [
+    {
+      "file": "strawberry-1.jpg",
+      "alt": "A strawberry plant with green leaves and red strawberries",
+      "credit": "Alabama Extension",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Strawberry_Plant_with_Fruit_(close-up).jpg"
+    },
+    {
+      "file": "strawberry-2.jpg",
+      "alt": "A close-up of one red strawberry with tiny seeds on the outside",
+      "credit": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Life Cycle of a Strawberry Plant | Strawberry Life Cycle | Science for Kids!",
+      "url": "https://www.youtube.com/watch?v=-QbIdk6aQvI",
+      "channel": "Twinkl Kids TV",
+      "about": "See how a strawberry plant grows from a seed to sweet fruit.",
+      "cite": "\"Life Cycle of a Strawberry Plant | Strawberry Life Cycle | Science for Kids!\" Twinkl Kids TV. 2025."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Strawberry facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Strawberry",
+      "level": "Read together",
+      "about": "Kid-friendly encyclopedia facts and pictures about the strawberry. It tells about runners and seeds.",
+      "cite": "\"Strawberry facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Strawberries",
+      "site": "KidsGardening",
+      "url": "https://kidsgardening.org/resources/growing-guide-strawberries/",
+      "level": "Read together",
+      "about": "How to grow strawberries and what they need.",
+      "cite": "\"Strawberries.\" KidsGardening."
+    },
+    {
+      "title": "Fun Strawberry Facts for Kids",
+      "site": "Science Kids",
+      "url": "https://www.sciencekids.co.nz/sciencefacts/food/strawberries.html",
+      "level": "Easy",
+      "about": "A short list of fun strawberry facts.",
+      "cite": "\"Fun Strawberry Facts for Kids.\" Science Kids."
+    }
+  ]
+}

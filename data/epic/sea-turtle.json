@@ -1,0 +1,34 @@
+{
+  "slug": "sea-turtle",
+  "books": [
+    {
+      "title": "Ocean Animals: Sea Turtles",
+      "url": "https://www.getepic.com/book/81361865/ocean-animals-sea-turtles",
+      "lexile": "290L",
+      "age": 5,
+      "publisher": "Blastoff! Beginners an imprint of Bellwether",
+      "about": "Learn how sea turtles swim across the whole ocean.",
+      "cite": "Ocean Animals: Sea Turtles. Blastoff! Beginners an imprint of Bellwether."
+    },
+    {
+      "title": "Life Under The Sea: Sea Turtles",
+      "author": "Cari Meister",
+      "url": "https://www.getepic.com/book/12709842/life-under-the-sea-sea-turtles",
+      "lexile": "370L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "See how sea turtle babies hatch from eggs and crawl to the sea.",
+      "cite": "Meister, Cari. Life Under The Sea: Sea Turtles. JUMP."
+    },
+    {
+      "title": "Sea Turtles",
+      "author": "Mari Schuh",
+      "url": "https://www.getepic.com/book/63613640/sea-turtles",
+      "lexile": "350L",
+      "age": 6,
+      "publisher": "Amicus provided by the Creative Company",
+      "about": "Find out how a sea turtle’s body helps it eat and stay safe.",
+      "cite": "Schuh, Mari. Sea Turtles. Amicus provided by the Creative Company."
+    }
+  ]
+}

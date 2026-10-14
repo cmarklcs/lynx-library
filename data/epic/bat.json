@@ -1,0 +1,35 @@
+{
+  "slug": "bat",
+  "books": [
+    {
+      "title": "National Geographic Readers: Bats",
+      "author": "Elizabeth Carney",
+      "url": "https://www.getepic.com/book/9024655/national-geographic-readers-bats",
+      "lexile": "350L",
+      "age": 7,
+      "publisher": "National Geographic",
+      "about": "Discover how bats fly, find food, and live in the world.",
+      "cite": "Carney, Elizabeth. Bats. National Geographic."
+    },
+    {
+      "title": "My First Animal Library: Bats",
+      "author": "Martha E. H. Rustad",
+      "url": "https://www.getepic.com/book/12727618/my-first-animal-library-bats",
+      "lexile": "270L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "Follow a bat as it wakes up, finds food, and cares for its babies.",
+      "cite": "Rustad, Martha E. H.. My First Animal Library: Bats. JUMP."
+    },
+    {
+      "title": "Bats: Backyard Wildlife",
+      "author": "Kari Schuetz",
+      "url": "https://www.getepic.com/book/7550358/bats-backyard-wildlife",
+      "lexile": "380L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how bats sleep upside down and use sound to find food.",
+      "cite": "Schuetz, Kari. Bats: Backyard Wildlife. Bellwether Media."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "giant-panda",
+  "name": "Giant Panda",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Forest",
+  "intro": "A giant panda is a black and white bear. It lives in the mountains of China.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A giant panda is a big bear.",
+        "Its fur is black and white.",
+        "It has black ears and black patches around its eyes.",
+        "Its legs and shoulders are black too.",
+        "Its fur is thick and woolly."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Giant pandas live in China.",
+        "They live in forests high in the mountains.",
+        "Lots of bamboo grows in these forests.",
+        "Pandas are shy and stay away from people."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "A panda eats mostly bamboo.",
+        "It eats for about 12 hours every day.",
+        "It holds bamboo with a wrist bone that works like a thumb.",
+        "Its strong jaws and flat teeth crush the stems.",
+        "Sometimes it eats grass, fruit, or bugs."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby panda is called a cub.",
+        "A new cub is pink and has no fur.",
+        "It is about as small as a stick of butter.",
+        "Its eyes open when it is about 2 months old.",
+        "The cub stays with its mom for more than a year."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Pandas like to do somersaults.",
+        "Pandas are strong swimmers.",
+        "Pandas can bleat, honk, and growl.",
+        "Some pandas do handstands against trees.",
+        "People call the panda the bamboo bear."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Bamboo",
+      "meaning": "A tall, tough grass with hard stems."
+    },
+    {
+      "word": "Cub",
+      "meaning": "A baby bear."
+    },
+    {
+      "word": "Mammal",
+      "meaning": "An animal with fur or hair that drinks milk from its mom as a baby."
+    }
+  ],
+  "photos": [
+    {
+      "file": "giant-panda-1.jpg",
+      "alt": "A giant panda standing on a rock",
+      "credit": "J. Patrick Fischer",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Grosser_Panda.JPG"
+    },
+    {
+      "file": "giant-panda-2.jpg",
+      "alt": "A giant panda eating bamboo",
+      "credit": "Chen Wu from Shanghai, China",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Giant_Panda_Eating.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "All About Pandas for Kids - FreeSchool",
+      "url": "https://www.youtube.com/watch?v=VNxx8jVEm3I",
+      "channel": "Free School",
+      "about": "This video shows how pandas live and what they eat.",
+      "cite": "\"All About Pandas for Kids - FreeSchool.\" Free School. 2016."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Giant panda",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/giant-panda",
+      "level": "Easy",
+      "about": "Short facts and big photos about pandas and their cubs.",
+      "cite": "\"Giant panda.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Giant Panda",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/giant-panda",
+      "level": "Easy",
+      "about": "Fun facts about what pandas eat and how they play.",
+      "cite": "\"Giant Panda.\" National Geographic Kids."
+    },
+    {
+      "title": "Giant panda",
+      "site": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://nationalzoo.si.edu/animals/giant-panda",
+      "level": "Read together",
+      "about": "Zoo experts tell how pandas look, eat, and grow.",
+      "cite": "\"Giant panda.\" Smithsonian's National Zoo and Conservation Biology Institute."
+    },
+    {
+      "title": "Giant Panda",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/giantpanda.php",
+      "level": "Read together",
+      "about": "A kids page about where pandas live and what they eat.",
+      "cite": "\"Giant Panda.\" Ducksters."
+    }
+  ]
+}

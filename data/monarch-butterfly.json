@@ -1,0 +1,81 @@
+{
+  "slug": "monarch-butterfly",
+  "name": "Monarch Butterfly",
+  "kind": "animal",
+  "group": "Insect",
+  "habitat": "Meadow",
+  "intro": "A monarch is a big orange and black butterfly. Many monarchs fly far away each fall.",
+  "sections": [
+    {"key": "looks", "title": "What does it look like?", "sentences": [
+      "A monarch is a big orange butterfly.",
+      "Its wings have black lines and black edges.",
+      "Small white dots sit on the black edges.",
+      "Its open wings are about as wide as a grown-up's hand.",
+      "A monarch weighs about as much as a paper clip."
+    ], "from": [0, 1, 2, 3]},
+    {"key": "home", "title": "Where does it live?", "sentences": [
+      "Many monarchs live in North America.",
+      "They need fields, yards, and gardens with flowers.",
+      "In the fall, many monarchs migrate south.",
+      "Some fly all the way to Mexico.",
+      "Others spend the winter in California."
+    ], "from": [0, 1, 2, 3]},
+    {"key": "food", "title": "What does it eat?", "sentences": [
+      "A monarch caterpillar eats only milkweed.",
+      "Grown-up monarchs drink nectar from flowers.",
+      "They sip from milkweed, clover, and goldenrod.",
+      "Milkweed makes monarchs taste bad to birds."
+    ], "from": [0, 1, 2, 3]},
+    {"key": "life", "title": "How does it grow?", "sentences": [
+      "A monarch starts as a tiny egg on milkweed.",
+      "A striped caterpillar hatches out.",
+      "It eats and grows for about two weeks.",
+      "Then it makes a green chrysalis with gold dots.",
+      "A butterfly comes out one or two weeks later."
+    ], "from": [0, 1, 2, 3]},
+    {"key": "fun", "title": "Fun facts", "sentences": [
+      "Bright orange wings tell birds not to eat them.",
+      "Millions of monarchs fly south together.",
+      "No one monarch makes the whole trip there and back.",
+      "Summer monarchs live only a few weeks.",
+      "Monarchs that fly south can live many months."
+    ], "from": [0, 1, 2, 3]}
+  ],
+  "vocab": [
+    {"word": "migrate", "meaning": "To travel far away when the seasons change."},
+    {"word": "nectar", "meaning": "A sweet juice inside flowers."},
+    {"word": "chrysalis", "meaning": "The hard case a caterpillar changes inside."},
+    {"word": "milkweed", "meaning": "A plant that monarch caterpillars eat."}
+  ],
+  "photos": [
+    {"file": "monarch-butterfly-1.jpg", "alt": "An orange and black monarch butterfly on purple flowers",
+     "credit": "Rhododendrites", "license": "CC BY-SA 4.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Monarch_butterfly_in_BBG_(84685).jpg"},
+    {"file": "monarch-butterfly-2.jpg", "alt": "A striped monarch caterpillar on a milkweed plant",
+     "credit": "Ceeec", "license": "CC0",
+     "source": "https://commons.wikimedia.org/wiki/File:Monarch_butterfly_caterpillar_on_milkweed.jpg"}
+  ],
+  "videos": [
+    {"title": "Monarch Butterfly | Amazing Animals", "url": "https://www.youtube.com/watch?v=1b87rwtXGzA",
+     "channel": "Nat Geo Kids", "about": "A short video about monarchs and their long trip.",
+     "cite": "\"Monarch Butterfly | Amazing Animals.\" Nat Geo Kids. 2016."}
+  ],
+  "sources": [
+    {"title": "Monarch Butterfly", "site": "National Geographic Kids",
+     "url": "https://kids.nationalgeographic.com/animals/invertebrates/facts/monarch-butterfly", "level": "Easy",
+     "about": "Read about the monarch life cycle and its long trip south.",
+     "cite": "\"Monarch Butterfly.\" National Geographic Kids."},
+    {"title": "Monarch (Danaus plexippus)", "site": "U.S. Fish & Wildlife Service",
+     "url": "https://www.fws.gov/species/monarch-danaus-plexippus", "level": "Read together",
+     "about": "Learn how monarchs grow and why they need milkweed.",
+     "cite": "\"Monarch (Danaus plexippus).\" U.S. Fish & Wildlife Service."},
+    {"title": "Monarch Butterfly", "site": "National Wildlife Federation",
+     "url": "https://www.nwf.org/Educational-Resources/Wildlife-Guide/Invertebrates/Monarch-Butterfly", "level": "Read together",
+     "about": "Find out where monarchs go in winter and what they eat.",
+     "cite": "\"Monarch Butterfly.\" National Wildlife Federation."},
+    {"title": "Monarch butterfly facts for kids", "site": "Kiddle",
+     "url": "https://kids.kiddle.co/Monarch_butterfly", "level": "Read together",
+     "about": "See how monarch eggs, caterpillars, and chrysalises look.",
+     "cite": "\"Monarch butterfly facts for kids.\" Kiddle."}
+  ]
+}

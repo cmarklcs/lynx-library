@@ -1,0 +1,35 @@
+{
+  "slug": "polar-bear",
+  "books": [
+    {
+      "title": "National Geographic Readers: Polar Bears",
+      "author": "Laura Marsh",
+      "url": "https://www.getepic.com/book/48634027/national-geographic-readers-polar-bears",
+      "lexile": "440L",
+      "age": 6,
+      "publisher": "National Geographic",
+      "about": "Polar bears swim in icy water and take care of their cubs.",
+      "cite": "Marsh, Laura. Polar Bears. National Geographic."
+    },
+    {
+      "title": "My First Animal Library: Polar Bear",
+      "author": "Cari Meister",
+      "url": "https://www.getepic.com/book/12726507/my-first-animal-library-polar-bear",
+      "lexile": "320L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "A mother polar bear hunts a seal and brings food to her cubs.",
+      "cite": "Meister, Cari. My First Animal Library: Polar Bear. JUMP."
+    },
+    {
+      "title": "Polar Babies: Polar Bear Cubs",
+      "author": "Genevieve Nilsen",
+      "url": "https://www.getepic.com/book/75801310/polar-babies-polar-bear-cubs",
+      "lexile": "120L",
+      "age": 5,
+      "publisher": "Tadpole Books an imprint of JUMP",
+      "about": "Follow polar bear cubs as they play, hunt, and swim with their mother.",
+      "cite": "Nilsen, Genevieve. Polar Babies: Polar Bear Cubs. Tadpole Books an imprint of JUMP."
+    }
+  ]
+}
