@@ -41,10 +41,10 @@ for f in sorted((ROOT / "data").glob("*.json")):
 
 # ---- read-aloud recordings (macOS `say`) ----
 import hashlib, os
-VOICE = os.environ.get("VOICE", "Ava (Premium)")
-RATE = os.environ.get("RATE", "165")
+VOICE = os.environ.get("VOICE", "system")  # "system" = the Mac's System voice (set to Siri)
+RATE = os.environ.get("RATE", "160")
 voices = subprocess.run(["say", "-v", "?"], capture_output=True, text=True).stdout
-have_voice = any(re.match(re.escape(VOICE) + r"\s{2,}", l) for l in voices.splitlines())
+have_voice = VOICE == "system" or any(re.match(re.escape(VOICE) + r"\s{2,}", l) for l in voices.splitlines())
 (SITE / "audio").mkdir(exist_ok=True)
 
 def texts(t):
@@ -59,16 +59,25 @@ made = 0
 for t in topics:
     t["audio"] = {}
     for text in texts(t):
-        name = hashlib.sha1(f"{VOICE}|{RATE}|{text}".encode()).hexdigest()[:14] + ".m4a"
+        name = hashlib.sha1(f"{VOICE}|siri-nora|{RATE}|{text}".encode()).hexdigest()[:14] + ".m4a"
         out = SITE / "audio" / name
         if not out.exists() and have_voice:
-            subprocess.run(["say", "-v", VOICE, "-r", RATE, "--file-format=m4af",
-                            "--data-format=aac@22050", "--channels=1", "--bit-rate=32000",
-                            "-o", str(out), text], check=True)
-            made += 1
+            for attempt in range(3):
+                try:
+                    subprocess.run(["say", *([] if VOICE == "system" else ["-v", VOICE]), "-r", RATE, "--file-format=m4af",
+                                    "--data-format=aac@22050", "--channels=1", "--bit-rate=32000",
+                                    "-o", str(out), text], check=True, timeout=30)
+                    made += 1
+                    break
+                except (subprocess.TimeoutExpired, subprocess.CalledProcessError):
+                    subprocess.run(["pkill", "-x", "say"])
+                    out.unlink(missing_ok=True)
+            else:
+                problems.append(f"{t['slug']}: could not record {text!r}")
         if out.exists():
             t["audio"][text] = name
 (SITE / "topics.json").write_text(json.dumps(topics, ensure_ascii=False))
+print("\n".join(p for p in problems if "could not record" in p))
 print(f"audio: voice {VOICE!r} {'found' if have_voice else 'NOT installed'}, {made} new recordings")
 print(f"{len(topics)} topics built")
 print("\n".join(problems) or "no problems")
