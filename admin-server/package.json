@@ -1,0 +1,12 @@
+{
+  "name": "lynx-library-settings",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Teacher settings server for the Lynx Library: show or hide topics.",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "DEV_LOGIN=1 node server.js"
+  }
+}

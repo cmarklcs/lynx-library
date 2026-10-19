@@ -163,7 +163,7 @@ h2.big{font-size:1.9rem;font-weight:800;margin:44px 0 6px;color:var(--ink)}
 @media (prefers-reduced-motion:reduce){.tcard{transition:none}.tcard:hover{transform:none}}
 </style>
 
-<script src="firebase-config.js"></script>
+<script src="settings-config.js"></script>
 <div class="wrap">
   <nav class="bar">
     <a class="brand" href="#">
@@ -416,19 +416,18 @@ function route(){
 window.addEventListener('hashchange', () => { if (!location.hash) app.dataset.slug = ''; route(); });
 document.getElementById('homeBtn').addEventListener('click', () => { app.dataset.slug = ''; });
 
-/* Teachers hide topics on admin.html; the list lives in Firestore (settings/visibility), readable by anyone. */
+/* Teachers hide topics on the Lynx Library settings server (see admin-server/). Anyone can read the list. */
 async function loadHidden(){
-  const cfg = window.LYNX_FIREBASE;
+  const base = (window.LYNX_SETTINGS_URL || '').replace(/\/$/, '');
   let cached = [];
   try { cached = JSON.parse(localStorage.getItem('lynx-hidden') || '[]'); } catch {}
-  if (!cfg?.projectId) return [];
+  if (!base) return [];
   try {
     const ctl = new AbortController(); const timer = setTimeout(() => ctl.abort(), 4000);
-    const r = await fetch(`https://firestore.googleapis.com/v1/projects/${cfg.projectId}/databases/(default)/documents/settings/visibility?key=${cfg.apiKey}`, {signal: ctl.signal, cache: 'no-store'});
+    const r = await fetch(base + '/api/visibility', {signal: ctl.signal, cache: 'no-store'});
     clearTimeout(timer);
-    if (r.status === 404) return [];
-    const doc = await r.json();
-    const hidden = (doc.fields?.hidden?.arrayValue?.values || []).map(v => v.stringValue);
+    if (!r.ok) return cached;
+    const hidden = (await r.json()).hidden || [];
     try { localStorage.setItem('lynx-hidden', JSON.stringify(hidden)); } catch {}
     return hidden;
   } catch { return cached; }
