@@ -1,0 +1,34 @@
+{
+  "slug": "spider",
+  "books": [
+    {
+      "title": "Spiders: Backyard Wildlife",
+      "author": "Megan Borgert-Spaniol",
+      "url": "https://www.getepic.com/book/16685000/spiders-backyard-wildlife",
+      "lexile": "420L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how spiders use silk to build webs and catch food.",
+      "cite": "Borgert-Spaniol, Megan. Spiders: Backyard Wildlife. Bellwether Media."
+    },
+    {
+      "title": "National Geographic Readers: Spiders",
+      "author": "Laura Marsh",
+      "url": "https://www.getepic.com/book/48289617/national-geographic-readers-spiders",
+      "lexile": "500L",
+      "age": 6,
+      "publisher": "National Geographic",
+      "about": "Big photos show what spiders do and how they live.",
+      "cite": "Marsh, Laura. Spiders. National Geographic."
+    },
+    {
+      "title": "Spiders",
+      "author": "Gail Gibbons",
+      "url": "https://www.getepic.com/book/59790689/spiders",
+      "age": 6,
+      "publisher": "Live Oak Media",
+      "about": "Drawings show how spiders help us, from spiderlings to big tarantulas.",
+      "cite": "Gibbons, Gail. Spiders. Live Oak Media."
+    }
+  ]
+}

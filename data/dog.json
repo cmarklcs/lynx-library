@@ -1,0 +1,176 @@
+{
+  "slug": "dog",
+  "name": "Dog",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Homes",
+  "intro": "A dog is a furry animal that lives with people. Dogs are pets and helpers.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "Dogs have four legs and a coat of fur.",
+        "Some dogs are tiny, and some are very big.",
+        "There are more than 400 kinds of dogs.",
+        "A dog wags its tail to show how it feels.",
+        "A grown dog has about 42 teeth."
+      ],
+      "from": [
+        1,
+        3
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Dogs live all over the world.",
+        "Many dogs live in homes with families.",
+        "Some dogs live and work on farms.",
+        "Dogs need a clean, cozy place to sleep."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Dogs eat meat and vegetables.",
+        "Dog food mixes these foods together.",
+        "Their sharp teeth are good for eating meat.",
+        "Dogs need healthy food to stay strong."
+      ],
+      "from": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby dog is called a puppy.",
+        "A mother dog has about 6 puppies at a time.",
+        "Puppies drink milk from their mom.",
+        "All puppies are born deaf.",
+        "A dog is a puppy until about 1 year old."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Every dog has its own nose print.",
+        "A dog's nose smells much better than ours.",
+        "Guide dogs help people who cannot see.",
+        "Dogs sweat through their paws.",
+        "Dogs were the first animals to live with people."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ],
+      "fromVideos": [
+        1
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Mammal",
+      "meaning": "An animal with fur that feeds its babies milk."
+    },
+    {
+      "word": "Breed",
+      "meaning": "One kind of dog, like a beagle or a poodle."
+    },
+    {
+      "word": "Litter",
+      "meaning": "A group of babies born at the same time."
+    },
+    {
+      "word": "Guide dog",
+      "meaning": "A dog that helps a person who cannot see."
+    }
+  ],
+  "photos": [
+    {
+      "file": "dog-1.jpg",
+      "alt": "A yellow Labrador dog standing in the grass",
+      "credit": "IDS.photos from Tiverton, UK",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Labrador_on_Quantock_(2175262184).jpg"
+    },
+    {
+      "file": "dog-2.jpg",
+      "alt": "A guide dog helping a man walk through a mall",
+      "credit": "Antonio Cruz/Abr",
+      "license": "CC BY 3.0 br",
+      "source": "https://commons.wikimedia.org/wiki/File:Caoguia2006.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Dogs for Kids",
+      "url": "https://www.youtube.com/watch?v=lOCSDw_vby8",
+      "channel": "Homeschool Pop",
+      "about": "This video shares fun facts about pet dogs.",
+      "cite": "\"Dogs for Kids.\" Homeschool Pop. 2019."
+    },
+    {
+      "title": "Dogs Smelling Powers - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz",
+      "url": "https://www.youtube.com/watch?v=LhEFTgXTRNs",
+      "channel": "Peekaboo Kidz",
+      "about": "Dr. Binocs shows how well a dog can smell.",
+      "cite": "\"Dogs Smelling Powers - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz.\" Peekaboo Kidz. 2018."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dog facts for kids!",
+      "site": "National Geographic Kids",
+      "url": "https://www.natgeokids.com/uk/discover/animals/general-animals/dog-facts/",
+      "level": "Easy",
+      "about": "Fun facts about dog noses and dogs that help people.",
+      "cite": "\"Dog facts for kids!.\" National Geographic Kids."
+    },
+    {
+      "title": "Dog",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Dog",
+      "level": "Read together",
+      "about": "Facts about how dogs look, eat, and grow.",
+      "cite": "\"Dog.\" Kiddle."
+    },
+    {
+      "title": "30 Fun and Fascinating Dog Facts",
+      "site": "American Kennel Club",
+      "url": "https://www.akc.org/expert-advice/lifestyle/dog-facts/",
+      "level": "Read together",
+      "about": "Surprising facts about dog noses, puppies, and sleep.",
+      "cite": "\"30 Fun and Fascinating Dog Facts.\" American Kennel Club."
+    },
+    {
+      "title": "Dog",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/dog/353060",
+      "level": "Read together",
+      "about": "Learn about dog breeds, puppies, and how long dogs live.",
+      "cite": "\"Dog.\" Britannica Kids."
+    }
+  ]
+}

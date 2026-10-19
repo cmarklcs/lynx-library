@@ -1,0 +1,14 @@
+{"slug": "dog", "books": [
+  {"title": "Favorite Pets: Dogs", "url": "https://www.getepic.com/book/81376308/favorite-pets-dogs",
+   "lexile": "230L", "age": 5, "publisher": "Blastoff! Beginners",
+   "about": "This book tells how to care for a pet dog.",
+   "cite": "Favorite Pets: Dogs. Blastoff! Beginners."},
+  {"title": "Dogs", "author": "M. C. Swensen", "url": "https://www.getepic.com/book/44886624/dogs",
+   "lexile": "420L", "age": 6, "publisher": "Child's World",
+   "about": "This book shows how dogs look, act, and grow.",
+   "cite": "Swensen, M. C. Dogs. Child's World."},
+  {"title": "Dogs", "author": "Hollie Endres", "url": "https://www.getepic.com/book/39846017/dogs",
+   "lexile": "350L", "age": 6, "publisher": "Bellwether Media",
+   "about": "This book shows how dogs help out on a farm.",
+   "cite": "Endres, Hollie. Dogs. Bellwether Media."}
+]}

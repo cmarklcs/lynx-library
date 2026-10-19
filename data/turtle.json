@@ -1,0 +1,177 @@
+{
+  "slug": "turtle",
+  "name": "Turtle",
+  "kind": "animal",
+  "group": "Reptile",
+  "habitat": "Ponds and land",
+  "intro": "A turtle is a reptile with a hard shell. Some turtles live in ponds. Tortoises are turtles that live on land.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A turtle has a hard shell.",
+        "The shell grows from its ribs.",
+        "A turtle has a hard beak, not teeth.",
+        "Many turtles can hide their heads in their shells.",
+        "A box turtle can close its shell almost all the way."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Turtles live almost all over the world.",
+        "Many turtles spend lots of time in water.",
+        "Tortoises are turtles that live on dry land.",
+        "Box turtles live in woods and fields near ponds.",
+        "Desert tortoises dig holes to stay cool."
+      ],
+      "from": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Different turtles eat different foods.",
+        "Tortoises eat grass, flowers, fruit, and cactus.",
+        "Box turtles eat plants, fruit, mushrooms, and bugs.",
+        "Baby box turtles eat more bugs than plants."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A mother turtle digs a hole for her eggs.",
+        "A box turtle lays about 4 or 5 eggs.",
+        "She covers the eggs and leaves.",
+        "The babies hatch and take care of themselves.",
+        "Turtles grow slowly and live a long time."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Some tortoises live more than 100 years.",
+        "Box turtles rest all winter when it is cold.",
+        "A tortoise warms its body in the sun.",
+        "Other animals share the desert tortoise's hole.",
+        "Tortoises have lived on Earth since the dinosaurs."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Reptile",
+      "meaning": "An animal with scaly skin, like a turtle or a snake."
+    },
+    {
+      "word": "Shell",
+      "meaning": "The hard cover that keeps a turtle safe."
+    },
+    {
+      "word": "Tortoise",
+      "meaning": "A turtle that lives on land."
+    },
+    {
+      "word": "Hatchling",
+      "meaning": "A baby animal that just came out of its egg."
+    },
+    {
+      "word": "Burrow",
+      "meaning": "A hole in the ground that an animal lives in."
+    }
+  ],
+  "photos": [
+    {
+      "file": "turtle-1.jpg",
+      "alt": "A box turtle with a brown and yellow shell",
+      "credit": "Jonathan Zander (Digon3)",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Florida_Box_Turtle_Digon3.jpg"
+    },
+    {
+      "file": "turtle-2.jpg",
+      "alt": "A giant tortoise walking on the dirt",
+      "credit": "NorbertNagel",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aldabra_giant_tortoise_(Aldabrachelys_gigantea)_-_Alibel_Tortoise_Park_-_Mahe_-_Seychelles_-_01.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Turtles for Little Ones: Preschool Learning about Turtles for Kids - FreeSchool Early Birds",
+      "url": "https://www.youtube.com/watch?v=6vc3VShWTfc",
+      "channel": "FreeSchool Early Birds",
+      "about": "This short video shows turtles that live on land and in water.",
+      "cite": "\"Turtles for Little Ones: Preschool Learning about Turtles for Kids - FreeSchool Early Birds.\" FreeSchool Early Birds. 2018."
+    },
+    {
+      "title": "Tortoises for Kids | Learn all about these old land turtles!",
+      "url": "https://www.youtube.com/watch?v=zb4QLqXzNek",
+      "channel": "Learn Bright",
+      "about": "This video tells about tortoises, the turtles that live on land.",
+      "cite": "\"Tortoises for Kids | Learn all about these old land turtles!.\" Learn Bright. 2024."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Turtle facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Turtle",
+      "level": "Read together",
+      "about": "Facts about turtle shells, beaks, and eggs.",
+      "cite": "\"Turtle facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Galápagos Tortoise",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/reptiles/facts/galapagos-tortoise",
+      "level": "Easy",
+      "about": "Facts about a giant tortoise that can live over 100 years.",
+      "cite": "\"Galápagos Tortoise.\" National Geographic Kids."
+    },
+    {
+      "title": "Eastern box turtle",
+      "site": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/eastern-box-turtle",
+      "level": "Read together",
+      "about": "Zoo experts tell how box turtles eat, nest, and rest in winter.",
+      "cite": "\"Eastern box turtle.\" Smithsonian's National Zoo."
+    },
+    {
+      "title": "Desert Tortoise",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/desert-tortoise",
+      "level": "Easy",
+      "about": "Short facts and photos about a tortoise that digs holes in the desert.",
+      "cite": "\"Desert Tortoise.\" San Diego Zoo Wildlife Explorers."
+    }
+  ]
+}

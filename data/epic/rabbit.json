@@ -1,0 +1,35 @@
+{
+  "slug": "rabbit",
+  "books": [
+    {
+      "title": "Backyard Animals: Rabbits",
+      "author": "Genevieve Nilsen",
+      "url": "https://www.getepic.com/book/78397717/backyard-animals-rabbits",
+      "lexile": "160L",
+      "age": 4,
+      "publisher": "Tadpole Books",
+      "about": "An easy book about how rabbits look, live, and act.",
+      "cite": "Nilsen, Genevieve. Backyard Animals: Rabbits. Tadpole Books."
+    },
+    {
+      "title": "Rabbits",
+      "author": "Julie Murray",
+      "url": "https://www.getepic.com/book/28711575/rabbits",
+      "lexile": "240L",
+      "age": 6,
+      "publisher": "ABDO Publishing",
+      "about": "A very simple book with fun rabbit facts.",
+      "cite": "Murray, Julie. Rabbits. ABDO Publishing."
+    },
+    {
+      "title": "Rabbits",
+      "author": "Hollie Endres",
+      "url": "https://www.getepic.com/book/39856016/rabbits",
+      "lexile": "260L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn how rabbits look and how they live.",
+      "cite": "Endres, Hollie. Rabbits. Bellwether Media."
+    }
+  ]
+}

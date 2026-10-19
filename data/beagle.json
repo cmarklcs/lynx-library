@@ -1,0 +1,175 @@
+{
+  "slug": "beagle",
+  "name": "Beagle",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Homes",
+  "intro": "A beagle is a small, friendly dog. It has a great nose for smelling.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A beagle is a small hound dog.",
+        "It is about as tall as a grown-up's knee.",
+        "It has long, soft ears that hang down.",
+        "It has big brown or hazel eyes.",
+        "Its tail has a white tip."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Beagles first came from Great Britain.",
+        "Today many beagles live in homes as pets.",
+        "Beagles like to be with people and other dogs.",
+        "They need lots of playtime every day."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Beagles eat dog food.",
+        "Dog food has meat and vegetables in it.",
+        "A beagle's nose can sniff out food in bags.",
+        "Exercise helps beagles stay a healthy weight."
+      ],
+      "from": [
+        0,
+        3
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A mother beagle has about 6 puppies.",
+        "New beagle puppies are very tiny.",
+        "Some puppies are born black and white.",
+        "Their brown color comes in as they grow.",
+        "Beagles live about 12 to 15 years."
+      ],
+      "from": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Snoopy from the cartoons is a beagle.",
+        "Beagles were first used to hunt rabbits.",
+        "Beagles work at airports to sniff bags.",
+        "A beagle makes a long howl called a bay.",
+        "Beagle fans call them merry dogs."
+      ],
+      "from": [
+        0,
+        1
+      ],
+      "fromVideos": [
+        0
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Hound",
+      "meaning": "A dog that hunts by using its nose."
+    },
+    {
+      "word": "Breed",
+      "meaning": "One kind of dog, like a beagle or a poodle."
+    },
+    {
+      "word": "Litter",
+      "meaning": "A group of babies born at the same time."
+    },
+    {
+      "word": "Scent",
+      "meaning": "A smell that an animal can follow."
+    }
+  ],
+  "photos": [
+    {
+      "file": "beagle-1.jpg",
+      "alt": "A brown, black, and white beagle standing at a dog show",
+      "credit": "Томасина",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Beagle_in_Tallinn_2.JPG"
+    },
+    {
+      "file": "beagle-2.jpg",
+      "alt": "A beagle in a green vest sniffing bags at an airport with an officer",
+      "credit": "James Tourtellotte, U.S. Customs and Border Protection",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:CBP_Airport.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "On Patrol With the Beagle Brigade",
+      "url": "https://www.youtube.com/watch?v=mKWDDabmoNs",
+      "channel": "HowStuffWorks",
+      "about": "Beagles use their noses to find food in bags at the airport.",
+      "cite": "\"On Patrol With the Beagle Brigade.\" HowStuffWorks. 2019."
+    },
+    {
+      "title": "Dogs Smelling Powers - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz",
+      "url": "https://www.youtube.com/watch?v=LhEFTgXTRNs",
+      "channel": "Peekaboo Kidz",
+      "about": "Dr. Binocs shows how well a dog can smell.",
+      "cite": "\"Dogs Smelling Powers - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz.\" Peekaboo Kidz. 2018."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Beagle",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Beagle",
+      "level": "Read together",
+      "about": "Facts about how beagles look, hunt, and help at airports.",
+      "cite": "\"Beagle.\" Kiddle."
+    },
+    {
+      "title": "Beagle",
+      "site": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/beagle/",
+      "level": "Read together",
+      "about": "Dog experts tell about the beagle's size, colors, and personality.",
+      "cite": "\"Beagle.\" American Kennel Club."
+    },
+    {
+      "title": "Beagle",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/beagle/471452",
+      "level": "Read together",
+      "about": "A short article about beagles as friendly pets.",
+      "cite": "\"Beagle.\" Britannica Kids."
+    },
+    {
+      "title": "Dog",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Dog",
+      "level": "Read together",
+      "about": "Facts about what all dogs eat and how puppies grow.",
+      "cite": "\"Dog.\" Kiddle."
+    }
+  ]
+}

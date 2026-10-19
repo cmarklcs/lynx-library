@@ -1,0 +1,175 @@
+{
+  "slug": "spider",
+  "name": "Spider",
+  "kind": "animal",
+  "group": "Arachnid",
+  "habitat": "Many places",
+  "intro": "A spider is a small animal with eight legs. Most spiders are harmless to people.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A spider has 8 legs.",
+        "Its body has 2 main parts.",
+        "Most spiders have 8 eyes.",
+        "Spiders are not insects, because insects have 6 legs.",
+        "Spiders make silk inside their bodies."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Spiders live almost everywhere.",
+        "They live in deserts, rainforests, and backyards.",
+        "Some spiders live in holes lined with silk.",
+        "A few spiders even live under water."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Spiders eat insects.",
+        "Some spiders catch bugs in sticky webs.",
+        "Other spiders jump on their food.",
+        "Spiders help us by eating lots of bugs."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A mother spider lays eggs.",
+        "She wraps them in a silk egg sac.",
+        "Baby spiders are called spiderlings.",
+        "Spiderlings look like tiny grown-up spiders.",
+        "Spiders shed their skin to grow bigger."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Most spiders are harmless to people.",
+        "Spiders usually bite only if they feel scared.",
+        "Some spiders are smaller than a gummy bear.",
+        "A spider can grow back a lost leg.",
+        "Some baby spiders ride the wind on silk."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Arachnid",
+      "meaning": "An animal with 8 legs, like a spider."
+    },
+    {
+      "word": "Insect",
+      "meaning": "A small animal with 6 legs, like an ant."
+    },
+    {
+      "word": "Silk",
+      "meaning": "A thin, strong thread that spiders make."
+    },
+    {
+      "word": "Spiderling",
+      "meaning": "A baby spider."
+    },
+    {
+      "word": "Egg sac",
+      "meaning": "A silk bag that holds spider eggs."
+    }
+  ],
+  "photos": [
+    {
+      "file": "spider-1.jpg",
+      "alt": "A yellow and white spider resting on its web",
+      "credit": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Argiope_spider_female_adult_on_her_web_dorsal_view_black_background_Don_Det_Laos.jpg"
+    },
+    {
+      "file": "spider-2.jpg",
+      "alt": "Drops of dew shining on a spider web",
+      "credit": "Luc Viatour",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dew_on_spider_web_Luc_Viatour.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Don't Be Afraid of Spiders! | Amazing Animals | Backyard Science | SciShow Kids",
+      "url": "https://www.youtube.com/watch?v=3qdxEiIB_Sw",
+      "channel": "SciShow Kids",
+      "about": "Jessi shows how spiders make silk and why we do not need to be afraid.",
+      "cite": "\"Don't Be Afraid of Spiders! | Amazing Animals | Backyard Science | SciShow Kids.\" SciShow Kids. 2015."
+    },
+    {
+      "title": "Spiders for Kids",
+      "url": "https://www.youtube.com/watch?v=IRZcbeCSoYQ",
+      "channel": "Homeschool Pop",
+      "about": "This video tells why spiders are cool and helpful.",
+      "cite": "\"Spiders for Kids.\" Homeschool Pop. 2018."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Spider",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/spider",
+      "level": "Easy",
+      "about": "Short facts and big photos about spiders, silk, and spiderlings.",
+      "cite": "\"Spider.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Spider",
+      "site": "San Diego Zoo Wildlife Alliance Animals and Plants",
+      "url": "https://animals.sandiegozoo.org/animals/spider",
+      "level": "Read together",
+      "about": "Zoo experts tell how spiders use silk and why most are not dangerous.",
+      "cite": "\"Spider.\" San Diego Zoo Wildlife Alliance Animals and Plants."
+    },
+    {
+      "title": "Spider facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Spider",
+      "level": "Read together",
+      "about": "Facts about spider bodies, eyes, webs, and babies.",
+      "cite": "\"Spider facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Spider",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/spider/353800",
+      "level": "Read together",
+      "about": "An encyclopedia page about spiders and where they live.",
+      "cite": "\"Spider.\" Britannica Kids."
+    }
+  ]
+}

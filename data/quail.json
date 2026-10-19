@@ -1,0 +1,176 @@
+{
+  "slug": "quail",
+  "name": "Quail",
+  "kind": "animal",
+  "group": "Bird",
+  "habitat": "Grassland",
+  "intro": "A quail is a small, round bird. It lives mostly on the ground.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A quail is a small, plump bird.",
+        "It has a short neck and a small head.",
+        "Its feathers are brown, gray, and white.",
+        "A bobwhite is about as long as a robin.",
+        "A California quail has a curly feather on its head."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Quails spend most of their time on the ground.",
+        "Bobwhites live in fields, farms, and the edges of woods.",
+        "California quails live on the West Coast.",
+        "They hide under bushes and tall plants."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Quails eat seeds, berries, and leaves.",
+        "They also eat flowers and acorns.",
+        "They eat bugs like beetles and caterpillars.",
+        "Bobwhites eat more bugs in the summer."
+      ],
+      "from": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A quail makes its nest on the ground.",
+        "The nest is a small dip lined with grass.",
+        "A bobwhite mom lays about 12 to 16 eggs.",
+        "The chicks leave the nest soon after they hatch.",
+        "Mom and dad both take care of the chicks."
+      ],
+      "from": [
+        1,
+        3
+      ],
+      "fromVideos": [
+        1
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A group of quails is called a covey.",
+        "A bobwhite whistles its name: bob-WHITE!",
+        "At night, bobwhites sleep in a circle.",
+        "The California quail is California's state bird.",
+        "Quails are related to chickens and turkeys."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Covey",
+      "meaning": "A small group of quails that stay together."
+    },
+    {
+      "word": "Chick",
+      "meaning": "A baby bird."
+    },
+    {
+      "word": "Nest",
+      "meaning": "A place a bird makes to lay its eggs."
+    },
+    {
+      "word": "Topknot",
+      "meaning": "A curly feather on top of a quail's head."
+    }
+  ],
+  "photos": [
+    {
+      "file": "quail-1.jpg",
+      "alt": "A northern bobwhite quail standing in the grass",
+      "credit": "Matt Tillett from Cumberland, MD, USA",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Colinus_virginianus_Chincoteague.jpg"
+    },
+    {
+      "file": "quail-2.jpg",
+      "alt": "A male California quail with a curly feather on its head",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:California_quail_(Callipepla_californica)_male_Tricao.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Backyard Naturalist: California Quail",
+      "url": "https://www.youtube.com/watch?v=Y4QhG8HSCI4",
+      "channel": "Sequoia Parks Conservancy",
+      "about": "A park naturalist shows where California quails live and what they eat.",
+      "cite": "\"Backyard Naturalist: California Quail.\" Sequoia Parks Conservancy. 2021."
+    },
+    {
+      "title": "Bobwhite Quail Hen With Chicks",
+      "url": "https://www.youtube.com/watch?v=6PGppQYGNVg",
+      "channel": "QualityWildlife",
+      "about": "A mother bobwhite walks with her tiny new chicks.",
+      "cite": "\"Bobwhite Quail Hen With Chicks.\" QualityWildlife. 2011."
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Quail",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/birds/facts/california-quail",
+      "level": "Easy",
+      "about": "Short facts about what California quails eat and where they live.",
+      "cite": "\"California Quail.\" National Geographic Kids."
+    },
+    {
+      "title": "Northern Bobwhite",
+      "site": "Audubon Guide to North American Birds",
+      "url": "https://www.audubon.org/field-guide/bird/northern-bobwhite",
+      "level": "Read together",
+      "about": "Bird experts tell about bobwhite nests, eggs, and chicks.",
+      "cite": "\"Northern Bobwhite.\" Audubon Guide to North American Birds."
+    },
+    {
+      "title": "Quail",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Quail",
+      "level": "Read together",
+      "about": "Facts about the different kinds of quails around the world.",
+      "cite": "\"Quail.\" Kiddle."
+    },
+    {
+      "title": "California Quail",
+      "site": "Audubon Guide to North American Birds",
+      "url": "https://www.audubon.org/field-guide/bird/california-quail",
+      "level": "Read together",
+      "about": "Bird experts tell about California quail food and families.",
+      "cite": "\"California Quail.\" Audubon Guide to North American Birds."
+    }
+  ]
+}

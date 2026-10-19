@@ -1,0 +1,14 @@
+{"slug": "beagle", "books": [
+  {"title": "Beagles", "author": "Kate Riggs", "url": "https://www.getepic.com/book/55474454/beagles",
+   "lexile": "340L", "age": 6, "publisher": "The Creative Company",
+   "about": "A short book with big photos of beagles.",
+   "cite": "Riggs, Kate. Beagles. The Creative Company."},
+  {"title": "Beagles", "author": "Kaitlyn Duling", "url": "https://www.getepic.com/book/64081371/beagles",
+   "lexile": "310L", "age": 2, "publisher": "Bullfrog Books",
+   "about": "This book shows what beagles look like.",
+   "cite": "Duling, Kaitlyn. Beagles. Bullfrog Books."},
+  {"title": "Beagles", "author": "Grace Hansen", "url": "https://www.getepic.com/book/57194282/beagles",
+   "lexile": "480L", "age": 6, "publisher": "ABDO Kids",
+   "about": "Learn about the beagle from its nose to its tail.",
+   "cite": "Hansen, Grace. Beagles. ABDO Kids."}
+]}

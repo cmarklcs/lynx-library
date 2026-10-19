@@ -1,0 +1,171 @@
+{
+  "slug": "rabbit",
+  "name": "Rabbit",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Meadow",
+  "intro": "A rabbit is a small, furry mammal with long ears. It can hop and jump.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A rabbit has fur and long ears.",
+        "Its ears can turn to hear sounds.",
+        "Its eyes are on the sides of its head.",
+        "It can see almost all the way around.",
+        "Its front teeth never stop growing."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Rabbits live in meadows, woods, and grasslands.",
+        "Some live in deserts and wetlands.",
+        "Many rabbits live in holes called burrows.",
+        "A group of burrows is called a warren.",
+        "Cottontail rabbits live in yards and on farms."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Rabbits eat plants.",
+        "They eat grass, clover, and dandelions.",
+        "Chewing wears down their growing teeth.",
+        "Rabbits sometimes nibble tree bark.",
+        "Carrots are not a natural rabbit food."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby rabbit is called a kit.",
+        "A mother rabbit makes a nest of grass and fur.",
+        "Kits are born with no fur, and they cannot see.",
+        "A mother can have many kits at one time.",
+        "Cottontail kits leave the nest after about two weeks."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A happy rabbit does a twisty jump called a binky.",
+        "Happy rabbits can purr like cats.",
+        "A rabbit can jump higher than a kitchen table.",
+        "A girl rabbit is a doe, and a boy is a buck.",
+        "Cottontails are busy from evening to early morning."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Mammal",
+      "meaning": "An animal with fur that feeds its babies milk."
+    },
+    {
+      "word": "Burrow",
+      "meaning": "A hole in the ground that an animal lives in."
+    },
+    {
+      "word": "Warren",
+      "meaning": "A group of rabbit burrows."
+    },
+    {
+      "word": "Kit",
+      "meaning": "A baby rabbit."
+    }
+  ],
+  "photos": [
+    {
+      "file": "rabbit-1.jpg",
+      "alt": "A wild cottontail rabbit sitting in the grass",
+      "credit": "Paul Danese",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eastern_cottontail_East_Hartford.jpg"
+    },
+    {
+      "file": "rabbit-2.jpg",
+      "alt": "A young wild rabbit sitting on a rock",
+      "credit": "Alexis Lours",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:European_rabbit_(Oryctolagus_cuniculus)_kitten.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Facts about Bunnies for Kids",
+      "url": "https://www.youtube.com/watch?v=XxSS1QGC_S0",
+      "channel": "Homeschool Pop",
+      "about": "This video shares fun facts about bunnies.",
+      "cite": "\"Facts about Bunnies for Kids.\" Homeschool Pop. 2019."
+    },
+    {
+      "title": "Rabbits! What, Where, and How",
+      "url": "https://www.youtube.com/watch?v=BovzFTpGB4M",
+      "channel": "Animal Wonders Montana",
+      "about": "Meet a real rabbit and learn where rabbits come from.",
+      "cite": "\"Rabbits! What, Where, and How.\" Animal Wonders Montana. 2015."
+    }
+  ],
+  "sources": [
+    {
+      "title": "10 hopping fun rabbit facts!",
+      "site": "National Geographic Kids",
+      "url": "https://www.natgeokids.com/uk/discover/animals/general-animals/10-hopping-fun-rabbit-facts/",
+      "level": "Easy",
+      "about": "Ten fun facts about rabbit teeth, ears, jumps, and babies.",
+      "cite": "\"10 hopping fun rabbit facts!.\" National Geographic Kids."
+    },
+    {
+      "title": "Rabbit facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Rabbit",
+      "level": "Read together",
+      "about": "Facts about where rabbits live and how kits grow.",
+      "cite": "\"Rabbit facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Cottontail Rabbits",
+      "site": "Mass Audubon",
+      "url": "https://www.massaudubon.org/nature-wildlife/mammals-in-massachusetts/cottontail-rabbits",
+      "level": "Read together",
+      "about": "Facts about wild cottontail rabbits, their food, and their nests.",
+      "cite": "\"Cottontail Rabbits.\" Mass Audubon."
+    },
+    {
+      "title": "Rabbit and Hare",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/rabbit-and-hare/353689",
+      "level": "Read together",
+      "about": "An encyclopedia page about rabbits and their cousins, the hares.",
+      "cite": "\"Rabbit and Hare.\" Britannica Kids."
+    }
+  ]
+}

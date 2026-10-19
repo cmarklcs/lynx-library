@@ -1,0 +1,35 @@
+{
+  "slug": "turtle",
+  "books": [
+    {
+      "title": "Turtles: Backyard Wildlife",
+      "author": "Emily Green",
+      "url": "https://www.getepic.com/book/7235945/turtles-backyard-wildlife",
+      "lexile": "330L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn what turtles eat, where they live, and how shells help them.",
+      "cite": "Green, Emily. Turtles: Backyard Wildlife. Bellwether Media."
+    },
+    {
+      "title": "National Geographic Readers: Turtles",
+      "author": "Laura Marsh",
+      "url": "https://www.getepic.com/book/48365165/national-geographic-readers-turtles",
+      "lexile": "540L",
+      "age": 6,
+      "publisher": "National Geographic",
+      "about": "Big photos show all kinds of turtles.",
+      "cite": "Marsh, Laura. Turtles. National Geographic."
+    },
+    {
+      "title": "Turtles",
+      "author": "Grace Hansen",
+      "url": "https://www.getepic.com/book/13599753/turtles",
+      "lexile": "510L",
+      "age": 6,
+      "publisher": "ABDO Publishing",
+      "about": "Learn all about scaly turtles and their shells.",
+      "cite": "Hansen, Grace. Turtles. ABDO Publishing."
+    }
+  ]
+}
