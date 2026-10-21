@@ -2,18 +2,225 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <title>Lynx Library · Teachers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Grandstander:wght@600;800&display=swap">
+<style>
+/* Teacher portal: same Lausanne palette as the student site, laid out as a dense checklist. */
+:root{
+  --paper:#f3f6f9; --card:#ffffff; --ink:#14233a; --soft:#56657a; --line:#d6dee8;
+  --brand:#00274c; --brand-soft:#e3eaf3; --sky:#017ea7; --sky-soft:#dff1f7;
+  --sun:#ffcb05; --sun-soft:#fff4c7; --berry:#ca1639; --berry-soft:#fbe3e8; --ok:#2e7d4f;
+  --shadow:0 2px 0 rgba(0,39,76,.08), 0 8px 24px -12px rgba(0,39,76,.3);
+  --display:"Grandstander","Trebuchet MS",system-ui,sans-serif;
+  --body:"Andika","Verdana",system-ui,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root{
+  --paper:#0b1626; --card:#13233a; --ink:#eef3f8; --soft:#a5b3c5; --line:#24364f;
+  --brand:#ffcb05; --brand-soft:#1c2f4a; --sky:#4fc0e6; --sky-soft:#12344a;
+  --sun:#ffcb05; --sun-soft:#3a3214; --berry:#f0738d; --berry-soft:#3d1a24; --ok:#6fcf94;
+  --shadow:0 2px 0 rgba(0,0,0,.3), 0 8px 24px -12px rgba(0,0,0,.6); color-scheme:dark}}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{margin:0}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.05rem;line-height:1.5;padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+.wrap{max-width:980px;margin:0 auto;padding-inline:clamp(16px,4vw,32px);padding-block:20px 64px}
+h1,h2{font-family:var(--display);line-height:1.15;margin:0;text-wrap:balance}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:3px solid var(--sun);outline-offset:2px;border-radius:8px}
+a{color:var(--sky)}
+.bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:22px}
+.brand{font-family:var(--display);font-weight:800;font-size:1.25rem;color:var(--brand);text-decoration:none;display:flex;align-items:center;gap:10px}
+.brand svg{width:40px;height:40px;flex:none}
+.brand span{display:grid;line-height:1.1}
+.brand small{font-family:var(--body);font-size:.75rem;color:var(--soft);font-weight:700}
+.spacer{flex:1}
+.btn{border:2px solid var(--line);background:var(--card);border-radius:999px;padding:6px 16px;font-weight:700;text-decoration:none;color:var(--ink);display:inline-flex;align-items:center;gap:8px}
+.btn:hover{border-color:var(--sky)}
+.btn.primary{background:var(--brand);border-color:var(--brand);color:var(--paper)}
+.btn.primary svg{width:20px;height:20px}
+.card{background:var(--card);border-radius:20px;padding:24px;box-shadow:var(--shadow)}
+.signin{max-width:520px;margin:40px auto;display:grid;gap:14px;text-align:left}
+.signin h1{font-size:2rem;color:var(--brand)}
+.signin p{margin:0;color:var(--soft)}
+.msg{border-radius:12px;padding:10px 14px;font-size:.95rem}
+.msg.err{background:var(--berry-soft);color:var(--ink)}
+.msg.info{background:var(--sun-soft)}
+.head{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:end;margin-bottom:14px}
+.head h1{font-size:clamp(1.7rem,4vw,2.3rem);color:var(--brand);flex:1;min-width:0}
+.who{font-size:.9rem;color:var(--soft)}
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:16px}
+.search{display:flex;align-items:center;gap:8px;background:var(--card);border:2px solid var(--line);border-radius:12px;padding:4px 12px;flex:1;min-width:min(100%,220px)}
+.search input{border:0;background:transparent;font:inherit;color:var(--ink);width:100%;min-width:0;outline:none;padding:4px 0}
+.search svg{width:20px;height:20px;color:var(--soft);flex:none}
+.chip{border:2px solid var(--line);background:var(--card);border-radius:999px;padding:3px 12px;font-weight:700;font-size:.95rem}
+.chip[aria-pressed="true"]{background:var(--brand);border-color:var(--brand);color:var(--paper)}
+.summary{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;margin-bottom:12px;font-size:.95rem}
+.summary b{font-variant-numeric:tabular-nums}
+.status{margin-left:auto;font-weight:700;font-size:.9rem;color:var(--soft)}
+.status.ok{color:var(--ok)}
+.status.err{color:var(--berry)}
+.list{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,280px),1fr));gap:10px}
+.row{display:grid;grid-template-columns:auto 56px minmax(0,1fr);align-items:center;gap:12px;background:var(--card);border-radius:14px;padding:8px 14px 8px 10px;box-shadow:var(--shadow);border:2px solid transparent;cursor:pointer}
+.row:has(input:focus-visible){border-color:var(--sun)}
+.row input{width:26px;height:26px;accent-color:var(--brand);margin:0;cursor:pointer}
+.row img{width:56px;height:42px;object-fit:cover;border-radius:8px;background:var(--brand-soft)}
+.row .nm{font-weight:700;display:block}
+.row .st{font-size:.85rem;color:var(--ok);font-weight:700}
+.row.off{opacity:.62}
+.row.off .st{color:var(--berry)}
+.row.off img{filter:grayscale(1)}
+.note{color:var(--soft);font-size:.9rem;margin-top:22px}
+.pw{display:flex;gap:10px;flex-wrap:wrap}
+.pw input{flex:1;min-width:0;font:inherit;font-size:1.1rem;color:var(--ink);background:var(--paper);border:2px solid var(--line);border-radius:12px;padding:8px 12px}
+.pw input:focus{outline:none;border-color:var(--sky)}
+</style>
 <script src="settings-config.js"></script>
-<style>body{font-family:system-ui,sans-serif;background:#f3f6f9;color:#14233a;display:grid;place-items:center;min-height:100vh;margin:0;padding:16px}@media (prefers-color-scheme:dark){body{background:#0b1626;color:#eef3f8}}a{color:#017ea7}</style>
 </head>
 <body>
-<p id="msg">Opening teacher settings…</p>
+<div class="wrap">
+  <nav class="bar">
+    <a class="brand" href="./">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="19" fill="var(--brand)"/><path d="M9 9l2 11h18l2-11-7 6h-8z" fill="var(--sun)"/><path d="M9 9V5M31 9V5" stroke="var(--sun)" stroke-width="2" stroke-linecap="round"/><ellipse cx="20" cy="23" rx="10" ry="9" fill="var(--sun)"/><circle cx="16" cy="21" r="1.6" fill="var(--brand)"/><circle cx="24" cy="21" r="1.6" fill="var(--brand)"/><path d="M18.5 25h3l-1.5 1.6z" fill="var(--brand)"/></svg>
+      <span>Lynx Library<small>Teacher settings</small></span>
+    </a>
+    <span class="spacer"></span>
+    <a class="btn" href="./">Student site</a>
+    <button class="btn" id="signOut" hidden>Lock</button>
+  </nav>
+  <main id="app"><p class="who">Loading…</p></main>
+</div>
+
 <script>
-const url = (window.LYNX_SETTINGS_URL || '').replace(/\/$/, '');
-if (url) location.replace(url + '/');
-else document.getElementById('msg').textContent = 'Teacher settings are not set up yet.';
+const app = document.getElementById('app');
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const API = (window.LYNX_SETTINGS_URL || '').replace(/\/$/, '');
+const LOCK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg>';
+let TOPICS = [], hidden = new Set(), filter = 'all', query = '', token = null, poll = null;
+try { token = sessionStorage.getItem('lynx-teacher'); } catch {}
+
+function lock(msg){
+  token = null; clearInterval(poll);
+  try { sessionStorage.removeItem('lynx-teacher'); } catch {}
+  document.getElementById('signOut').hidden = true;
+  app.innerHTML = `<form class="card signin" id="pwForm">
+    <h1>Teacher settings</h1>
+    <p>Enter the teacher password to choose which animals and plants students can see.</p>
+    ${msg ? `<div class="msg err" role="alert">${esc(msg)}</div>` : ''}
+    <div class="pw">
+      <input id="pw" type="password" autocomplete="current-password" aria-label="Teacher password" placeholder="Teacher password" required>
+      <button class="btn primary" type="submit">${LOCK} Unlock</button>
+    </div>
+    <p style="font-size:.9rem">Not a teacher? <a href="./">Go back to the library</a>.</p>
+  </form>`;
+  document.getElementById('pw').focus();
+  document.getElementById('pwForm').onsubmit = async e => {
+    e.preventDefault();
+    const btn = e.target.querySelector('button'); btn.disabled = true;
+    try {
+      const r = await fetch(API + '/api/login', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ password: document.getElementById('pw').value }) });
+      if (r.status === 401) return lock('That password is not right. Please try again.');
+      if (r.status === 429) return lock('Too many tries. Please wait 15 minutes and try again.');
+      if (!r.ok) return lock('Teacher settings are not working right now. Please try again later.');
+      token = (await r.json()).token;
+      try { sessionStorage.setItem('lynx-teacher', token); } catch {}
+      open();
+    } catch { lock('Could not connect. Check the internet connection and try again.'); }
+  };
+}
+
+async function api(path, opts = {}){
+  const r = await fetch(API + path, { ...opts, headers: { ...(opts.headers || {}), Authorization: 'Bearer ' + token } });
+  if (r.status === 401){ lock('Teacher settings locked again. Please enter the password.'); throw new Error('locked'); }
+  if (!r.ok) throw new Error(r.statusText);
+  return r.json();
+}
+
+async function open(){
+  document.getElementById('signOut').hidden = false;
+  if (!TOPICS.length) TOPICS = (await fetch('topics.json').then(x => x.json())).sort((a, b) => a.name.localeCompare(b.name));
+  renderPortal();
+  await refresh();
+  clearInterval(poll);
+  poll = setInterval(() => { if (token && !document.hidden) refresh().catch(() => {}); }, 20000);
+}
+async function refresh(){ applySettings(await api('/api/settings')); }
+function applySettings(s){
+  hidden = new Set(s.hidden || []);
+  const el = document.getElementById('lastChange');
+  if (el) el.textContent = s.updatedAt ? `Last changed ${new Date(s.updatedAt).toLocaleString([], {dateStyle:'medium', timeStyle:'short'})}` : '';
+  drawList();
+}
+document.getElementById('signOut').onclick = () => lock();
+
+function renderPortal(){
+  app.innerHTML = `
+    <div class="head"><h1>Which topics can students see?</h1></div>
+    <p class="who" style="margin:0 0 16px">Uncheck a topic to hide it from every student. Changes save right away and apply to all first-grade classes. Click <b>Lock</b> when you're done.</p>
+    <div class="tools">
+      <label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><input id="q" type="search" placeholder="Find a topic" aria-label="Find a topic" autocomplete="off"></label>
+      <span role="group" aria-label="Show" style="display:flex;gap:6px;flex-wrap:wrap">
+        ${[['all','All'],['animal','Animals'],['plant','Plants'],['hidden','Hidden only']].map(([k,l]) => `<button class="chip" data-f="${k}" aria-pressed="${filter===k}">${l}</button>`).join('')}
+      </span>
+      <button class="btn" id="showAll">Show all</button>
+      <button class="btn" id="hideAll">Hide all</button>
+    </div>
+    <div class="summary"><span><b id="shownCount">–</b> of ${TOPICS.length} topics are showing</span><span class="who" id="lastChange"></span><span class="status" id="status" role="status" aria-live="polite"></span></div>
+    <div class="list" id="list"></div>
+    <p class="note">Students may need to reload the Lynx Library page to see a change.</p>`;
+  const q = document.getElementById('q');
+  q.oninput = () => { query = q.value.trim().toLowerCase(); drawList(); };
+  app.querySelectorAll('.chip').forEach(c => c.onclick = () => {
+    filter = c.dataset.f; app.querySelectorAll('.chip').forEach(x => x.setAttribute('aria-pressed', x === c)); drawList();
+  });
+  document.getElementById('showAll').onclick = () => save([...hidden], true);
+  document.getElementById('hideAll').onclick = () => save(TOPICS.map(t => t.slug).filter(s => !hidden.has(s)), false);
+}
+
+function drawList(){
+  const list = document.getElementById('list'); if (!list) return;
+  document.getElementById('shownCount').textContent = TOPICS.filter(t => !hidden.has(t.slug)).length;
+  const items = TOPICS.filter(t =>
+    (filter === 'all' || (filter === 'hidden' ? hidden.has(t.slug) : t.kind === filter)) &&
+    (!query || t.name.toLowerCase().includes(query)));
+  list.innerHTML = items.length ? items.map(t => {
+    const on = !hidden.has(t.slug);
+    return `<label class="row${on ? '' : ' off'}">
+      <input type="checkbox" id="cb-${t.slug}" data-slug="${t.slug}" ${on ? 'checked' : ''}>
+      <img src="images/${esc(t.photos[0]?.file)}" alt="">
+      <span><span class="nm">${esc(t.name)}</span><span class="st">${on ? 'Showing' : 'Hidden'}</span></span>
+    </label>`;
+  }).join('') : '<p class="who">No topics match.</p>';
+  list.querySelectorAll('input').forEach(cb => cb.onchange = () => save([cb.dataset.slug], cb.checked));
+}
+
+let statusTimer;
+function setStatus(text, kind){
+  const el = document.getElementById('status'); if (!el) return;
+  el.textContent = text; el.className = 'status ' + (kind || '');
+  clearTimeout(statusTimer);
+  if (kind === 'ok') statusTimer = setTimeout(() => { el.textContent = ''; }, 2500);
+}
+async function save(slugs, show){
+  if (!slugs.length) return;
+  setStatus('Saving…');
+  try {
+    applySettings(await api('/api/settings', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ slugs, show }) }));
+    setStatus('Saved', 'ok');
+  } catch (e) {
+    if (e.message === 'locked') return;
+    setStatus('Not saved. Check the internet connection and try again.', 'err');
+    drawList();
+  }
+}
+
+if (!API) app.innerHTML = '<div class="card signin"><h1>Not set up yet</h1><p>Teacher settings are not connected.</p></div>';
+else if (token) open().catch(() => lock());
+else lock();
 </script>
 </body>
 </html>
