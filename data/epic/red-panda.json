@@ -1,0 +1,35 @@
+{
+  "slug": "red-panda",
+  "books": [
+    {
+      "title": "Red Pandas: Animal Safari",
+      "author": "Megan Borgert-Spaniol",
+      "url": "https://www.getepic.com/book/13903056/red-pandas-animal-safari",
+      "lexile": "380L",
+      "age": 7,
+      "publisher": "Bellwether Media",
+      "about": "Learn how red pandas live, find food, and raise babies.",
+      "cite": "Borgert-Spaniol, Megan. Red Pandas: Animal Safari. Bellwether Media."
+    },
+    {
+      "title": "National Geographic Readers: Red Pandas",
+      "author": "Laura Marsh",
+      "url": "https://www.getepic.com/book/48202959/national-geographic-readers-red-pandas",
+      "lexile": "500L",
+      "age": 6,
+      "publisher": "National Geographic",
+      "about": "Photos show how shy red pandas live in the wild.",
+      "cite": "Marsh, Laura. Red Pandas. National Geographic."
+    },
+    {
+      "title": "Animals of the Mountains: Red Pandas",
+      "author": "Kaitlyn Duling",
+      "url": "https://www.getepic.com/book/83128355/animals-of-the-mountains-red-pandas",
+      "lexile": "500L",
+      "age": 7,
+      "publisher": "Blastoff! Readers",
+      "about": "See how red pandas live in the mountains of Asia.",
+      "cite": "Duling, Kaitlyn. Red Pandas. Blastoff! Readers."
+    }
+  ]
+}

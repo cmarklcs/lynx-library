@@ -1,0 +1,135 @@
+{
+  "slug": "hammerhead-shark",
+  "name": "Hammerhead Shark",
+  "kind": "animal",
+  "group": "Fish",
+  "habitat": "Ocean",
+  "intro": "A hammerhead shark is a fish with a head shaped like a hammer. It swims in warm oceans.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A hammerhead has a wide, flat head.",
+        "Its head looks like a hammer.",
+        "It has one eye at each end of its head.",
+        "Its back is gray or brown, and its belly is white.",
+        "The biggest kind can grow longer than a car."
+      ],
+      "from": [0, 1, 2]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Hammerheads live in warm oceans all over the world.",
+        "Many swim near the coast.",
+        "They like reefs, islands, and lagoons.",
+        "Some swim together in big groups called schools.",
+        "In summer, some swim far to find cooler water."
+      ],
+      "from": [0, 1, 2]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "A hammerhead's favorite food is stingrays.",
+        "It uses its wide head to hold a stingray down.",
+        "It also eats fish, crabs, and squid.",
+        "Its head can feel tiny signals from hidden animals.",
+        "Some hammerheads hunt alone at night."
+      ],
+      "from": [0, 1, 2]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby hammerhead is called a pup.",
+        "Pups are born alive. They do not hatch from eggs.",
+        "A mom can have many pups at one time.",
+        "A new pup has a rounder head than its mom.",
+        "A hammerhead can live 20 to 30 years."
+      ],
+      "from": [0, 1, 2]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "There are 9 kinds of hammerhead sharks.",
+        "The hammer head has a special name: cephalofoil.",
+        "Its wide-set eyes can see above and below it.",
+        "The smallest kind is about as long as a yardstick.",
+        "Hammerheads are not a big danger to people."
+      ],
+      "from": [0, 1, 2]
+    }
+  ],
+  "vocab": [
+    {"word": "Pup", "meaning": "A baby shark."},
+    {"word": "School", "meaning": "A big group of fish that swim together."},
+    {"word": "Stingray", "meaning": "A flat fish with a long, thin tail."},
+    {"word": "Cephalofoil", "meaning": "The wide, flat head of a hammerhead shark."}
+  ],
+  "photos": [
+    {
+      "file": "hammerhead-shark-1.jpg",
+      "alt": "A scalloped hammerhead shark swimming with its wide head turned toward the camera",
+      "credit": "Barry Peters",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Scalloped_hammerhead_cocos.jpg"
+    },
+    {
+      "file": "hammerhead-shark-2.jpg",
+      "alt": "A school of hammerhead sharks swimming together in blue water",
+      "credit": "RYO SATO",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Scalloped_hammerhead_school_izu.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Kids React to Hammerhead Sharks! | Nat Geo Kids",
+      "url": "https://www.youtube.com/watch?v=ujCpX9x79aQ",
+      "channel": "Nat Geo Kids",
+      "about": "Kids watch hammerhead sharks and share what they notice.",
+      "cite": "\"Kids React to Hammerhead Sharks! | Nat Geo Kids.\" Nat Geo Kids. 2026."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hammerhead Shark",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/fish/facts/hammerhead-shark",
+      "level": "Easy",
+      "about": "Facts and photos about the hammerhead's head, food, and pups.",
+      "cite": "\"Hammerhead Shark.\" National Geographic Kids."
+    },
+    {
+      "title": "Hammerhead shark Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Hammerhead_shark",
+      "level": "Read together",
+      "about": "Facts about where hammerheads live, what they eat, and their babies.",
+      "cite": "\"Hammerhead shark Facts for Kids.\" Kiddle."
+    },
+    {
+      "title": "Great Hammerhead Shark",
+      "site": "Georgia Aquarium",
+      "url": "https://www.georgiaaquarium.org/animal/great-hammerhead-shark/",
+      "level": "Read together",
+      "about": "Aquarium experts tell about the biggest kind of hammerhead.",
+      "cite": "\"Great Hammerhead Shark.\" Georgia Aquarium."
+    },
+    {
+      "title": "hammerhead shark",
+      "site": "Britannica Kids",
+      "url": "https://kids.britannica.com/kids/article/hammerhead-shark/639024",
+      "level": "Read together",
+      "about": "A kids encyclopedia page about hammerhead sharks.",
+      "cite": "\"hammerhead shark.\" Britannica Kids."
+    }
+  ]
+}

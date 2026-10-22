@@ -1,0 +1,34 @@
+{
+  "slug": "horse",
+  "books": [
+    {
+      "title": "Horses",
+      "author": "Quinn A. Arnold",
+      "url": "https://www.getepic.com/book/43835618/horses",
+      "lexile": "350L",
+      "age": 6,
+      "publisher": "The Creative Company",
+      "about": "Learn how horses grow and what their manes and tails are like.",
+      "cite": "Arnold, Quinn A. Horses. The Creative Company."
+    },
+    {
+      "title": "Horses",
+      "author": "Emily K. Green",
+      "url": "https://www.getepic.com/book/39853794/horses",
+      "lexile": "240L",
+      "age": 6,
+      "publisher": "Bellwether Media",
+      "about": "Learn about horses and the work they do on farms.",
+      "cite": "Green, Emily K. Horses. Bellwether Media."
+    },
+    {
+      "title": "Discover Horses",
+      "author": "Katrina Streza",
+      "url": "https://www.getepic.com/book/53098025/discover-horses",
+      "age": 5,
+      "publisher": "Xist Publishing",
+      "about": "Short sentences and photos show many kinds of horses.",
+      "cite": "Streza, Katrina. Discover Horses. Xist Publishing."
+    }
+  ]
+}

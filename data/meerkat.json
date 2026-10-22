@@ -1,0 +1,174 @@
+{
+  "slug": "meerkat",
+  "name": "Meerkat",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Desert",
+  "intro": "A meerkat is a small, furry animal. It lives in big family groups in Africa.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A meerkat is about as big as a squirrel.",
+        "It has tan and brown fur with stripes.",
+        "It has dark patches around its eyes.",
+        "It has a small, pointed face.",
+        "It has long claws for digging."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Meerkats live in southern Africa.",
+        "They live in dry, sandy places like the Kalahari Desert.",
+        "They live in burrows under the ground.",
+        "A burrow has many tunnels and rooms.",
+        "The burrow keeps them cool and safe."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Meerkats eat mostly bugs.",
+        "They also eat spiders, lizards, and eggs.",
+        "They sniff with their noses to find food.",
+        "They dig fast to catch bugs in the dirt.",
+        "They can eat scorpions without getting hurt."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby meerkat is called a pup.",
+        "Pups are born with their eyes shut.",
+        "Their eyes open when they are 2 weeks old.",
+        "Other meerkats in the group babysit the pups.",
+        "Grown-ups teach the pups what to eat."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A group of meerkats is called a mob.",
+        "One meerkat stands up tall to watch for danger.",
+        "The guard barks or whistles to warn the others.",
+        "Meerkats can close their ears when they dig.",
+        "Meerkats lie in the sun to get warm."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Burrow",
+      "meaning": "A hole with tunnels in the ground where animals live."
+    },
+    {
+      "word": "Mob",
+      "meaning": "A group of meerkats that live together."
+    },
+    {
+      "word": "Pup",
+      "meaning": "A baby meerkat."
+    },
+    {
+      "word": "Desert",
+      "meaning": "A dry place that gets very little rain."
+    },
+    {
+      "word": "Guard",
+      "meaning": "An animal that watches for danger."
+    }
+  ],
+  "photos": [
+    {
+      "file": "meerkat-1.jpg",
+      "alt": "Three meerkats sitting up on red sand",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta)_Tswalu.jpg"
+    },
+    {
+      "file": "meerkat-2.jpg",
+      "alt": "A meerkat standing tall next to three young meerkats",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta)_with_3_young.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "How To Speak Meerkat | Meerkats - The Secrets of an Animal Superstar | BBC Earth Kids",
+      "url": "https://www.youtube.com/watch?v=8aVox3jgRxo",
+      "channel": "BBC Earth Kids",
+      "about": "This video shows how meerkats call to warn each other.",
+      "cite": "\"How To Speak Meerkat.\" BBC Earth Kids. 2020."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Meerkat",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/meerkat",
+      "level": "Easy",
+      "about": "Short facts about meerkat mobs, guards, and pups.",
+      "cite": "\"Meerkat.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Meerkat",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/meerkat",
+      "level": "Easy",
+      "about": "Facts about how meerkats work together in their burrows.",
+      "cite": "\"Meerkat.\" National Geographic Kids."
+    },
+    {
+      "title": "Meerkat",
+      "site": "San Diego Zoo Wildlife Alliance Animals and Plants",
+      "url": "https://animals.sandiegozoo.org/animals/meerkat",
+      "level": "Read together",
+      "about": "Zoo experts tell how meerkats dig, eat, and raise pups.",
+      "cite": "\"Meerkat.\" San Diego Zoo Wildlife Alliance Animals and Plants."
+    },
+    {
+      "title": "Meerkat",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/meerkat.php",
+      "level": "Read together",
+      "about": "Facts about where meerkats live and what they eat.",
+      "cite": "\"Meerkat.\" Ducksters."
+    }
+  ]
+}

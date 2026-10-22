@@ -1,0 +1,165 @@
+{
+  "slug": "tiger-beetle",
+  "name": "Tiger Beetle",
+  "kind": "animal",
+  "group": "Insect",
+  "habitat": "Sandy places",
+  "intro": "A tiger beetle is a small, fast insect. It hunts other bugs.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A tiger beetle is a small insect.",
+        "Some tiger beetles are shiny green, blue, or purple.",
+        "Some have little spots on their backs.",
+        "It has big eyes that bulge out.",
+        "It has long, thin legs and big, curved jaws."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Tiger beetles live all over the world.",
+        "Many live in sunny, sandy places.",
+        "They run on beaches and sand dunes.",
+        "Some live on paths in the forest.",
+        "Baby tiger beetles live in holes in the ground."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Tiger beetles are predators.",
+        "They eat other insects and spiders.",
+        "They run fast to catch their food.",
+        "Babies wait in their holes for bugs to walk by.",
+        "Then they grab the bug with their jaws."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A mother lays her eggs in the ground.",
+        "A baby tiger beetle is called a larva.",
+        "The larva digs a burrow and lives in it.",
+        "A hump on its back helps it stay in its hole.",
+        "Then it becomes a pupa, and then an adult."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Tiger beetles are some of the fastest insects.",
+        "They run so fast that they must stop to look again.",
+        "Tiger beetles can fly fast, too.",
+        "There are thousands of kinds of tiger beetles.",
+        "A burrow can be as deep as a baseball bat is long."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ],
+      "fromVideos": [
+        0
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Insect",
+      "meaning": "A small animal with six legs and three body parts."
+    },
+    {
+      "word": "Predator",
+      "meaning": "An animal that hunts other animals for food."
+    },
+    {
+      "word": "Larva",
+      "meaning": "A baby insect that looks like a worm."
+    },
+    {
+      "word": "Burrow",
+      "meaning": "A hole in the ground where an animal lives."
+    },
+    {
+      "word": "Pupa",
+      "meaning": "The resting time when a larva changes into an adult."
+    }
+  ],
+  "photos": [
+    {
+      "file": "tiger-beetle-1.jpg",
+      "alt": "A shiny green six-spotted tiger beetle on sandy ground",
+      "credit": "Ryan Hodnett",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Six-spotted_Tiger_Beetle_(Cicindela_sexguttata)_-_Mississauga,_Ontario_01.jpg"
+    },
+    {
+      "file": "tiger-beetle-2.jpg",
+      "alt": "A baby tiger beetle peeking out of its round burrow in mossy ground",
+      "credit": "Katja Schulz",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiger_Beetle_Larva_(28570495914).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Tiger Beetle is Incredibly Fast for its Size",
+      "url": "https://www.youtube.com/watch?v=xZIrY7VZaNA",
+      "channel": "Smithsonian Channel",
+      "about": "See how fast a tiger beetle can run.",
+      "cite": "\"The Tiger Beetle is Incredibly Fast for its Size.\" Smithsonian Channel. 2020."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Six-Spotted Green Tiger Beetle",
+      "site": "Indiana DNR Kids",
+      "url": "https://www.in.gov/dnr/kids/animals/insects/six-spotted-green-tiger-beetle/",
+      "level": "Easy",
+      "about": "Short facts about a shiny green tiger beetle and how it grows.",
+      "cite": "\"Six-Spotted Green Tiger Beetle.\" Indiana DNR Kids."
+    },
+    {
+      "title": "Tiger Beetle Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Tiger_beetle",
+      "level": "Read together",
+      "about": "Facts about tiger beetle eyes, legs, homes, and speed.",
+      "cite": "\"Tiger Beetle Facts for Kids.\" Kiddle."
+    },
+    {
+      "title": "Tiger Beetles - The Fastest on Six Legs",
+      "site": "Minibeast Wildlife",
+      "url": "https://www.minibeastwildlife.com.au/resources/tiger-beetles/",
+      "level": "Read together",
+      "about": "Bug experts tell how tiger beetles run, hunt, and dig.",
+      "cite": "\"Tiger Beetles - The Fastest on Six Legs.\" Minibeast Wildlife."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "axolotl",
+  "books": [
+    {
+      "title": "Axolotl",
+      "author": "Dawn Bluemel Oldfield",
+      "url": "https://www.getepic.com/book/53997935/axolotl",
+      "lexile": "540L",
+      "age": 6,
+      "publisher": "Bearport Publishing",
+      "about": "Learn what axolotls eat and why they have feathery gills.",
+      "cite": "Oldfield, Dawn Bluemel. Axolotl. Bearport Publishing."
+    },
+    {
+      "title": "Animals at Risk: Axolotls",
+      "author": "Rachel Grack",
+      "url": "https://www.getepic.com/book/91881924/animals-at-risk-axolotls",
+      "lexile": "470L",
+      "age": 6,
+      "publisher": "Blastoff! Readers an imprint of Bellwether",
+      "about": "Learn about axolotls and how people are helping to save them.",
+      "cite": "Grack, Rachel. Animals at Risk: Axolotls. Blastoff! Readers."
+    }
+  ]
+}

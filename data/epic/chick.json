@@ -1,0 +1,35 @@
+{
+  "slug": "chick",
+  "books": [
+    {
+      "title": "Chicks",
+      "author": "Tim Mayerling",
+      "url": "https://www.getepic.com/book/57824219/chicks",
+      "lexile": "200L",
+      "age": 6,
+      "publisher": "JUMP",
+      "about": "Meet a newborn chick and see what it does.",
+      "cite": "Mayerling, Tim. Chicks. JUMP."
+    },
+    {
+      "title": "Chickens and Chicks",
+      "author": "Emilia Hendrix",
+      "url": "https://www.getepic.com/book/60330635/chickens-and-chicks",
+      "lexile": "230L",
+      "age": 6,
+      "publisher": "Gareth Stevens",
+      "about": "Learn how grown-up chickens take care of their chicks.",
+      "cite": "Hendrix, Emilia. Chickens and Chicks. Gareth Stevens."
+    },
+    {
+      "title": "Life Cycle of a Chicken",
+      "author": "Karen Latchana Kenney",
+      "url": "https://www.getepic.com/book/63993602/life-cycle-of-a-chicken",
+      "lexile": "480L",
+      "age": 6,
+      "publisher": "Pogo Books",
+      "about": "See how an egg becomes a chick and then a chicken.",
+      "cite": "Kenney, Karen Latchana. Life Cycle of a Chicken. Pogo Books."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "meerkat",
+  "books": [
+    {
+      "title": "National Geographic Readers: Meerkats",
+      "author": "Laura Marsh",
+      "url": "https://www.getepic.com/book/48627361/national-geographic-readers-meerkats",
+      "lexile": "450L",
+      "age": 6,
+      "publisher": "National Geographic",
+      "about": "See how each meerkat in the group has a job.",
+      "cite": "Marsh, Laura. Meerkats. National Geographic."
+    },
+    {
+      "title": "My First Animal Library: Meerkats",
+      "author": "Penelope S. Nelson",
+      "url": "https://www.getepic.com/book/75781312/my-first-animal-library-meerkats",
+      "lexile": "370L",
+      "age": 6,
+      "publisher": "Bullfrog Books",
+      "about": "Meerkats work together to find food and stay safe.",
+      "cite": "Nelson, Penelope S. Meerkats. Bullfrog Books."
+    },
+    {
+      "title": "I See Animals: Meerkat",
+      "author": "August Hoeft",
+      "url": "https://www.getepic.com/book/81282984/i-see-animals-meerkat",
+      "lexile": "40L",
+      "age": 5,
+      "publisher": "Xist Publishing",
+      "about": "A very easy book with big photos of a meerkat.",
+      "cite": "Hoeft, August. I See Animals: Meerkat. Xist Publishing."
+    }
+  ]
+}

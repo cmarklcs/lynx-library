@@ -1,0 +1,179 @@
+{
+  "slug": "axolotl",
+  "name": "Axolotl",
+  "kind": "animal",
+  "group": "Amphibian",
+  "habitat": "Lakes",
+  "intro": "An axolotl is a salamander that lives in water. It lives in lakes near Mexico City.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "An axolotl has frilly gills on its head.",
+        "Its mouth looks like it is smiling.",
+        "Most wild axolotls are brown or dark gray.",
+        "Some axolotls are pink and white.",
+        "It can grow about as long as a ruler."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Wild axolotls live only in Mexico.",
+        "They live in lakes and canals near Mexico City.",
+        "They stay in the water their whole lives.",
+        "Very few axolotls are left in the wild.",
+        "People are cleaning the canals to help them."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "fromVideos": [
+        0
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Axolotls eat worms and insects.",
+        "They also eat tadpoles and small fish.",
+        "They hunt for food at night.",
+        "They suck food into their mouths.",
+        "They swallow tiny stones to help mash their food."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A mother axolotl lays hundreds of eggs.",
+        "She sticks the eggs on plants or rocks.",
+        "The eggs hatch in about two weeks.",
+        "Unlike a frog, it keeps its gills when it grows up.",
+        "An axolotl can live 10 to 15 years."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "An axolotl can grow back a lost leg.",
+        "It can breathe through its skin.",
+        "It can make its skin lighter or darker to hide.",
+        "Its name comes from the name of an Aztec god.",
+        "Pet axolotls are raised by people, not taken from lakes."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Amphibian",
+      "meaning": "An animal that can live in water and breathe air, like a frog."
+    },
+    {
+      "word": "Salamander",
+      "meaning": "An amphibian with a long tail that looks like a lizard."
+    },
+    {
+      "word": "Gills",
+      "meaning": "Body parts that help an animal breathe under water."
+    },
+    {
+      "word": "Endangered",
+      "meaning": "When very few of an animal are left."
+    },
+    {
+      "word": "Canal",
+      "meaning": "A long, narrow waterway made by people."
+    }
+  ],
+  "photos": [
+    {
+      "file": "axolotl-1.jpg",
+      "alt": "A brown wild-colored axolotl with frilly gills walking on sand",
+      "credit": "LoKiLeCh",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Axolotl_ganz.jpg"
+    },
+    {
+      "file": "axolotl-2.jpg",
+      "alt": "A close-up of a pink and white axolotl with pink gills",
+      "credit": "Ruben Undheim",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_(6337857516).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "A Lot About Axolotls! | SciShow Kids",
+      "url": "https://www.youtube.com/watch?v=i0PHHLgpdNs",
+      "channel": "SciShow Kids",
+      "about": "Learn why axolotls have feathery gills and how we can help them.",
+      "cite": "\"A Lot About Axolotls!\" SciShow Kids. 2023."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Axolotl",
+      "site": "San Diego Zoo Wildlife Explorers",
+      "url": "https://sdzwildlifeexplorers.org/animals/axolotl",
+      "level": "Easy",
+      "about": "Short facts about where axolotls live and how they regrow legs.",
+      "cite": "\"Axolotl.\" San Diego Zoo Wildlife Explorers."
+    },
+    {
+      "title": "Axolotl",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/amphibians/facts/axolotl",
+      "level": "Easy",
+      "about": "Facts and photos about axolotls and their lake home.",
+      "cite": "\"Axolotl.\" National Geographic Kids."
+    },
+    {
+      "title": "Axolotl",
+      "site": "San Diego Zoo Wildlife Alliance Animals and Plants",
+      "url": "https://animals.sandiegozoo.org/animals/axolotl",
+      "level": "Read together",
+      "about": "Zoo experts tell how axolotls eat, grow, and how people help them.",
+      "cite": "\"Axolotl.\" San Diego Zoo Wildlife Alliance Animals and Plants."
+    },
+    {
+      "title": "Axolotl Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Axolotl",
+      "level": "Read together",
+      "about": "Facts about axolotl colors, eggs, and the lake where they live.",
+      "cite": "\"Axolotl Facts for Kids.\" Kiddle."
+    }
+  ]
+}

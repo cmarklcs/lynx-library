@@ -1,0 +1,35 @@
+{
+  "slug": "hammerhead-shark",
+  "books": [
+    {
+      "title": "Hammerhead Sharks",
+      "author": "David Dexter",
+      "url": "https://www.getepic.com/book/66384474/hammerhead-sharks",
+      "lexile": "230L",
+      "age": 6,
+      "publisher": "Gray Duck",
+      "about": "Swim along with hammerhead sharks as they look for stingrays.",
+      "cite": "Dexter, David. Hammerhead Sharks. Gray Duck."
+    },
+    {
+      "title": "Shark Bites: Hammerhead Shark",
+      "author": "Jenna Lee Gleisner",
+      "url": "https://www.getepic.com/book/75847972/shark-bites-hammerhead-shark",
+      "lexile": "430L",
+      "age": 6,
+      "publisher": "Bullfrog Books",
+      "about": "Follow a hammerhead shark as it finds food and joins a big school.",
+      "cite": "Gleisner, Jenna Lee. Hammerhead Shark. Bullfrog Books."
+    },
+    {
+      "title": "Hammerhead Sharks",
+      "author": "Nico Barnes",
+      "url": "https://www.getepic.com/book/13603086/hammerhead-sharks",
+      "lexile": "480L",
+      "age": 6,
+      "publisher": "ABDO Publishing",
+      "about": "Meet hammerhead sharks and learn all about them.",
+      "cite": "Barnes, Nico. Hammerhead Sharks. ABDO Publishing."
+    }
+  ]
+}

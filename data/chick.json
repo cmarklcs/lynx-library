@@ -1,0 +1,136 @@
+{
+  "slug": "chick",
+  "name": "Chick",
+  "kind": "animal",
+  "group": "Bird",
+  "habitat": "Farm",
+  "intro": "A chick is a baby chicken. It hatches out of an egg.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A chick is a small baby bird.",
+        "It is covered in soft, fluffy down.",
+        "A new chick is wet when it hatches.",
+        "Its down dries in the warm nest.",
+        "In a few weeks, it grows longer feathers."
+      ],
+      "from": [0, 1]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Many chicks live on farms.",
+        "A mother hen keeps her chicks warm.",
+        "She keeps them warm most at night.",
+        "New chicks can not stay warm by themselves.",
+        "People keep chicks in a warm box called a brooder."
+      ],
+      "from": [0, 1, 3]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Inside the egg, the chick eats the yellow yolk.",
+        "After it hatches, the yolk feeds it for about two days.",
+        "The hen leads her chicks to food and water.",
+        "Chicks need clean water all the time.",
+        "Chickens eat seeds and bugs."
+      ],
+      "from": [0, 1, 3]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A chick grows inside a warm egg.",
+        "It takes 21 days for a chick to hatch.",
+        "It pecks out with a tiny egg tooth on its beak.",
+        "A girl chick grows up to be a hen.",
+        "A boy chick grows up to be a rooster."
+      ],
+      "from": [0, 1, 2]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "A chick grows its fluffy down inside the egg.",
+        "A hen can hear her chicks peep inside their eggs.",
+        "She clucks softly to help them hatch.",
+        "A chick rests for a few hours while it hatches.",
+        "Chicks in one nest hatch a day or two apart."
+      ],
+      "from": [0, 2]
+    }
+  ],
+  "vocab": [
+    {"word": "Hatch", "meaning": "To break out of an egg."},
+    {"word": "Down", "meaning": "Small, soft feathers on a baby bird."},
+    {"word": "Yolk", "meaning": "The yellow part of an egg. It is food for a growing chick."},
+    {"word": "Egg tooth", "meaning": "A tiny bump on a chick's beak that helps it break the shell."},
+    {"word": "Brooder", "meaning": "A warm box where people keep baby chicks."}
+  ],
+  "photos": [
+    {
+      "file": "chick-1.jpg",
+      "alt": "Two fluffy yellow chicks standing on a table",
+      "credit": "Rektz",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yellow_chicks_on_a_table.jpg"
+    },
+    {
+      "file": "chick-2.jpg",
+      "alt": "A mother hen standing in straw with her little chicks",
+      "credit": "Fir0002",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mother_hen_with_chicks_(1).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Hatching Eggs - Chicks / Chickens - Time lapse Video",
+      "url": "https://www.youtube.com/watch?v=1mGgj-F8pvc",
+      "channel": "Organic Productions",
+      "about": "Watch real chicks break out of their eggs and dry off.",
+      "cite": "\"Hatching Eggs - Chicks / Chickens - Time lapse Video.\" Organic Productions. 2020."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Chicken Facts for Kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Chicken",
+      "level": "Read together",
+      "about": "Facts about how chicks hatch and how the hen cares for them.",
+      "cite": "\"Chicken Facts for Kids.\" Kiddle."
+    },
+    {
+      "title": "Life Cycle of a Chicken",
+      "site": "Iowa Agriculture Literacy Foundation",
+      "url": "https://www.iowaagliteracy.org/Article/Life-Cycle-of-a-Chicken",
+      "level": "Easy",
+      "about": "Short facts about the egg, the chick, and the grown-up chicken.",
+      "cite": "\"Life Cycle of a Chicken.\" Iowa Agriculture Literacy Foundation. 2019."
+    },
+    {
+      "title": "Chicken Embryo Development",
+      "site": "Alabama Cooperative Extension System",
+      "url": "https://www.aces.edu/blog/topics/poultry/chicken-embryo-development/",
+      "level": "Read together",
+      "about": "Photos show how a chick grows inside the egg each day.",
+      "cite": "\"Chicken Embryo Development.\" Alabama Cooperative Extension System. 2019."
+    },
+    {
+      "title": "Brooding and Caring for Chicks",
+      "site": "UNH Extension",
+      "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "level": "Read together",
+      "about": "How people keep new chicks warm, fed, and safe.",
+      "cite": "\"Brooding and Caring for Chicks.\" UNH Extension."
+    }
+  ]
+}

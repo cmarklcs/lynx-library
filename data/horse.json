@@ -1,0 +1,169 @@
+{
+  "slug": "horse",
+  "name": "Horse",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Farm",
+  "intro": "A horse is a big, strong animal. People ride horses and take care of them.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A horse is a big animal with four long legs.",
+        "It has long hair on its neck called a mane.",
+        "It has a long, swishy tail.",
+        "Its feet are hard hooves.",
+        "Horses can be brown, black, gray, red, or spotted."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Many horses live with people.",
+        "People keep horses on farms and use them for work.",
+        "Some horses live in the wild.",
+        "Horses live together in groups called herds.",
+        "One horse keeps watch while the others rest."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Horses eat only plants.",
+        "They eat grass and hay.",
+        "They also like apples and carrots.",
+        "Horses nibble food all day long.",
+        "They drink lots of water every day."
+      ],
+      "from": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby horse is called a foal.",
+        "A mother horse is called a mare.",
+        "A mare usually has one foal at a time.",
+        "A foal can stand and run soon after it is born.",
+        "A foal drinks milk from its mom."
+      ],
+      "from": [
+        0,
+        2
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Horses can sleep standing up.",
+        "Horses can see almost all the way around.",
+        "Horses breathe only through their nose.",
+        "Horses can turn their ears to hear sounds.",
+        "A pony is a small kind of horse."
+      ],
+      "from": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Mane",
+      "meaning": "The long hair on a horse's neck."
+    },
+    {
+      "word": "Hoof",
+      "meaning": "The hard part of a horse's foot."
+    },
+    {
+      "word": "Foal",
+      "meaning": "A baby horse."
+    },
+    {
+      "word": "Mare",
+      "meaning": "A mother horse."
+    },
+    {
+      "word": "Herd",
+      "meaning": "A group of animals that live together."
+    }
+  ],
+  "photos": [
+    {
+      "file": "horse-1.jpg",
+      "alt": "Two gray horses standing in a grassy field",
+      "credit": "François Marchal (cropped by Dana boomer)",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nokota_Horses_cropped.jpg"
+    },
+    {
+      "file": "horse-2.jpg",
+      "alt": "A mother pony and her foal in a grassy field",
+      "credit": "OleNeitzel",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:New_Forest_pony_%E2%80%93_mare_and_nursing_foal.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Horse Facts for Kids",
+      "url": "https://www.youtube.com/watch?v=Hxm56tAENx0",
+      "channel": "Homeschool Pop",
+      "about": "This video tells what horses eat and how they live.",
+      "cite": "\"Horse Facts for Kids.\" Homeschool Pop. 2018."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Horse facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Horse",
+      "level": "Read together",
+      "about": "Lots of facts about how horses look, eat, and grow.",
+      "cite": "\"Horse facts for kids.\" Kiddle."
+    },
+    {
+      "title": "Horse",
+      "site": "Ducksters",
+      "url": "https://www.ducksters.com/animals/horse.php",
+      "level": "Read together",
+      "about": "Facts about horse colors, food, and names for horses.",
+      "cite": "\"Horse.\" Ducksters."
+    },
+    {
+      "title": "10 fun facts about horses",
+      "site": "BC SPCA",
+      "url": "https://spca.bc.ca/article/fun-facts-about-horses/",
+      "level": "Read together",
+      "about": "Fun facts about how horses sleep, see, and hear.",
+      "cite": "\"10 fun facts about horses.\" BC SPCA."
+    },
+    {
+      "title": "Fun Horse Facts for Kids",
+      "site": "Science Kids",
+      "url": "https://www.sciencekids.co.nz/sciencefacts/animals/horse.html",
+      "level": "Easy",
+      "about": "A short list of fun horse facts.",
+      "cite": "\"Fun Horse Facts for Kids.\" Science Kids."
+    }
+  ]
+}

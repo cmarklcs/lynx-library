@@ -1,0 +1,166 @@
+{
+  "slug": "red-panda",
+  "name": "Red Panda",
+  "kind": "animal",
+  "group": "Mammal",
+  "habitat": "Forest",
+  "intro": "A red panda is a furry red animal that lives in trees. It lives in the mountains of Asia.",
+  "sections": [
+    {
+      "key": "looks",
+      "title": "What does it look like?",
+      "sentences": [
+        "A red panda has red-brown fur.",
+        "Its face is white with red marks.",
+        "It has big, pointed ears.",
+        "Its legs and belly are black.",
+        "Its bushy tail has rings and is almost as long as its body."
+      ],
+      "from": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "key": "home",
+      "title": "Where does it live?",
+      "sentences": [
+        "Red pandas live in the mountains of Asia.",
+        "They live in cool forests with lots of bamboo.",
+        "They spend most of their time in trees.",
+        "They sleep high up on tree branches.",
+        "Their red fur blends in with red moss on the trees."
+      ],
+      "from": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "key": "food",
+      "title": "What does it eat?",
+      "sentences": [
+        "Red pandas eat mostly bamboo leaves.",
+        "They also eat fruit, acorns, and flowers.",
+        "Sometimes they eat eggs or small birds.",
+        "They nibble one leaf at a time.",
+        "A special wrist bone helps them hold bamboo."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "life",
+      "title": "How does it grow?",
+      "sentences": [
+        "A baby red panda is called a cub.",
+        "The mom makes a cozy den in a hollow tree.",
+        "A new cub has gray fur and closed eyes.",
+        "Its fur turns red as it grows.",
+        "Cubs leave the den at about 3 months old."
+      ],
+      "from": [
+        1
+      ]
+    },
+    {
+      "key": "fun",
+      "title": "Fun facts",
+      "sentences": [
+        "Red pandas wrap their tails around them to stay warm.",
+        "They climb down trees headfirst.",
+        "They lick themselves clean, like cats do.",
+        "Red pandas are not close cousins of giant pandas.",
+        "One Chinese name for the red panda means fire fox."
+      ],
+      "from": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Bamboo",
+      "meaning": "A tall plant with long green leaves."
+    },
+    {
+      "word": "Cub",
+      "meaning": "A baby red panda."
+    },
+    {
+      "word": "Den",
+      "meaning": "A safe home where an animal mom keeps her babies."
+    },
+    {
+      "word": "Mammal",
+      "meaning": "An animal with fur that feeds its babies milk."
+    }
+  ],
+  "photos": [
+    {
+      "file": "red-panda-1.jpg",
+      "alt": "A red panda standing on a tree branch",
+      "credit": "Mathias Appel",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_Panda_(24986761703).jpg"
+    },
+    {
+      "file": "red-panda-2.jpg",
+      "alt": "A red panda eating bamboo leaves",
+      "credit": "Tatters ✾",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_panda_eating_bamboo_leaves_(3638691640).jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Red Panda Snow Day at Smithsonian's National Zoo",
+      "url": "https://www.youtube.com/watch?v=YShUUMUdjyQ",
+      "channel": "Smithsonian's National Zoo",
+      "about": "Red pandas at the zoo play and look for treats in the snow.",
+      "cite": "\"Red Panda Snow Day at Smithsonian's National Zoo.\" Smithsonian's National Zoo. 2021."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Red Panda",
+      "site": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/red-panda",
+      "level": "Easy",
+      "about": "Facts about how red pandas climb and live in trees.",
+      "cite": "\"Red Panda.\" National Geographic Kids."
+    },
+    {
+      "title": "Red Panda",
+      "site": "San Diego Zoo Wildlife Alliance Animals and Plants",
+      "url": "https://animals.sandiegozoo.org/animals/red-panda",
+      "level": "Read together",
+      "about": "Zoo experts tell how red pandas eat, sleep, and raise cubs.",
+      "cite": "\"Red Panda.\" San Diego Zoo Wildlife Alliance Animals and Plants."
+    },
+    {
+      "title": "Red panda",
+      "site": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://nationalzoo.si.edu/animals/red-panda",
+      "level": "Read together",
+      "about": "Facts about the red panda's fur, face, and tail.",
+      "cite": "\"Red panda.\" Smithsonian's National Zoo and Conservation Biology Institute."
+    },
+    {
+      "title": "Red panda facts for kids",
+      "site": "Kiddle",
+      "url": "https://kids.kiddle.co/Red_panda",
+      "level": "Read together",
+      "about": "Facts about where red pandas live and how they sleep.",
+      "cite": "\"Red panda facts for kids.\" Kiddle."
+    }
+  ]
+}
